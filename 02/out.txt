@@ -1,0 +1,202 @@
+1: 7 blue, 6 green, 3 red; 3 red, 5 green, 1 blue; 1 red, 5 green, 8 blue; 3 red, 1 green, 5 blue
+{'red': 3, 'green': 6, 'blue': 8} 144
+2: 9 green, 1 blue, 12 red; 1 blue, 18 green, 8 red; 2 blue, 6 green, 13 red; 3 blue, 13 red, 7 green; 5 blue, 4 red, 4 green; 6 blue, 7 green, 4 red
+{'red': 13, 'green': 18, 'blue': 6} 1404
+3: 5 blue, 9 red, 14 green; 10 green, 3 blue; 11 red, 2 blue, 8 green; 5 red, 2 blue; 5 blue, 7 green, 8 red
+{'red': 11, 'green': 14, 'blue': 5} 770
+4: 2 red, 3 blue, 2 green; 17 green, 6 blue, 1 red; 3 blue, 5 green, 1 red; 4 red, 1 blue, 16 green; 5 red, 4 blue, 13 green; 14 green, 5 blue, 6 red
+{'red': 6, 'green': 17, 'blue': 6} 612
+5: 3 red, 17 green, 10 blue; 9 blue, 5 green; 14 green, 9 blue, 11 red
+{'red': 11, 'green': 17, 'blue': 10} 1870
+6: 4 green, 18 blue, 3 red; 6 green, 8 blue, 9 red; 4 green, 9 blue, 7 red; 9 red, 1 green, 12 blue
+{'red': 9, 'green': 6, 'blue': 18} 972
+7: 1 blue, 14 green; 1 red, 4 blue, 15 green; 3 blue, 6 green; 3 blue, 2 green, 1 red; 1 red, 3 green, 1 blue
+{'red': 1, 'green': 15, 'blue': 4} 60
+8: 10 red, 3 blue, 3 green; 5 blue, 7 red, 3 green; 3 red, 3 green, 11 blue; 1 red, 7 green, 10 blue; 13 blue, 5 green, 5 red; 1 green, 17 blue, 3 red
+{'red': 10, 'green': 7, 'blue': 17} 1190
+9: 1 blue, 6 green; 7 green, 2 red; 3 red, 2 green; 1 blue, 4 red, 3 green; 7 green, 1 blue, 1 red
+{'red': 4, 'green': 7, 'blue': 1} 28
+10: 14 green, 6 blue, 1 red; 8 green, 5 red, 1 blue; 8 green, 5 blue, 5 red; 2 green, 3 blue, 5 red
+{'red': 5, 'green': 14, 'blue': 6} 420
+11: 1 blue, 2 green; 1 blue, 1 green, 7 red; 1 blue, 4 green, 7 red; 2 red, 2 green, 1 blue
+{'red': 7, 'green': 4, 'blue': 1} 28
+12: 5 blue, 12 green, 12 red; 11 green, 3 red; 14 green, 3 blue, 18 red
+{'red': 18, 'green': 14, 'blue': 5} 1260
+13: 2 green, 6 red; 6 red, 5 blue; 7 red, 3 blue, 8 green; 7 red, 8 green; 3 blue, 2 green, 3 red; 1 blue, 8 red, 6 green
+{'red': 8, 'green': 8, 'blue': 5} 320
+14: 18 green, 6 blue, 5 red; 5 blue, 15 red, 19 green; 7 green, 11 blue, 20 red; 5 red, 18 green, 7 blue
+{'red': 20, 'green': 19, 'blue': 11} 4180
+15: 3 red, 16 green, 1 blue; 11 green, 6 red, 1 blue; 12 green, 2 red; 17 green, 1 blue, 14 red
+{'red': 14, 'green': 17, 'blue': 1} 238
+16: 3 red, 2 green, 5 blue; 1 green, 6 blue, 1 red; 1 green, 2 blue, 3 red; 1 blue, 1 red; 5 blue, 1 green, 2 red
+{'red': 3, 'green': 2, 'blue': 6} 36
+17: 3 blue, 6 red; 1 blue, 2 red; 1 blue, 1 green, 7 red; 1 green, 7 red, 2 blue; 7 red, 1 blue; 1 green, 8 red, 1 blue
+{'red': 8, 'green': 1, 'blue': 3} 24
+18: 6 green, 10 red; 6 red, 7 green; 10 red, 11 green; 10 red, 2 blue, 5 green
+{'red': 10, 'green': 11, 'blue': 2} 220
+19: 2 blue; 1 blue, 4 green, 6 red; 7 green, 6 red, 2 blue; 2 blue, 5 red, 4 green; 1 green, 10 red
+{'red': 10, 'green': 7, 'blue': 2} 140
+20: 6 red, 5 green, 10 blue; 5 blue, 5 green, 9 red; 7 blue, 3 green, 3 red; 9 blue, 12 red, 1 green
+{'red': 12, 'green': 5, 'blue': 10} 600
+21: 4 red, 18 blue, 14 green; 3 green, 14 blue, 5 red; 5 green, 12 blue; 1 blue, 2 red, 1 green; 5 red, 11 green, 7 blue; 17 green, 4 red, 15 blue
+{'red': 5, 'green': 17, 'blue': 18} 1530
+22: 1 blue, 14 green, 4 red; 7 green, 10 red; 9 green, 1 blue, 9 red; 1 blue, 8 green, 5 red
+{'red': 10, 'green': 14, 'blue': 1} 140
+23: 4 blue, 5 green, 2 red; 6 blue, 8 red, 4 green; 4 blue, 17 red, 14 green
+{'red': 17, 'green': 14, 'blue': 6} 1428
+24: 3 green, 8 blue; 3 blue, 5 green, 13 red; 17 red, 4 green
+{'red': 17, 'green': 5, 'blue': 8} 680
+25: 19 red, 9 blue, 1 green; 3 green, 18 red, 6 blue; 1 green, 7 red, 7 blue; 8 blue, 1 red
+{'red': 19, 'green': 3, 'blue': 9} 513
+26: 10 green, 12 blue, 2 red; 9 red; 10 blue, 12 green, 9 red
+{'red': 9, 'green': 12, 'blue': 12} 1296
+27: 2 blue, 8 green, 6 red; 5 green, 9 red; 4 red, 11 green
+{'red': 9, 'green': 11, 'blue': 2} 198
+28: 10 blue, 20 red; 14 blue, 3 green, 2 red; 9 red, 12 blue, 1 green
+{'red': 20, 'green': 3, 'blue': 14} 840
+29: 4 red, 1 blue, 2 green; 1 green, 6 red, 1 blue; 15 red
+{'red': 15, 'green': 2, 'blue': 1} 30
+30: 1 red, 13 blue, 6 green; 3 blue, 4 green; 19 blue, 11 green; 1 red, 11 green, 14 blue
+{'red': 1, 'green': 11, 'blue': 19} 209
+31: 10 red, 12 green; 12 green, 10 red; 2 blue, 15 red, 12 green; 2 green, 2 blue, 15 red; 9 green, 5 red, 2 blue
+{'red': 15, 'green': 12, 'blue': 2} 360
+32: 5 blue, 5 green, 8 red; 5 green, 6 red; 5 blue, 8 red, 4 green; 5 green, 3 blue, 6 red
+{'red': 8, 'green': 5, 'blue': 5} 200
+33: 1 red, 9 green, 5 blue; 17 green, 4 blue; 3 green, 2 blue; 10 green, 2 blue; 1 blue, 4 green; 2 green, 9 blue
+{'red': 1, 'green': 17, 'blue': 9} 153
+34: 11 blue, 11 red, 9 green; 13 red, 3 blue, 5 green; 9 green, 12 blue, 5 red; 13 red, 8 blue, 5 green
+{'red': 13, 'green': 9, 'blue': 12} 1404
+35: 1 green, 3 red, 7 blue; 1 red, 3 green, 9 blue; 1 blue, 2 green, 1 red; 11 blue, 5 red, 6 green
+{'red': 5, 'green': 6, 'blue': 11} 330
+36: 4 blue, 12 green, 16 red; 7 blue, 11 green; 8 green, 5 blue, 1 red; 14 green, 3 red
+{'red': 16, 'green': 14, 'blue': 7} 1568
+37: 13 red, 5 blue, 9 green; 1 red, 10 blue, 14 green; 1 green, 2 blue, 10 red; 13 red, 10 blue; 1 blue, 8 green
+{'red': 13, 'green': 14, 'blue': 10} 1820
+38: 3 red, 4 blue, 8 green; 1 red, 11 blue, 4 green; 13 blue, 8 green; 3 red, 3 green, 10 blue; 1 red, 1 blue, 1 green; 1 green, 2 red, 10 blue
+{'red': 3, 'green': 8, 'blue': 13} 312
+39: 9 red, 7 blue, 1 green; 15 red, 4 green, 1 blue; 2 green, 8 blue, 7 red; 6 blue, 11 red; 12 red, 2 blue, 7 green
+{'red': 15, 'green': 7, 'blue': 8} 840
+40: 13 red, 3 green, 1 blue; 3 green, 10 red; 16 red
+{'red': 16, 'green': 3, 'blue': 1} 48
+41: 1 blue, 3 red; 7 blue, 5 red, 3 green; 4 red, 3 blue, 2 green; 2 blue, 5 red, 1 green; 3 green, 4 red, 3 blue; 5 blue, 2 red
+{'red': 5, 'green': 3, 'blue': 7} 105
+42: 1 red, 4 green; 11 red, 4 green; 13 red; 1 blue, 10 red; 1 blue, 2 red, 4 green
+{'red': 13, 'green': 4, 'blue': 1} 52
+43: 11 green, 13 red, 1 blue; 11 green, 9 red, 2 blue; 7 green; 13 green, 15 red; 1 blue, 14 green
+{'red': 15, 'green': 14, 'blue': 2} 420
+44: 5 green, 14 blue, 15 red; 13 blue, 15 green; 9 green, 15 red, 6 blue
+{'red': 15, 'green': 15, 'blue': 14} 3150
+45: 16 red, 8 blue; 1 green, 4 blue, 6 red; 4 blue, 8 red; 12 red, 3 blue, 3 green; 2 green, 4 red, 4 blue; 2 green, 8 blue, 10 red
+{'red': 16, 'green': 3, 'blue': 8} 384
+46: 12 blue, 3 green, 12 red; 9 red, 9 blue; 3 green, 12 red; 10 red, 6 green; 2 red, 7 blue
+{'red': 12, 'green': 6, 'blue': 12} 864
+47: 9 green, 6 red; 1 blue, 7 red, 10 green; 1 green, 2 red; 1 red, 3 green
+{'red': 7, 'green': 10, 'blue': 1} 70
+48: 9 blue, 5 green, 13 red; 14 green, 4 red; 15 red, 9 green, 1 blue; 4 blue, 6 red, 13 green; 9 green, 8 blue, 8 red
+{'red': 15, 'green': 14, 'blue': 9} 1890
+49: 5 blue, 3 red; 1 green, 2 red, 5 blue; 1 green, 7 blue; 3 green
+{'red': 3, 'green': 3, 'blue': 7} 63
+50: 8 red, 6 green; 10 blue, 4 green, 6 red; 8 green, 11 blue, 9 red
+{'red': 9, 'green': 8, 'blue': 11} 792
+51: 5 blue; 13 blue; 1 red, 2 blue, 1 green; 1 red, 8 blue
+{'red': 1, 'green': 1, 'blue': 13} 13
+52: 7 blue; 1 red, 2 green, 12 blue; 1 red, 5 blue; 2 red, 7 blue, 4 green; 3 green, 2 red, 2 blue
+{'red': 2, 'green': 4, 'blue': 12} 96
+53: 10 blue, 12 red; 3 green, 5 blue, 3 red; 14 red, 4 green, 7 blue; 1 red, 14 blue
+{'red': 14, 'green': 4, 'blue': 14} 784
+54: 2 blue, 14 red, 3 green; 3 green, 7 red; 2 blue, 3 green, 9 red; 3 green, 7 red; 1 green, 14 red, 1 blue
+{'red': 14, 'green': 3, 'blue': 2} 84
+55: 3 green, 9 red, 12 blue; 5 blue, 5 green, 2 red; 7 green, 14 red, 12 blue
+{'red': 14, 'green': 7, 'blue': 12} 1176
+56: 1 blue, 3 red, 4 green; 5 red, 8 green, 1 blue; 3 green, 1 blue, 2 red
+{'red': 5, 'green': 8, 'blue': 1} 40
+57: 8 blue, 13 red, 2 green; 3 blue, 5 red; 7 red, 2 green; 2 red, 5 blue, 3 green; 1 green, 4 blue
+{'red': 13, 'green': 3, 'blue': 8} 312
+58: 4 green, 3 red, 2 blue; 5 green, 2 blue, 10 red; 11 green, 1 red, 2 blue; 4 red, 5 green
+{'red': 10, 'green': 11, 'blue': 2} 220
+59: 5 green; 4 green, 2 blue; 1 red, 9 green; 7 green, 2 blue; 16 green, 1 blue
+{'red': 1, 'green': 16, 'blue': 2} 32
+60: 6 green, 5 blue, 1 red; 5 blue, 3 green, 6 red; 1 green, 5 blue, 14 red; 6 red, 4 blue, 3 green
+{'red': 14, 'green': 6, 'blue': 5} 420
+61: 2 green, 6 red, 6 blue; 6 blue, 3 red; 1 green, 2 red, 2 blue; 1 red, 2 green; 5 red, 1 green, 2 blue; 2 green, 6 red, 6 blue
+{'red': 6, 'green': 2, 'blue': 6} 72
+62: 18 green, 8 blue, 1 red; 8 green, 4 red; 13 blue, 1 red, 3 green; 7 blue, 2 green, 4 red; 4 blue, 12 green, 5 red; 12 green, 11 blue
+{'red': 5, 'green': 18, 'blue': 13} 1170
+63: 2 red, 3 blue; 10 green, 13 red, 1 blue; 11 red, 3 green, 4 blue
+{'red': 13, 'green': 10, 'blue': 4} 520
+64: 1 green, 16 red; 17 blue, 9 red, 1 green; 14 red, 7 blue
+{'red': 16, 'green': 1, 'blue': 17} 272
+65: 7 blue, 11 red, 11 green; 7 red, 11 green; 3 blue, 13 red, 11 green; 5 green, 6 blue; 11 blue, 8 red, 3 green
+{'red': 13, 'green': 11, 'blue': 11} 1573
+66: 3 blue, 1 green, 3 red; 5 blue, 2 green, 5 red; 1 blue, 2 green, 7 red; 2 blue, 6 red; 7 red, 2 green, 2 blue; 2 red
+{'red': 7, 'green': 2, 'blue': 5} 70
+67: 1 blue, 6 red, 2 green; 1 blue, 10 green, 6 red; 8 red, 2 blue, 4 green; 7 green, 9 red, 1 blue; 8 red, 7 green; 5 green, 1 blue
+{'red': 9, 'green': 10, 'blue': 2} 180
+68: 15 blue, 8 green, 2 red; 6 blue, 2 green; 5 red, 6 green, 8 blue; 6 red, 11 green, 7 blue; 1 red, 3 blue; 5 red, 6 green, 5 blue
+{'red': 6, 'green': 11, 'blue': 15} 990
+69: 5 blue, 4 green; 1 green, 11 red, 9 blue; 4 green, 15 blue, 6 red; 11 blue, 4 green, 5 red; 8 red, 3 green; 5 blue, 8 red
+{'red': 11, 'green': 4, 'blue': 15} 660
+70: 5 blue, 4 red, 8 green; 6 blue, 6 green; 14 blue, 7 red, 1 green; 2 green, 6 blue, 3 red; 7 red, 11 blue, 3 green
+{'red': 7, 'green': 8, 'blue': 14} 784
+71: 13 red, 6 blue, 10 green; 7 red, 12 green; 9 green, 14 red, 2 blue
+{'red': 14, 'green': 12, 'blue': 6} 1008
+72: 9 red, 3 green, 3 blue; 8 red, 7 blue, 5 green; 3 blue, 2 green, 1 red; 1 red, 2 blue, 2 green; 10 red, 7 green, 6 blue
+{'red': 10, 'green': 7, 'blue': 7} 490
+73: 4 green, 3 red; 1 red; 2 red, 2 blue, 2 green; 1 blue, 3 red, 1 green; 2 blue, 3 red, 2 green; 1 red, 1 blue
+{'red': 3, 'green': 4, 'blue': 2} 24
+74: 12 green, 4 red, 4 blue; 3 red, 13 green; 1 red, 13 green, 1 blue; 1 red, 3 blue, 6 green; 6 blue, 5 red, 4 green; 7 blue, 5 green, 1 red
+{'red': 5, 'green': 13, 'blue': 7} 455
+75: 11 red, 1 green; 12 blue, 1 red; 2 blue, 1 green, 4 red; 11 red; 12 red, 6 green, 10 blue; 4 green, 5 blue, 7 red
+{'red': 12, 'green': 6, 'blue': 12} 864
+76: 2 blue, 5 red, 6 green; 1 red, 10 green, 11 blue; 7 red, 11 green; 4 red, 10 blue, 10 green; 7 blue, 16 green, 2 red
+{'red': 7, 'green': 16, 'blue': 11} 1232
+77: 2 blue, 11 red, 4 green; 6 green, 3 blue, 2 red; 2 blue, 2 red, 7 green; 8 red, 14 blue, 5 green; 5 green, 2 blue, 18 red
+{'red': 18, 'green': 7, 'blue': 14} 1764
+78: 9 red, 7 green, 6 blue; 12 blue, 6 red; 1 red, 15 blue, 7 green; 3 blue, 11 green, 1 red
+{'red': 9, 'green': 11, 'blue': 15} 1485
+79: 3 blue; 1 blue; 1 red, 1 blue, 1 green; 3 blue; 5 blue, 1 red; 1 blue, 1 green, 1 red
+{'red': 1, 'green': 1, 'blue': 5} 5
+80: 18 blue, 13 green, 7 red; 18 blue, 3 green, 3 red; 2 red, 9 blue, 14 green
+{'red': 7, 'green': 14, 'blue': 18} 1764
+81: 11 blue, 6 green, 3 red; 8 green, 12 red, 10 blue; 5 red, 4 blue, 13 green
+{'red': 12, 'green': 13, 'blue': 11} 1716
+82: 2 blue, 3 red; 4 blue, 17 red; 9 red; 12 red; 1 green, 6 blue, 7 red; 20 red
+{'red': 20, 'green': 1, 'blue': 6} 120
+83: 1 blue, 1 red; 3 red, 1 blue; 3 red, 5 green; 1 blue, 2 green, 4 red; 5 green, 3 blue, 2 red
+{'red': 4, 'green': 5, 'blue': 3} 60
+84: 4 red, 2 blue, 2 green; 8 red, 10 blue; 1 green, 15 red, 8 blue
+{'red': 15, 'green': 2, 'blue': 10} 300
+85: 15 green; 11 red, 2 blue, 5 green; 8 red, 2 blue, 12 green; 15 red, 10 green; 10 red, 15 green; 17 red, 1 blue, 11 green
+{'red': 17, 'green': 15, 'blue': 2} 510
+86: 6 blue, 1 red; 2 green, 1 red, 8 blue; 2 green, 10 blue; 10 blue, 2 green; 1 red, 5 blue
+{'red': 1, 'green': 2, 'blue': 10} 20
+87: 4 red, 4 blue; 18 red, 8 blue; 16 red; 4 red, 1 green, 3 blue; 14 red, 9 blue
+{'red': 18, 'green': 1, 'blue': 9} 162
+88: 11 green, 7 blue, 4 red; 3 red; 2 blue, 12 red, 19 green; 13 red, 3 blue, 2 green
+{'red': 13, 'green': 19, 'blue': 7} 1729
+89: 1 green, 1 red; 1 blue, 1 red, 6 green; 6 green, 3 red; 5 green, 2 red, 6 blue; 7 blue, 2 red, 8 green; 1 red, 2 blue
+{'red': 3, 'green': 8, 'blue': 7} 168
+90: 3 green, 3 red, 3 blue; 5 green, 2 blue, 3 red; 1 blue, 2 red; 11 green, 1 blue, 2 red; 1 green, 3 blue, 4 red
+{'red': 4, 'green': 11, 'blue': 3} 132
+91: 7 blue, 2 red; 2 blue, 1 red, 1 green; 6 blue, 1 red; 1 red, 7 blue
+{'red': 2, 'green': 1, 'blue': 7} 14
+92: 11 green, 16 blue; 17 red, 7 blue, 9 green; 11 green, 3 blue, 12 red; 2 blue, 1 green, 6 red
+{'red': 17, 'green': 11, 'blue': 16} 2992
+93: 6 red, 1 blue, 3 green; 1 blue, 8 red, 7 green; 3 red, 5 green; 1 red, 2 green; 3 red, 7 green; 2 green, 15 red, 1 blue
+{'red': 15, 'green': 7, 'blue': 1} 105
+94: 7 blue, 2 red, 2 green; 9 blue, 4 red, 2 green; 9 blue, 5 red, 3 green; 1 blue, 4 red, 3 green; 4 red, 1 green, 7 blue; 9 blue, 3 green, 3 red
+{'red': 5, 'green': 3, 'blue': 9} 135
+95: 1 blue, 2 green, 2 red; 6 green, 6 red, 1 blue; 3 blue, 5 red, 2 green; 1 blue; 5 green, 2 red, 2 blue
+{'red': 6, 'green': 6, 'blue': 3} 108
+96: 3 blue, 6 red, 5 green; 5 blue, 8 green, 9 red; 2 red, 5 green, 1 blue; 6 green, 4 blue, 3 red; 2 green, 2 blue; 6 blue, 4 green
+{'red': 9, 'green': 8, 'blue': 6} 432
+97: 6 green, 8 blue, 5 red; 9 green, 6 blue; 3 green, 3 blue; 2 blue, 10 green, 4 red
+{'red': 5, 'green': 10, 'blue': 8} 400
+98: 11 blue, 1 green, 9 red; 5 green, 1 blue, 6 red; 13 blue, 6 green, 10 red; 6 blue, 4 green, 9 red
+{'red': 10, 'green': 6, 'blue': 13} 780
+99: 4 red, 3 green, 3 blue; 6 blue, 4 green, 11 red; 3 green, 15 red; 1 blue, 6 green, 14 red
+{'red': 15, 'green': 6, 'blue': 6} 540
+100: 14 green, 6 blue, 12 red; 2 green, 1 blue, 2 red; 12 red, 7 blue, 3 green; 1 blue, 12 red, 8 green
+{'red': 12, 'green': 14, 'blue': 7} 1176
+{1: 144, 2: 1404, 3: 770, 4: 612, 5: 1870, 6: 972, 7: 60, 8: 1190, 9: 28, 10: 420, 11: 28, 12: 1260, 13: 320, 14: 4180, 15: 238, 16: 36, 17: 24, 18: 220, 19: 140, 20: 600, 21: 1530, 22: 140, 23: 1428, 24: 680, 25: 513, 26: 1296, 27: 198, 28: 840, 29: 30, 30: 209, 31: 360, 32: 200, 33: 153, 34: 1404, 35: 330, 36: 1568, 37: 1820, 38: 312, 39: 840, 40: 48, 41: 105, 42: 52, 43: 420, 44: 3150, 45: 384, 46: 864, 47: 70, 48: 1890, 49: 63, 50: 792, 51: 13, 52: 96, 53: 784, 54: 84, 55: 1176, 56: 40, 57: 312, 58: 220, 59: 32, 60: 420, 61: 72, 62: 1170, 63: 520, 64: 272, 65: 1573, 66: 70, 67: 180, 68: 990, 69: 660, 70: 784, 71: 1008, 72: 490, 73: 24, 74: 455, 75: 864, 76: 1232, 77: 1764, 78: 1485, 79: 5, 80: 1764, 81: 1716, 82: 120, 83: 60, 84: 300, 85: 510, 86: 20, 87: 162, 88: 1729, 89: 168, 90: 132, 91: 14, 92: 2992, 93: 105, 94: 135, 95: 108, 96: 432, 97: 400, 98: 780, 99: 540, 100: 1176}
+Sum of the powers: 66363
