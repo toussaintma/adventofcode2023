@@ -1,0 +1,3027 @@
+Read 140 lines
+at 0,0: =Number 617 at position (0, 24)=
+at 0,1: =Number 123 at position (0, 36)=
+at 0,2: =Number 341 at position (0, 50)=
+at 0,3: =Number 293 at position (0, 78)=
+at 0,4: =Number 38 at position (0, 99)=
+at 0,5: =Number 19 at position (0, 103)=
+at 0,6: =Number 753 at position (0, 106)=
+at 0,7: =Number 533 at position (0, 127)=
+at 1,0: =Number 565 at position (1, 0)=
+at 1,1: =Number - at position (1, 26)=
+at 1,2: =Number 951 at position (1, 41)=
+at 1,3: =Number + at position (1, 49)=
+at 1,4: =Number 354 at position (1, 60)=
+at 1,5: =Number 697 at position (1, 68)=
+at 1,6: =Number 58 at position (1, 72)=
+at 1,7: =Number * at position (1, 78)=
+adjacent identified: =Number 293 at position (0, 78)= to =Number * at position (1, 78)=
+adjacent identified: =Number 920 at position (2, 75)= to =Number * at position (1, 78)=
+there are 2 adjacent to =Number * at position (1, 78)=
+at 1,8: =Number 941 at position (1, 84)=
+at 1,9: =Number * at position (1, 99)=
+adjacent identified: =Number 38 at position (0, 99)= to =Number * at position (1, 99)=
+adjacent identified: =Number 433 at position (2, 99)= to =Number * at position (1, 99)=
+there are 2 adjacent to =Number * at position (1, 99)=
+at 1,10: =Number * at position (1, 105)=
+adjacent identified: =Number 19 at position (0, 103)= to =Number * at position (1, 105)=
+adjacent identified: =Number 753 at position (0, 106)= to =Number * at position (1, 105)=
+there are 2 adjacent to =Number * at position (1, 105)=
+at 1,11: =Number + at position (1, 115)=
+at 1,12: =Number 529 at position (1, 120)=
+at 1,13: =Number & at position (1, 127)=
+at 1,14: =Number 36 at position (1, 133)=
+at 2,0: =Number 1 at position (2, 4)=
+at 2,1: =Number 225 at position (2, 10)=
+at 2,2: =Number 73 at position (2, 16)=
+at 2,3: =Number 472 at position (2, 37)=
+at 2,4: =Number - at position (2, 63)=
+at 2,5: =Number * at position (2, 68)=
+adjacent identified: =Number 697 at position (1, 68)= to =Number * at position (2, 68)=
+adjacent identified: =Number 603 at position (3, 66)= to =Number * at position (2, 68)=
+there are 2 adjacent to =Number * at position (2, 68)=
+at 2,6: =Number 920 at position (2, 75)=
+at 2,7: =Number 999 at position (2, 80)=
+at 2,8: =Number 646 at position (2, 90)=
+at 2,9: =Number 771 at position (2, 95)=
+at 2,10: =Number 433 at position (2, 99)=
+at 2,11: =Number 407 at position (2, 108)=
+at 2,12: =Number 405 at position (2, 113)=
+at 2,13: =Number * at position (2, 121)=
+adjacent identified: =Number 529 at position (1, 120)= to =Number * at position (2, 121)=
+adjacent identified: =Number 472 at position (3, 122)= to =Number * at position (2, 121)=
+there are 2 adjacent to =Number * at position (2, 121)=
+at 2,14: =Number 426 at position (2, 132)=
+at 2,15: =Number * at position (2, 132)=
+adjacent identified: =Number 36 at position (1, 133)= to =Number * at position (2, 132)=
+adjacent identified: =Number 426 at position (2, 132)= to =Number * at position (2, 132)=
+there are 2 adjacent to =Number * at position (2, 132)=
+at 3,0: =Number * at position (3, 5)=
+adjacent identified: =Number 1 at position (2, 4)= to =Number * at position (3, 5)=
+adjacent identified: =Number 360 at position (4, 2)= to =Number * at position (3, 5)=
+there are 2 adjacent to =Number * at position (3, 5)=
+at 3,1: =Number * at position (3, 10)=
+adjacent identified: =Number 225 at position (2, 10)= to =Number * at position (3, 10)=
+adjacent identified: =Number 432 at position (4, 7)= to =Number * at position (3, 10)=
+there are 2 adjacent to =Number * at position (3, 10)=
+at 3,2: =Number / at position (3, 20)=
+at 3,3: =Number 227 at position (3, 21)=
+at 3,4: =Number - at position (3, 26)=
+at 3,5: =Number 113 at position (3, 27)=
+at 3,6: =Number @ at position (3, 38)=
+at 3,7: =Number 825 at position (3, 45)=
+at 3,8: =Number / at position (3, 45)=
+at 3,9: =Number 348 at position (3, 51)=
+at 3,10: =Number 881 at position (3, 57)=
+at 3,11: =Number 603 at position (3, 66)=
+at 3,12: =Number % at position (3, 80)=
+at 3,13: =Number 793 at position (3, 85)=
+at 3,14: =Number = at position (3, 91)=
+at 3,15: =Number 235 at position (3, 107)=
+at 3,16: =Number * at position (3, 107)=
+adjacent identified: =Number 407 at position (2, 108)= to =Number * at position (3, 107)=
+adjacent identified: =Number 235 at position (3, 107)= to =Number * at position (3, 107)=
+there are 2 adjacent to =Number * at position (3, 107)=
+at 3,17: =Number 472 at position (3, 122)=
+at 3,18: =Number 82 at position (3, 134)=
+at 3,19: =Number 941 at position (3, 137)=
+at 4,0: =Number 360 at position (4, 2)=
+at 4,1: =Number 432 at position (4, 7)=
+at 4,2: =Number 997 at position (4, 12)=
+at 4,3: =Number * at position (4, 51)=
+adjacent identified: =Number 348 at position (3, 51)= to =Number * at position (4, 51)=
+adjacent identified: =Number 895 at position (5, 49)= to =Number * at position (4, 51)=
+there are 2 adjacent to =Number * at position (4, 51)=
+at 4,4: =Number = at position (4, 57)=
+at 4,5: =Number 62 at position (4, 70)=
+at 4,6: =Number 702 at position (4, 75)=
+at 4,7: =Number * at position (4, 84)=
+adjacent identified: =Number 793 at position (3, 85)= to =Number * at position (4, 84)=
+adjacent identified: =Number 493 at position (5, 82)= to =Number * at position (4, 84)=
+there are 2 adjacent to =Number * at position (4, 84)=
+at 4,8: =Number 273 at position (4, 115)=
+at 4,9: =Number * at position (4, 136)=
+adjacent identified: =Number 82 at position (3, 134)= to =Number * at position (4, 136)=
+adjacent identified: =Number 941 at position (3, 137)= to =Number * at position (4, 136)=
+there are 2 adjacent to =Number * at position (4, 136)=
+at 5,0: =Number & at position (5, 11)=
+at 5,1: =Number 833 at position (5, 19)=
+at 5,2: =Number 489 at position (5, 23)=
+at 5,3: =Number @ at position (5, 33)=
+at 5,4: =Number 176 at position (5, 43)=
+at 5,5: =Number 895 at position (5, 49)=
+at 5,6: =Number 503 at position (5, 64)=
+at 5,7: =Number $ at position (5, 74)=
+at 5,8: =Number 493 at position (5, 82)=
+at 5,9: =Number 929 at position (5, 100)=
+at 5,10: =Number * at position (5, 118)=
+adjacent identified: =Number 273 at position (4, 115)= to =Number * at position (5, 118)=
+adjacent identified: =Number 96 at position (6, 117)= to =Number * at position (5, 118)=
+there are 2 adjacent to =Number * at position (5, 118)=
+at 5,11: =Number 302 at position (5, 120)=
+at 5,12: =Number 492 at position (5, 127)=
+at 5,13: =Number 526 at position (5, 131)=
+at 6,0: =Number * at position (6, 20)=
+adjacent identified: =Number 833 at position (5, 19)= to =Number * at position (6, 20)=
+adjacent identified: =Number 589 at position (7, 19)= to =Number * at position (6, 20)=
+there are 2 adjacent to =Number * at position (6, 20)=
+at 6,1: =Number + at position (6, 26)=
+at 6,2: =Number 85 at position (6, 31)=
+at 6,3: =Number 601 at position (6, 56)=
+at 6,4: =Number * at position (6, 103)=
+adjacent identified: =Number 929 at position (5, 100)= to =Number * at position (6, 103)=
+adjacent identified: =Number 386 at position (6, 104)= to =Number * at position (6, 103)=
+there are 2 adjacent to =Number * at position (6, 103)=
+at 6,5: =Number 386 at position (6, 104)=
+at 6,6: =Number * at position (6, 113)=
+adjacent identified: =Number 823 at position (7, 112)= to =Number * at position (6, 113)=
+there are 1 adjacent to =Number * at position (6, 113)=
+at 6,7: =Number 96 at position (6, 117)=
+at 6,8: =Number * at position (6, 130)=
+adjacent identified: =Number 492 at position (5, 127)= to =Number * at position (6, 130)=
+adjacent identified: =Number 526 at position (5, 131)= to =Number * at position (6, 130)=
+there are 2 adjacent to =Number * at position (6, 130)=
+at 6,9: =Number * at position (6, 135)=
+adjacent identified: =Number 613 at position (6, 136)= to =Number * at position (6, 135)=
+adjacent identified: =Number 360 at position (7, 132)= to =Number * at position (6, 135)=
+there are 2 adjacent to =Number * at position (6, 135)=
+at 6,10: =Number 613 at position (6, 136)=
+at 7,0: =Number 650 at position (7, 5)=
+at 7,1: =Number 360 at position (7, 12)=
+at 7,2: =Number + at position (7, 12)=
+at 7,3: =Number # at position (7, 16)=
+at 7,4: =Number 589 at position (7, 19)=
+at 7,5: =Number 221 at position (7, 55)=
+at 7,6: =Number * at position (7, 55)=
+adjacent identified: =Number 601 at position (6, 56)= to =Number * at position (7, 55)=
+adjacent identified: =Number 221 at position (7, 55)= to =Number * at position (7, 55)=
+there are 2 adjacent to =Number * at position (7, 55)=
+at 7,7: =Number 927 at position (7, 70)=
+at 7,8: =Number 941 at position (7, 84)=
+at 7,9: =Number 404 at position (7, 89)=
+at 7,10: =Number + at position (7, 94)=
+at 7,11: =Number 669 at position (7, 95)=
+at 7,12: =Number 823 at position (7, 112)=
+at 7,13: =Number 360 at position (7, 132)=
+at 8,0: =Number 527 at position (8, 1)=
+at 8,1: =Number 919 at position (8, 15)=
+at 8,2: =Number 799 at position (8, 35)=
+at 8,3: =Number & at position (8, 59)=
+at 8,4: =Number * at position (8, 72)=
+adjacent identified: =Number 927 at position (7, 70)= to =Number * at position (8, 72)=
+adjacent identified: =Number 84 at position (9, 71)= to =Number * at position (8, 72)=
+there are 2 adjacent to =Number * at position (8, 72)=
+at 8,5: =Number - at position (8, 88)=
+at 8,6: =Number 485 at position (8, 103)=
+at 8,7: =Number - at position (8, 118)=
+at 8,8: =Number 754 at position (8, 121)=
+at 9,0: =Number & at position (9, 4)=
+at 9,1: =Number * at position (9, 9)=
+adjacent identified: =Number 187 at position (9, 10)= to =Number * at position (9, 9)=
+adjacent identified: =Number 26 at position (10, 7)= to =Number * at position (9, 9)=
+there are 2 adjacent to =Number * at position (9, 9)=
+at 9,2: =Number 187 at position (9, 10)=
+at 9,3: =Number / at position (9, 22)=
+at 9,4: =Number 149 at position (9, 23)=
+at 9,5: =Number * at position (9, 38)=
+adjacent identified: =Number 799 at position (8, 35)= to =Number * at position (9, 38)=
+adjacent identified: =Number 254 at position (10, 38)= to =Number * at position (9, 38)=
+there are 2 adjacent to =Number * at position (9, 38)=
+at 9,6: =Number 653 at position (9, 60)=
+at 9,7: =Number 84 at position (9, 71)=
+at 9,8: =Number 120 at position (9, 79)=
+at 9,9: =Number - at position (9, 97)=
+at 9,10: =Number = at position (9, 103)=
+at 9,11: =Number 581 at position (9, 108)=
+at 9,12: =Number 574 at position (9, 114)=
+at 9,13: =Number 76 at position (9, 118)=
+at 9,14: =Number * at position (9, 124)=
+adjacent identified: =Number 754 at position (8, 121)= to =Number * at position (9, 124)=
+adjacent identified: =Number 287 at position (9, 125)= to =Number * at position (9, 124)=
+there are 2 adjacent to =Number * at position (9, 124)=
+at 9,15: =Number 287 at position (9, 125)=
+at 9,16: =Number 968 at position (9, 130)=
+at 10,0: =Number 26 at position (10, 7)=
+at 10,1: =Number 497 at position (10, 27)=
+at 10,2: =Number 254 at position (10, 38)=
+at 10,3: =Number # at position (10, 49)=
+at 10,4: =Number 682 at position (10, 52)=
+at 10,5: =Number $ at position (10, 65)=
+at 10,6: =Number 236 at position (10, 67)=
+at 10,7: =Number 111 at position (10, 96)=
+at 10,8: =Number * at position (10, 111)=
+adjacent identified: =Number 581 at position (9, 108)= to =Number * at position (10, 111)=
+adjacent identified: =Number 213 at position (11, 110)= to =Number * at position (10, 111)=
+there are 2 adjacent to =Number * at position (10, 111)=
+at 10,9: =Number = at position (10, 115)=
+at 10,10: =Number * at position (10, 129)=
+adjacent identified: =Number 968 at position (9, 130)= to =Number * at position (10, 129)=
+there are 1 adjacent to =Number * at position (10, 129)=
+at 11,0: =Number 79 at position (11, 4)=
+at 11,1: =Number 394 at position (11, 13)=
+at 11,2: =Number 112 at position (11, 23)=
+at 11,3: =Number - at position (11, 27)=
+at 11,4: =Number 762 at position (11, 31)=
+at 11,5: =Number 847 at position (11, 47)=
+at 11,6: =Number * at position (11, 54)=
+adjacent identified: =Number 682 at position (10, 52)= to =Number * at position (11, 54)=
+adjacent identified: =Number 134 at position (12, 51)= to =Number * at position (11, 54)=
+there are 2 adjacent to =Number * at position (11, 54)=
+at 11,7: =Number 450 at position (11, 63)=
+at 11,8: =Number * at position (11, 67)=
+adjacent identified: =Number 236 at position (10, 67)= to =Number * at position (11, 67)=
+there are 1 adjacent to =Number * at position (11, 67)=
+at 11,9: =Number $ at position (11, 71)=
+at 11,10: =Number 495 at position (11, 78)=
+at 11,11: =Number & at position (11, 78)=
+at 11,12: =Number $ at position (11, 87)=
+at 11,13: =Number 49 at position (11, 89)=
+at 11,14: =Number # at position (11, 104)=
+at 11,15: =Number 213 at position (11, 110)=
+at 11,16: =Number 171 at position (11, 132)=
+at 12,0: =Number $ at position (12, 5)=
+at 12,1: =Number * at position (12, 13)=
+adjacent identified: =Number 394 at position (11, 13)= to =Number * at position (12, 13)=
+adjacent identified: =Number 957 at position (13, 11)= to =Number * at position (12, 13)=
+there are 2 adjacent to =Number * at position (12, 13)=
+at 12,2: =Number $ at position (12, 24)=
+at 12,3: =Number * at position (12, 29)=
+adjacent identified: =Number 631 at position (13, 29)= to =Number * at position (12, 29)=
+there are 1 adjacent to =Number * at position (12, 29)=
+at 12,4: =Number * at position (12, 34)=
+adjacent identified: =Number 762 at position (11, 31)= to =Number * at position (12, 34)=
+adjacent identified: =Number 136 at position (12, 35)= to =Number * at position (12, 34)=
+there are 2 adjacent to =Number * at position (12, 34)=
+at 12,5: =Number 136 at position (12, 35)=
+at 12,6: =Number 594 at position (12, 42)=
+at 12,7: =Number 134 at position (12, 51)=
+at 12,8: =Number & at position (12, 58)=
+at 12,9: =Number 991 at position (12, 71)=
+at 12,10: =Number 292 at position (12, 84)=
+at 12,11: =Number 374 at position (12, 104)=
+at 12,12: =Number 123 at position (12, 114)=
+at 12,13: =Number 676 at position (12, 123)=
+at 12,14: =Number $ at position (12, 135)=
+at 13,0: =Number 957 at position (13, 11)=
+at 13,1: =Number & at position (13, 17)=
+at 13,2: =Number 740 at position (13, 20)=
+at 13,3: =Number 631 at position (13, 29)=
+at 13,4: =Number * at position (13, 42)=
+adjacent identified: =Number 594 at position (12, 42)= to =Number * at position (13, 42)=
+there are 1 adjacent to =Number * at position (13, 42)=
+at 13,5: =Number 403 at position (13, 56)=
+at 13,6: =Number 186 at position (13, 65)=
+at 13,7: =Number 260 at position (13, 109)=
+at 13,8: =Number * at position (13, 115)=
+adjacent identified: =Number 123 at position (12, 114)= to =Number * at position (13, 115)=
+adjacent identified: =Number 45 at position (14, 115)= to =Number * at position (13, 115)=
+there are 2 adjacent to =Number * at position (13, 115)=
+at 13,9: =Number 308 at position (13, 118)=
+at 14,0: =Number 582 at position (14, 16)=
+at 14,1: =Number * at position (14, 21)=
+adjacent identified: =Number 740 at position (13, 20)= to =Number * at position (14, 21)=
+adjacent identified: =Number 747 at position (15, 21)= to =Number * at position (14, 21)=
+there are 2 adjacent to =Number * at position (14, 21)=
+at 14,2: =Number 463 at position (14, 37)=
+at 14,3: =Number 524 at position (14, 47)=
+at 14,4: =Number - at position (14, 54)=
+at 14,5: =Number 883 at position (14, 60)=
+at 14,6: =Number * at position (14, 66)=
+adjacent identified: =Number 186 at position (13, 65)= to =Number * at position (14, 66)=
+adjacent identified: =Number 632 at position (15, 65)= to =Number * at position (14, 66)=
+there are 2 adjacent to =Number * at position (14, 66)=
+at 14,7: =Number 463 at position (14, 69)=
+at 14,8: =Number 389 at position (14, 82)=
+at 14,9: =Number 71 at position (14, 89)=
+at 14,10: =Number + at position (14, 97)=
+at 14,11: =Number 594 at position (14, 98)=
+at 14,12: =Number * at position (14, 111)=
+adjacent identified: =Number 260 at position (13, 109)= to =Number * at position (14, 111)=
+adjacent identified: =Number 927 at position (15, 110)= to =Number * at position (14, 111)=
+there are 2 adjacent to =Number * at position (14, 111)=
+at 14,13: =Number 45 at position (14, 115)=
+at 14,14: =Number + at position (14, 119)=
+at 15,0: =Number 815 at position (15, 1)=
+at 15,1: =Number 520 at position (15, 8)=
+at 15,2: =Number 747 at position (15, 21)=
+at 15,3: =Number @ at position (15, 30)=
+at 15,4: =Number * at position (15, 37)=
+adjacent identified: =Number 463 at position (14, 37)= to =Number * at position (15, 37)=
+adjacent identified: =Number 631 at position (16, 34)= to =Number * at position (15, 37)=
+there are 2 adjacent to =Number * at position (15, 37)=
+at 15,5: =Number 588 at position (15, 41)=
+at 15,6: =Number - at position (15, 49)=
+at 15,7: =Number 14 at position (15, 54)=
+at 15,8: =Number * at position (15, 59)=
+adjacent identified: =Number 883 at position (14, 60)= to =Number * at position (15, 59)=
+adjacent identified: =Number 889 at position (16, 59)= to =Number * at position (15, 59)=
+there are 2 adjacent to =Number * at position (15, 59)=
+at 15,9: =Number 632 at position (15, 65)=
+at 15,10: =Number * at position (15, 72)=
+adjacent identified: =Number 463 at position (14, 69)= to =Number * at position (15, 72)=
+adjacent identified: =Number 951 at position (16, 70)= to =Number * at position (15, 72)=
+there are 2 adjacent to =Number * at position (15, 72)=
+at 15,11: =Number 946 at position (15, 74)=
+at 15,12: =Number / at position (15, 87)=
+at 15,13: =Number $ at position (15, 103)=
+at 15,14: =Number 982 at position (15, 104)=
+at 15,15: =Number 927 at position (15, 110)=
+at 15,16: =Number 822 at position (15, 134)=
+at 16,0: =Number * at position (16, 11)=
+adjacent identified: =Number 520 at position (15, 8)= to =Number * at position (16, 11)=
+adjacent identified: =Number 709 at position (17, 8)= to =Number * at position (16, 11)=
+there are 2 adjacent to =Number * at position (16, 11)=
+at 16,1: =Number 271 at position (16, 26)=
+at 16,2: =Number 889 at position (16, 30)=
+at 16,3: =Number 631 at position (16, 34)=
+at 16,4: =Number 889 at position (16, 59)=
+at 16,5: =Number 951 at position (16, 70)=
+at 16,6: =Number 363 at position (16, 82)=
+at 16,7: =Number 774 at position (16, 86)=
+at 16,8: =Number % at position (16, 120)=
+at 16,9: =Number 975 at position (16, 121)=
+at 16,10: =Number 546 at position (16, 127)=
+at 16,11: =Number * at position (16, 134)=
+adjacent identified: =Number 822 at position (15, 134)= to =Number * at position (16, 134)=
+adjacent identified: =Number 450 at position (17, 131)= to =Number * at position (16, 134)=
+there are 2 adjacent to =Number * at position (16, 134)=
+at 17,0: =Number 709 at position (17, 8)=
+at 17,1: =Number 561 at position (17, 18)=
+at 17,2: =Number - at position (17, 26)=
+at 17,3: =Number + at position (17, 44)=
+at 17,4: =Number 885 at position (17, 45)=
+at 17,5: =Number 121 at position (17, 99)=
+at 17,6: =Number 794 at position (17, 116)=
+at 17,7: =Number & at position (17, 126)=
+at 17,8: =Number 450 at position (17, 131)=
+at 18,0: =Number 469 at position (18, 12)=
+at 18,1: =Number 478 at position (18, 28)=
+at 18,2: =Number 44 at position (18, 32)=
+at 18,3: =Number 799 at position (18, 37)=
+at 18,4: =Number 273 at position (18, 50)=
+at 18,5: =Number 218 at position (18, 55)=
+at 18,6: =Number 361 at position (18, 63)=
+at 18,7: =Number 763 at position (18, 76)=
+at 18,8: =Number 88 at position (18, 80)=
+at 18,9: =Number 977 at position (18, 94)=
+at 18,10: =Number * at position (18, 102)=
+adjacent identified: =Number 121 at position (17, 99)= to =Number * at position (18, 102)=
+there are 1 adjacent to =Number * at position (18, 102)=
+at 18,11: =Number 969 at position (18, 104)=
+at 18,12: =Number 528 at position (18, 121)=
+at 19,0: =Number 30 at position (19, 3)=
+at 19,1: =Number = at position (19, 6)=
+at 19,2: =Number % at position (19, 15)=
+at 19,3: =Number 746 at position (19, 22)=
+at 19,4: =Number * at position (19, 30)=
+adjacent identified: =Number 478 at position (18, 28)= to =Number * at position (19, 30)=
+adjacent identified: =Number 573 at position (20, 27)= to =Number * at position (19, 30)=
+there are 2 adjacent to =Number * at position (19, 30)=
+at 19,5: =Number * at position (19, 32)=
+adjacent identified: =Number 44 at position (18, 32)= to =Number * at position (19, 32)=
+adjacent identified: =Number 286 at position (20, 33)= to =Number * at position (19, 32)=
+there are 2 adjacent to =Number * at position (19, 32)=
+at 19,6: =Number * at position (19, 58)=
+adjacent identified: =Number 218 at position (18, 55)= to =Number * at position (19, 58)=
+adjacent identified: =Number 401 at position (19, 59)= to =Number * at position (19, 58)=
+there are 2 adjacent to =Number * at position (19, 58)=
+at 19,7: =Number 401 at position (19, 59)=
+at 19,8: =Number * at position (19, 63)=
+adjacent identified: =Number 361 at position (18, 63)= to =Number * at position (19, 63)=
+adjacent identified: =Number 101 at position (20, 63)= to =Number * at position (19, 63)=
+there are 2 adjacent to =Number * at position (19, 63)=
+at 19,9: =Number * at position (19, 79)=
+adjacent identified: =Number 763 at position (18, 76)= to =Number * at position (19, 79)=
+adjacent identified: =Number 88 at position (18, 80)= to =Number * at position (19, 79)=
+there are 2 adjacent to =Number * at position (19, 79)=
+at 19,10: =Number 27 at position (19, 89)=
+at 19,11: =Number * at position (19, 97)=
+adjacent identified: =Number 977 at position (18, 94)= to =Number * at position (19, 97)=
+adjacent identified: =Number 132 at position (20, 96)= to =Number * at position (19, 97)=
+there are 2 adjacent to =Number * at position (19, 97)=
+at 19,12: =Number * at position (19, 105)=
+adjacent identified: =Number 969 at position (18, 104)= to =Number * at position (19, 105)=
+adjacent identified: =Number 736 at position (20, 105)= to =Number * at position (19, 105)=
+there are 2 adjacent to =Number * at position (19, 105)=
+at 19,13: =Number @ at position (19, 123)=
+at 19,14: =Number # at position (19, 129)=
+at 19,15: =Number 572 at position (19, 134)=
+at 20,0: =Number * at position (20, 3)=
+adjacent identified: =Number 30 at position (19, 3)= to =Number * at position (20, 3)=
+there are 1 adjacent to =Number * at position (20, 3)=
+at 20,1: =Number 749 at position (20, 6)=
+at 20,2: =Number + at position (20, 23)=
+at 20,3: =Number 573 at position (20, 27)=
+at 20,4: =Number 286 at position (20, 33)=
+at 20,5: =Number 539 at position (20, 38)=
+at 20,6: =Number 110 at position (20, 49)=
+at 20,7: =Number 101 at position (20, 63)=
+at 20,8: =Number 241 at position (20, 82)=
+at 20,9: =Number 132 at position (20, 96)=
+at 20,10: =Number 217 at position (20, 100)=
+at 20,11: =Number 736 at position (20, 105)=
+at 20,12: =Number 714 at position (20, 127)=
+at 21,0: =Number * at position (21, 41)=
+adjacent identified: =Number 539 at position (20, 38)= to =Number * at position (21, 41)=
+adjacent identified: =Number 976 at position (21, 42)= to =Number * at position (21, 41)=
+there are 2 adjacent to =Number * at position (21, 41)=
+at 21,1: =Number 976 at position (21, 42)=
+at 21,2: =Number * at position (21, 48)=
+adjacent identified: =Number 110 at position (20, 49)= to =Number * at position (21, 48)=
+adjacent identified: =Number 178 at position (22, 49)= to =Number * at position (21, 48)=
+there are 2 adjacent to =Number * at position (21, 48)=
+at 21,3: =Number 897 at position (21, 53)=
+at 21,4: =Number 136 at position (21, 57)=
+at 21,5: =Number @ at position (21, 67)=
+at 21,6: =Number / at position (21, 81)=
+at 21,7: =Number 338 at position (21, 92)=
+at 21,8: =Number * at position (21, 103)=
+adjacent identified: =Number 217 at position (20, 100)= to =Number * at position (21, 103)=
+adjacent identified: =Number 834 at position (22, 100)= to =Number * at position (21, 103)=
+there are 2 adjacent to =Number * at position (21, 103)=
+at 21,9: =Number 149 at position (21, 110)=
+at 21,10: =Number 894 at position (21, 118)=
+at 21,11: =Number 874 at position (21, 123)=
+at 22,0: =Number 267 at position (22, 6)=
+at 22,1: =Number * at position (22, 6)=
+adjacent identified: =Number 267 at position (22, 6)= to =Number * at position (22, 6)=
+adjacent identified: =Number 537 at position (22, 7)= to =Number * at position (22, 6)=
+there are 2 adjacent to =Number * at position (22, 6)=
+at 22,2: =Number 537 at position (22, 7)=
+at 22,3: =Number 850 at position (22, 27)=
+at 22,4: =Number 864 at position (22, 32)=
+at 22,5: =Number 262 at position (22, 36)=
+at 22,6: =Number 178 at position (22, 49)=
+at 22,7: =Number * at position (22, 54)=
+adjacent identified: =Number 897 at position (21, 53)= to =Number * at position (22, 54)=
+adjacent identified: =Number 98 at position (23, 53)= to =Number * at position (22, 54)=
+there are 2 adjacent to =Number * at position (22, 54)=
+at 22,8: =Number + at position (22, 57)=
+at 22,9: =Number 721 at position (22, 64)=
+at 22,10: =Number 314 at position (22, 74)=
+at 22,11: =Number $ at position (22, 91)=
+at 22,12: =Number 834 at position (22, 100)=
+at 22,13: =Number % at position (22, 112)=
+at 22,14: =Number @ at position (22, 123)=
+at 23,0: =Number 966 at position (23, 15)=
+at 23,1: =Number 479 at position (23, 19)=
+at 23,2: =Number * at position (23, 35)=
+adjacent identified: =Number 864 at position (22, 32)= to =Number * at position (23, 35)=
+adjacent identified: =Number 262 at position (22, 36)= to =Number * at position (23, 35)=
+there are 2 adjacent to =Number * at position (23, 35)=
+at 23,3: =Number 448 at position (23, 41)=
+at 23,4: =Number 98 at position (23, 53)=
+at 23,5: =Number 25 at position (23, 61)=
+at 23,6: =Number # at position (23, 61)=
+at 23,7: =Number 524 at position (23, 84)=
+at 23,8: =Number 728 at position (23, 104)=
+at 23,9: =Number 871 at position (23, 108)=
+at 23,10: =Number / at position (23, 117)=
+at 23,11: =Number 258 at position (23, 131)=
+at 24,0: =Number 109 at position (24, 4)=
+at 24,1: =Number * at position (24, 18)=
+adjacent identified: =Number 966 at position (23, 15)= to =Number * at position (24, 18)=
+adjacent identified: =Number 479 at position (23, 19)= to =Number * at position (24, 18)=
+there are 2 adjacent to =Number * at position (24, 18)=
+at 24,2: =Number 570 at position (24, 24)=
+at 24,3: =Number 775 at position (24, 31)=
+at 24,4: =Number * at position (24, 40)=
+adjacent identified: =Number 448 at position (23, 41)= to =Number * at position (24, 40)=
+adjacent identified: =Number 277 at position (25, 40)= to =Number * at position (24, 40)=
+there are 2 adjacent to =Number * at position (24, 40)=
+at 24,5: =Number 82 at position (24, 56)=
+at 24,6: =Number 933 at position (24, 71)=
+at 24,7: =Number 107 at position (24, 78)=
+at 24,8: =Number * at position (24, 78)=
+adjacent identified: =Number 107 at position (24, 78)= to =Number * at position (24, 78)=
+adjacent identified: =Number 792 at position (25, 79)= to =Number * at position (24, 78)=
+there are 2 adjacent to =Number * at position (24, 78)=
+at 24,9: =Number * at position (24, 85)=
+adjacent identified: =Number 524 at position (23, 84)= to =Number * at position (24, 85)=
+adjacent identified: =Number 501 at position (25, 84)= to =Number * at position (24, 85)=
+there are 2 adjacent to =Number * at position (24, 85)=
+at 24,10: =Number 415 at position (24, 89)=
+at 24,11: =Number 109 at position (24, 94)=
+at 24,12: =Number * at position (24, 109)=
+adjacent identified: =Number 871 at position (23, 108)= to =Number * at position (24, 109)=
+adjacent identified: =Number 629 at position (25, 107)= to =Number * at position (24, 109)=
+there are 2 adjacent to =Number * at position (24, 109)=
+at 24,13: =Number 795 at position (24, 114)=
+at 24,14: =Number * at position (24, 120)=
+adjacent identified: =Number 953 at position (24, 121)= to =Number * at position (24, 120)=
+adjacent identified: =Number 81 at position (25, 118)= to =Number * at position (24, 120)=
+there are 2 adjacent to =Number * at position (24, 120)=
+at 24,15: =Number 953 at position (24, 121)=
+at 24,16: =Number # at position (24, 128)=
+at 25,0: =Number % at position (25, 6)=
+at 25,1: =Number = at position (25, 25)=
+at 25,2: =Number * at position (25, 31)=
+adjacent identified: =Number 775 at position (24, 31)= to =Number * at position (25, 31)=
+adjacent identified: =Number 98 at position (26, 32)= to =Number * at position (25, 31)=
+there are 2 adjacent to =Number * at position (25, 31)=
+at 25,3: =Number 408 at position (25, 36)=
+at 25,4: =Number 277 at position (25, 40)=
+at 25,5: =Number 677 at position (25, 44)=
+at 25,6: =Number 143 at position (25, 50)=
+at 25,7: =Number * at position (25, 56)=
+adjacent identified: =Number 82 at position (24, 56)= to =Number * at position (25, 56)=
+adjacent identified: =Number 677 at position (26, 54)= to =Number * at position (25, 56)=
+there are 2 adjacent to =Number * at position (25, 56)=
+at 25,8: =Number * at position (25, 73)=
+adjacent identified: =Number 933 at position (24, 71)= to =Number * at position (25, 73)=
+there are 1 adjacent to =Number * at position (25, 73)=
+at 25,9: =Number 792 at position (25, 79)=
+at 25,10: =Number 501 at position (25, 84)=
+at 25,11: =Number * at position (25, 89)=
+adjacent identified: =Number 415 at position (24, 89)= to =Number * at position (25, 89)=
+adjacent identified: =Number 955 at position (26, 90)= to =Number * at position (25, 89)=
+there are 2 adjacent to =Number * at position (25, 89)=
+at 25,12: =Number * at position (25, 94)=
+adjacent identified: =Number 109 at position (24, 94)= to =Number * at position (25, 94)=
+adjacent identified: =Number 26 at position (26, 95)= to =Number * at position (25, 94)=
+there are 2 adjacent to =Number * at position (25, 94)=
+at 25,13: =Number 354 at position (25, 103)=
+at 25,14: =Number 629 at position (25, 107)=
+at 25,15: =Number 81 at position (25, 118)=
+at 25,16: =Number 899 at position (25, 127)=
+at 25,17: =Number 695 at position (25, 132)=
+at 26,0: =Number * at position (26, 16)=
+adjacent identified: =Number 166 at position (26, 17)= to =Number * at position (26, 16)=
+adjacent identified: =Number 286 at position (27, 13)= to =Number * at position (26, 16)=
+there are 2 adjacent to =Number * at position (26, 16)=
+at 26,1: =Number 166 at position (26, 17)=
+at 26,2: =Number 98 at position (26, 32)=
+at 26,3: =Number % at position (26, 35)=
+at 26,4: =Number - at position (26, 45)=
+at 26,5: =Number * at position (26, 50)=
+adjacent identified: =Number 143 at position (25, 50)= to =Number * at position (26, 50)=
+adjacent identified: =Number 638 at position (27, 50)= to =Number * at position (26, 50)=
+there are 2 adjacent to =Number * at position (26, 50)=
+at 26,6: =Number 677 at position (26, 54)=
+at 26,7: =Number + at position (26, 64)=
+at 26,8: =Number 955 at position (26, 90)=
+at 26,9: =Number 26 at position (26, 95)=
+at 26,10: =Number # at position (26, 102)=
+at 26,11: =Number 103 at position (26, 123)=
+at 26,12: =Number + at position (26, 132)=
+at 26,13: =Number 140 at position (26, 136)=
+at 27,0: =Number 286 at position (27, 13)=
+at 27,1: =Number 638 at position (27, 50)=
+at 27,2: =Number 158 at position (27, 61)=
+at 27,3: =Number 4 at position (27, 75)=
+at 27,4: =Number & at position (27, 77)=
+at 27,5: =Number 57 at position (27, 98)=
+at 27,6: =Number - at position (27, 114)=
+at 27,7: =Number * at position (27, 126)=
+adjacent identified: =Number 103 at position (26, 123)= to =Number * at position (27, 126)=
+adjacent identified: =Number 507 at position (28, 125)= to =Number * at position (27, 126)=
+there are 2 adjacent to =Number * at position (27, 126)=
+at 27,8: =Number / at position (27, 135)=
+at 28,0: =Number 968 at position (28, 3)=
+at 28,1: =Number 112 at position (28, 21)=
+at 28,2: =Number @ at position (28, 25)=
+at 28,3: =Number 139 at position (28, 26)=
+at 28,4: =Number 102 at position (28, 34)=
+at 28,5: =Number 860 at position (28, 67)=
+at 28,6: =Number 546 at position (28, 71)=
+at 28,7: =Number 922 at position (28, 77)=
+at 28,8: =Number 847 at position (28, 81)=
+at 28,9: =Number 888 at position (28, 92)=
+at 28,10: =Number * at position (28, 92)=
+adjacent identified: =Number 888 at position (28, 92)= to =Number * at position (28, 92)=
+adjacent identified: =Number 390 at position (28, 93)= to =Number * at position (28, 92)=
+there are 2 adjacent to =Number * at position (28, 92)=
+at 28,11: =Number 390 at position (28, 93)=
+at 28,12: =Number 88 at position (28, 106)=
+at 28,13: =Number 796 at position (28, 113)=
+at 28,14: =Number 507 at position (28, 125)=
+at 29,0: =Number * at position (29, 3)=
+adjacent identified: =Number 968 at position (28, 3)= to =Number * at position (29, 3)=
+adjacent identified: =Number 672 at position (30, 0)= to =Number * at position (29, 3)=
+there are 2 adjacent to =Number * at position (29, 3)=
+at 29,1: =Number 550 at position (29, 15)=
+at 29,2: =Number * at position (29, 20)=
+adjacent identified: =Number 112 at position (28, 21)= to =Number * at position (29, 20)=
+adjacent identified: =Number 142 at position (30, 19)= to =Number * at position (29, 20)=
+there are 2 adjacent to =Number * at position (29, 20)=
+at 29,3: =Number * at position (29, 37)=
+adjacent identified: =Number 102 at position (28, 34)= to =Number * at position (29, 37)=
+adjacent identified: =Number 493 at position (29, 38)= to =Number * at position (29, 37)=
+there are 2 adjacent to =Number * at position (29, 37)=
+at 29,4: =Number 493 at position (29, 38)=
+at 29,5: =Number 54 at position (29, 60)=
+at 29,6: =Number * at position (29, 60)=
+adjacent identified: =Number 54 at position (29, 60)= to =Number * at position (29, 60)=
+adjacent identified: =Number 299 at position (29, 61)= to =Number * at position (29, 60)=
+there are 2 adjacent to =Number * at position (29, 60)=
+at 29,7: =Number 299 at position (29, 61)=
+at 29,8: =Number * at position (29, 70)=
+adjacent identified: =Number 860 at position (28, 67)= to =Number * at position (29, 70)=
+adjacent identified: =Number 546 at position (28, 71)= to =Number * at position (29, 70)=
+there are 2 adjacent to =Number * at position (29, 70)=
+at 29,9: =Number $ at position (29, 103)=
+at 29,10: =Number 348 at position (29, 121)=
+at 29,11: =Number % at position (29, 132)=
+at 30,0: =Number 672 at position (30, 0)=
+at 30,1: =Number + at position (30, 14)=
+at 30,2: =Number 142 at position (30, 19)=
+at 30,3: =Number 548 at position (30, 76)=
+at 30,4: =Number 343 at position (30, 81)=
+at 30,5: =Number 843 at position (30, 104)=
+at 30,6: =Number & at position (30, 115)=
+at 30,7: =Number * at position (30, 121)=
+adjacent identified: =Number 348 at position (29, 121)= to =Number * at position (30, 121)=
+adjacent identified: =Number 155 at position (31, 118)= to =Number * at position (30, 121)=
+there are 2 adjacent to =Number * at position (30, 121)=
+at 30,8: =Number 773 at position (30, 129)=
+at 30,9: =Number 3 at position (30, 137)=
+at 31,0: =Number 791 at position (31, 9)=
+at 31,1: =Number & at position (31, 69)=
+at 31,2: =Number # at position (31, 72)=
+at 31,3: =Number * at position (31, 81)=
+adjacent identified: =Number 343 at position (30, 81)= to =Number * at position (31, 81)=
+adjacent identified: =Number 662 at position (32, 82)= to =Number * at position (31, 81)=
+there are 2 adjacent to =Number * at position (31, 81)=
+at 31,4: =Number 383 at position (31, 91)=
+at 31,5: =Number 716 at position (31, 96)=
+at 31,6: =Number 599 at position (31, 108)=
+at 31,7: =Number 415 at position (31, 114)=
+at 31,8: =Number 155 at position (31, 118)=
+at 32,0: =Number 565 at position (32, 1)=
+at 32,1: =Number % at position (32, 10)=
+at 32,2: =Number 49 at position (32, 25)=
+at 32,3: =Number 712 at position (32, 54)=
+at 32,4: =Number $ at position (32, 54)=
+at 32,5: =Number 159 at position (32, 67)=
+at 32,6: =Number 854 at position (32, 73)=
+at 32,7: =Number 662 at position (32, 82)=
+at 32,8: =Number - at position (32, 88)=
+at 32,9: =Number * at position (32, 91)=
+adjacent identified: =Number 383 at position (31, 91)= to =Number * at position (32, 91)=
+adjacent identified: =Number 445 at position (33, 92)= to =Number * at position (32, 91)=
+there are 2 adjacent to =Number * at position (32, 91)=
+at 32,10: =Number = at position (32, 96)=
+at 32,11: =Number * at position (32, 102)=
+adjacent identified: =Number 958 at position (33, 99)= to =Number * at position (32, 102)=
+adjacent identified: =Number 42 at position (33, 103)= to =Number * at position (32, 102)=
+there are 2 adjacent to =Number * at position (32, 102)=
+at 32,12: =Number * at position (32, 110)=
+adjacent identified: =Number 599 at position (31, 108)= to =Number * at position (32, 110)=
+adjacent identified: =Number 531 at position (33, 109)= to =Number * at position (32, 110)=
+there are 2 adjacent to =Number * at position (32, 110)=
+at 32,13: =Number 173 at position (32, 123)=
+at 32,14: =Number 973 at position (32, 128)=
+at 33,0: =Number / at position (33, 7)=
+at 33,1: =Number * at position (33, 25)=
+adjacent identified: =Number 49 at position (32, 25)= to =Number * at position (33, 25)=
+adjacent identified: =Number 304 at position (34, 25)= to =Number * at position (33, 25)=
+there are 2 adjacent to =Number * at position (33, 25)=
+at 33,2: =Number 624 at position (33, 30)=
+at 33,3: =Number 905 at position (33, 39)=
+at 33,4: =Number 590 at position (33, 46)=
+at 33,5: =Number 271 at position (33, 87)=
+at 33,6: =Number 445 at position (33, 92)=
+at 33,7: =Number 958 at position (33, 99)=
+at 33,8: =Number 42 at position (33, 103)=
+at 33,9: =Number 531 at position (33, 109)=
+at 33,10: =Number 293 at position (33, 118)=
+at 33,11: =Number * at position (33, 123)=
+adjacent identified: =Number 173 at position (32, 123)= to =Number * at position (33, 123)=
+adjacent identified: =Number 587 at position (34, 123)= to =Number * at position (33, 123)=
+there are 2 adjacent to =Number * at position (33, 123)=
+at 33,12: =Number 866 at position (33, 136)=
+at 34,0: =Number 645 at position (34, 4)=
+at 34,1: =Number 877 at position (34, 9)=
+at 34,2: =Number 304 at position (34, 25)=
+at 34,3: =Number $ at position (34, 31)=
+at 34,4: =Number 761 at position (34, 38)=
+at 34,5: =Number * at position (34, 38)=
+adjacent identified: =Number 905 at position (33, 39)= to =Number * at position (34, 38)=
+adjacent identified: =Number 761 at position (34, 38)= to =Number * at position (34, 38)=
+there are 2 adjacent to =Number * at position (34, 38)=
+at 34,6: =Number * at position (34, 45)=
+adjacent identified: =Number 590 at position (33, 46)= to =Number * at position (34, 45)=
+adjacent identified: =Number 40 at position (35, 45)= to =Number * at position (34, 45)=
+there are 2 adjacent to =Number * at position (34, 45)=
+at 34,7: =Number 718 at position (34, 66)=
+at 34,8: =Number * at position (34, 66)=
+adjacent identified: =Number 718 at position (34, 66)= to =Number * at position (34, 66)=
+adjacent identified: =Number 495 at position (34, 67)= to =Number * at position (34, 66)=
+there are 2 adjacent to =Number * at position (34, 66)=
+at 34,9: =Number 495 at position (34, 67)=
+at 34,10: =Number * at position (34, 117)=
+adjacent identified: =Number 293 at position (33, 118)= to =Number * at position (34, 117)=
+adjacent identified: =Number 170 at position (35, 118)= to =Number * at position (34, 117)=
+there are 2 adjacent to =Number * at position (34, 117)=
+at 34,11: =Number 587 at position (34, 123)=
+at 34,12: =Number 815 at position (34, 134)=
+at 34,13: =Number + at position (34, 134)=
+at 35,0: =Number * at position (35, 9)=
+adjacent identified: =Number 877 at position (34, 9)= to =Number * at position (35, 9)=
+adjacent identified: =Number 493 at position (36, 10)= to =Number * at position (35, 9)=
+there are 2 adjacent to =Number * at position (35, 9)=
+at 35,1: =Number 958 at position (35, 19)=
+at 35,2: =Number * at position (35, 19)=
+adjacent identified: =Number 958 at position (35, 19)= to =Number * at position (35, 19)=
+adjacent identified: =Number 319 at position (35, 20)= to =Number * at position (35, 19)=
+there are 2 adjacent to =Number * at position (35, 19)=
+at 35,3: =Number 319 at position (35, 20)=
+at 35,4: =Number 40 at position (35, 45)=
+at 35,5: =Number 678 at position (35, 59)=
+at 35,6: =Number 701 at position (35, 87)=
+at 35,7: =Number * at position (35, 87)=
+adjacent identified: =Number 701 at position (35, 87)= to =Number * at position (35, 87)=
+adjacent identified: =Number 422 at position (35, 88)= to =Number * at position (35, 87)=
+there are 2 adjacent to =Number * at position (35, 87)=
+at 35,8: =Number 422 at position (35, 88)=
+at 35,9: =Number 37 at position (35, 95)=
+at 35,10: =Number 357 at position (35, 103)=
+at 35,11: =Number 170 at position (35, 118)=
+at 36,0: =Number 493 at position (36, 10)=
+at 36,1: =Number 438 at position (36, 32)=
+at 36,2: =Number 224 at position (36, 36)=
+at 36,3: =Number & at position (36, 54)=
+at 36,4: =Number * at position (36, 60)=
+adjacent identified: =Number 678 at position (35, 59)= to =Number * at position (36, 60)=
+adjacent identified: =Number 563 at position (37, 58)= to =Number * at position (36, 60)=
+there are 2 adjacent to =Number * at position (36, 60)=
+at 36,5: =Number 814 at position (36, 74)=
+at 36,6: =Number * at position (36, 95)=
+adjacent identified: =Number 37 at position (35, 95)= to =Number * at position (36, 95)=
+adjacent identified: =Number 475 at position (37, 94)= to =Number * at position (36, 95)=
+there are 2 adjacent to =Number * at position (36, 95)=
+at 36,7: =Number 832 at position (36, 102)=
+at 36,8: =Number * at position (36, 102)=
+adjacent identified: =Number 357 at position (35, 103)= to =Number * at position (36, 102)=
+adjacent identified: =Number 832 at position (36, 102)= to =Number * at position (36, 102)=
+there are 2 adjacent to =Number * at position (36, 102)=
+at 36,9: =Number % at position (36, 111)=
+at 36,10: =Number 863 at position (36, 112)=
+at 36,11: =Number 448 at position (36, 131)=
+at 37,0: =Number - at position (37, 6)=
+at 37,1: =Number 727 at position (37, 20)=
+at 37,2: =Number 412 at position (37, 28)=
+at 37,3: =Number * at position (37, 32)=
+adjacent identified: =Number 438 at position (36, 32)= to =Number * at position (37, 32)=
+adjacent identified: =Number 688 at position (38, 32)= to =Number * at position (37, 32)=
+there are 2 adjacent to =Number * at position (37, 32)=
+at 37,4: =Number * at position (37, 37)=
+adjacent identified: =Number 224 at position (36, 36)= to =Number * at position (37, 37)=
+adjacent identified: =Number 40 at position (38, 36)= to =Number * at position (37, 37)=
+there are 2 adjacent to =Number * at position (37, 37)=
+at 37,5: =Number @ at position (37, 49)=
+at 37,6: =Number 514 at position (37, 53)=
+at 37,7: =Number 563 at position (37, 58)=
+at 37,8: =Number * at position (37, 76)=
+adjacent identified: =Number 814 at position (36, 74)= to =Number * at position (37, 76)=
+adjacent identified: =Number 66 at position (38, 76)= to =Number * at position (37, 76)=
+there are 2 adjacent to =Number * at position (37, 76)=
+at 37,9: =Number 853 at position (37, 85)=
+at 37,10: =Number * at position (37, 85)=
+adjacent identified: =Number 853 at position (37, 85)= to =Number * at position (37, 85)=
+adjacent identified: =Number 194 at position (37, 86)= to =Number * at position (37, 85)=
+there are 2 adjacent to =Number * at position (37, 85)=
+at 37,11: =Number 194 at position (37, 86)=
+at 37,12: =Number 986 at position (37, 90)=
+at 37,13: =Number 475 at position (37, 94)=
+at 37,14: =Number @ at position (37, 134)=
+at 38,0: =Number 274 at position (38, 6)=
+at 38,1: =Number 810 at position (38, 14)=
+at 38,2: =Number * at position (38, 21)=
+adjacent identified: =Number 727 at position (37, 20)= to =Number * at position (38, 21)=
+adjacent identified: =Number 755 at position (39, 19)= to =Number * at position (38, 21)=
+there are 2 adjacent to =Number * at position (38, 21)=
+at 38,3: =Number 874 at position (38, 24)=
+at 38,4: =Number / at position (38, 30)=
+at 38,5: =Number 688 at position (38, 32)=
+at 38,6: =Number 40 at position (38, 36)=
+at 38,7: =Number 271 at position (38, 41)=
+at 38,8: =Number 646 at position (38, 46)=
+at 38,9: =Number 66 at position (38, 76)=
+at 38,10: =Number * at position (38, 92)=
+adjacent identified: =Number 986 at position (37, 90)= to =Number * at position (38, 92)=
+adjacent identified: =Number 798 at position (39, 91)= to =Number * at position (38, 92)=
+there are 2 adjacent to =Number * at position (38, 92)=
+at 38,11: =Number 351 at position (38, 101)=
+at 38,12: =Number * at position (38, 114)=
+adjacent identified: =Number 122 at position (38, 115)= to =Number * at position (38, 114)=
+adjacent identified: =Number 717 at position (39, 111)= to =Number * at position (38, 114)=
+there are 2 adjacent to =Number * at position (38, 114)=
+at 38,13: =Number 122 at position (38, 115)=
+at 38,14: =Number 97 at position (38, 121)=
+at 38,15: =Number & at position (38, 121)=
+at 38,16: =Number 435 at position (38, 123)=
+at 39,0: =Number 236 at position (39, 1)=
+at 39,1: =Number 755 at position (39, 19)=
+at 39,2: =Number * at position (39, 26)=
+adjacent identified: =Number 874 at position (38, 24)= to =Number * at position (39, 26)=
+adjacent identified: =Number 766 at position (40, 23)= to =Number * at position (39, 26)=
+there are 2 adjacent to =Number * at position (39, 26)=
+at 39,3: =Number / at position (39, 28)=
+at 39,4: =Number % at position (39, 44)=
+at 39,5: =Number 112 at position (39, 59)=
+at 39,6: =Number 492 at position (39, 81)=
+at 39,7: =Number 798 at position (39, 91)=
+at 39,8: =Number * at position (39, 102)=
+adjacent identified: =Number 351 at position (38, 101)= to =Number * at position (39, 102)=
+adjacent identified: =Number 719 at position (40, 100)= to =Number * at position (39, 102)=
+there are 2 adjacent to =Number * at position (39, 102)=
+at 39,9: =Number 946 at position (39, 106)=
+at 39,10: =Number 717 at position (39, 111)=
+at 39,11: =Number / at position (39, 123)=
+at 39,12: =Number 453 at position (39, 135)=
+at 40,0: =Number * at position (40, 3)=
+adjacent identified: =Number 236 at position (39, 1)= to =Number * at position (40, 3)=
+adjacent identified: =Number 309 at position (41, 0)= to =Number * at position (40, 3)=
+there are 2 adjacent to =Number * at position (40, 3)=
+at 40,1: =Number 509 at position (40, 15)=
+at 40,2: =Number 766 at position (40, 23)=
+at 40,3: =Number 169 at position (40, 28)=
+at 40,4: =Number & at position (40, 35)=
+at 40,5: =Number * at position (40, 61)=
+adjacent identified: =Number 112 at position (39, 59)= to =Number * at position (40, 61)=
+there are 1 adjacent to =Number * at position (40, 61)=
+at 40,6: =Number 719 at position (40, 100)=
+at 40,7: =Number = at position (40, 109)=
+at 40,8: =Number 998 at position (40, 119)=
+at 40,9: =Number * at position (40, 129)=
+adjacent identified: =Number 312 at position (41, 129)= to =Number * at position (40, 129)=
+there are 1 adjacent to =Number * at position (40, 129)=
+at 40,10: =Number * at position (40, 134)=
+adjacent identified: =Number 453 at position (39, 135)= to =Number * at position (40, 134)=
+adjacent identified: =Number 452 at position (41, 133)= to =Number * at position (40, 134)=
+there are 2 adjacent to =Number * at position (40, 134)=
+at 41,0: =Number 309 at position (41, 0)=
+at 41,1: =Number 896 at position (41, 7)=
+at 41,2: =Number * at position (41, 16)=
+adjacent identified: =Number 509 at position (40, 15)= to =Number * at position (41, 16)=
+adjacent identified: =Number 216 at position (42, 13)= to =Number * at position (41, 16)=
+there are 2 adjacent to =Number * at position (41, 16)=
+at 41,3: =Number 773 at position (41, 33)=
+at 41,4: =Number + at position (41, 47)=
+at 41,5: =Number 155 at position (41, 50)=
+at 41,6: =Number 797 at position (41, 54)=
+at 41,7: =Number # at position (41, 59)=
+at 41,8: =Number 164 at position (41, 69)=
+at 41,9: =Number 296 at position (41, 78)=
+at 41,10: =Number - at position (41, 121)=
+at 41,11: =Number 312 at position (41, 129)=
+at 41,12: =Number 452 at position (41, 133)=
+at 42,0: =Number * at position (42, 10)=
+adjacent identified: =Number 896 at position (41, 7)= to =Number * at position (42, 10)=
+adjacent identified: =Number 746 at position (43, 9)= to =Number * at position (42, 10)=
+there are 2 adjacent to =Number * at position (42, 10)=
+at 42,1: =Number 216 at position (42, 13)=
+at 42,2: =Number 670 at position (42, 29)=
+at 42,3: =Number 90 at position (42, 46)=
+at 42,4: =Number * at position (42, 50)=
+adjacent identified: =Number 155 at position (41, 50)= to =Number * at position (42, 50)=
+adjacent identified: =Number 46 at position (43, 51)= to =Number * at position (42, 50)=
+there are 2 adjacent to =Number * at position (42, 50)=
+at 42,5: =Number 705 at position (42, 60)=
+at 42,6: =Number = at position (42, 70)=
+at 42,7: =Number * at position (42, 78)=
+adjacent identified: =Number 296 at position (41, 78)= to =Number * at position (42, 78)=
+adjacent identified: =Number 26 at position (43, 79)= to =Number * at position (42, 78)=
+there are 2 adjacent to =Number * at position (42, 78)=
+at 42,8: =Number 893 at position (42, 82)=
+at 42,9: =Number 214 at position (42, 86)=
+at 42,10: =Number 655 at position (42, 94)=
+at 42,11: =Number 439 at position (42, 107)=
+at 42,12: =Number * at position (42, 107)=
+adjacent identified: =Number 439 at position (42, 107)= to =Number * at position (42, 107)=
+adjacent identified: =Number 158 at position (42, 108)= to =Number * at position (42, 107)=
+there are 2 adjacent to =Number * at position (42, 107)=
+at 42,13: =Number 158 at position (42, 108)=
+at 42,14: =Number 345 at position (42, 113)=
+at 42,15: =Number $ at position (42, 117)=
+at 42,16: =Number 51 at position (42, 125)=
+at 43,0: =Number # at position (43, 4)=
+at 43,1: =Number 746 at position (43, 9)=
+at 43,2: =Number @ at position (43, 30)=
+at 43,3: =Number 874 at position (43, 36)=
+at 43,4: =Number * at position (43, 41)=
+adjacent identified: =Number 190 at position (44, 41)= to =Number * at position (43, 41)=
+there are 1 adjacent to =Number * at position (43, 41)=
+at 43,5: =Number 46 at position (43, 51)=
+at 43,6: =Number 456 at position (43, 65)=
+at 43,7: =Number 26 at position (43, 79)=
+at 43,8: =Number * at position (43, 82)=
+adjacent identified: =Number 893 at position (42, 82)= to =Number * at position (43, 82)=
+adjacent identified: =Number 769 at position (44, 82)= to =Number * at position (43, 82)=
+there are 2 adjacent to =Number * at position (43, 82)=
+at 43,9: =Number * at position (43, 86)=
+adjacent identified: =Number 214 at position (42, 86)= to =Number * at position (43, 86)=
+adjacent identified: =Number 47 at position (44, 86)= to =Number * at position (43, 86)=
+there are 2 adjacent to =Number * at position (43, 86)=
+at 43,10: =Number * at position (43, 97)=
+adjacent identified: =Number 655 at position (42, 94)= to =Number * at position (43, 97)=
+adjacent identified: =Number 7 at position (44, 96)= to =Number * at position (43, 97)=
+there are 2 adjacent to =Number * at position (43, 97)=
+at 43,11: =Number # at position (43, 113)=
+at 43,12: =Number 491 at position (43, 118)=
+at 43,13: =Number * at position (43, 124)=
+adjacent identified: =Number 51 at position (42, 125)= to =Number * at position (43, 124)=
+adjacent identified: =Number 536 at position (44, 124)= to =Number * at position (43, 124)=
+there are 2 adjacent to =Number * at position (43, 124)=
+at 43,14: =Number 421 at position (43, 131)=
+at 43,15: =Number * at position (43, 131)=
+adjacent identified: =Number 421 at position (43, 131)= to =Number * at position (43, 131)=
+adjacent identified: =Number 795 at position (43, 132)= to =Number * at position (43, 131)=
+there are 2 adjacent to =Number * at position (43, 131)=
+at 43,16: =Number 795 at position (43, 132)=
+at 44,0: =Number 596 at position (44, 4)=
+at 44,1: =Number 578 at position (44, 25)=
+at 44,2: =Number & at position (44, 25)=
+at 44,3: =Number & at position (44, 28)=
+at 44,4: =Number @ at position (44, 38)=
+at 44,5: =Number 190 at position (44, 41)=
+at 44,6: =Number 256 at position (44, 45)=
+at 44,7: =Number * at position (44, 64)=
+adjacent identified: =Number 456 at position (43, 65)= to =Number * at position (44, 64)=
+there are 1 adjacent to =Number * at position (44, 64)=
+at 44,8: =Number 614 at position (44, 71)=
+at 44,9: =Number 769 at position (44, 82)=
+at 44,10: =Number 47 at position (44, 86)=
+at 44,11: =Number 7 at position (44, 96)=
+at 44,12: =Number $ at position (44, 104)=
+at 44,13: =Number + at position (44, 107)=
+at 44,14: =Number 405 at position (44, 108)=
+at 44,15: =Number 536 at position (44, 124)=
+at 45,0: =Number 868 at position (45, 13)=
+at 45,1: =Number 973 at position (45, 17)=
+at 45,2: =Number 613 at position (45, 28)=
+at 45,3: =Number + at position (45, 32)=
+at 45,4: =Number 516 at position (45, 56)=
+at 45,5: =Number 431 at position (45, 70)=
+at 45,6: =Number * at position (45, 70)=
+adjacent identified: =Number 614 at position (44, 71)= to =Number * at position (45, 70)=
+adjacent identified: =Number 431 at position (45, 70)= to =Number * at position (45, 70)=
+there are 2 adjacent to =Number * at position (45, 70)=
+at 45,7: =Number 613 at position (45, 98)=
+at 45,8: =Number 759 at position (45, 103)=
+at 45,9: =Number + at position (45, 112)=
+at 45,10: =Number 546 at position (45, 118)=
+at 45,11: =Number 441 at position (45, 128)=
+at 45,12: =Number & at position (45, 134)=
+at 46,0: =Number 134 at position (46, 8)=
+at 46,1: =Number * at position (46, 8)=
+adjacent identified: =Number 134 at position (46, 8)= to =Number * at position (46, 8)=
+adjacent identified: =Number 82 at position (46, 9)= to =Number * at position (46, 8)=
+there are 2 adjacent to =Number * at position (46, 8)=
+at 46,2: =Number 82 at position (46, 9)=
+at 46,3: =Number * at position (46, 12)=
+adjacent identified: =Number 868 at position (45, 13)= to =Number * at position (46, 12)=
+there are 1 adjacent to =Number * at position (46, 12)=
+at 46,4: =Number * at position (46, 18)=
+adjacent identified: =Number 973 at position (45, 17)= to =Number * at position (46, 18)=
+adjacent identified: =Number 697 at position (47, 15)= to =Number * at position (46, 18)=
+there are 2 adjacent to =Number * at position (46, 18)=
+at 46,5: =Number 483 at position (46, 24)=
+at 46,6: =Number = at position (46, 24)=
+at 46,7: =Number 940 at position (46, 32)=
+at 46,8: =Number 987 at position (46, 36)=
+at 46,9: =Number * at position (46, 59)=
+adjacent identified: =Number 516 at position (45, 56)= to =Number * at position (46, 59)=
+adjacent identified: =Number 27 at position (47, 59)= to =Number * at position (46, 59)=
+there are 2 adjacent to =Number * at position (46, 59)=
+at 46,10: =Number 13 at position (46, 79)=
+at 46,11: =Number - at position (46, 85)=
+at 46,12: =Number * at position (46, 100)=
+adjacent identified: =Number 613 at position (45, 98)= to =Number * at position (46, 100)=
+adjacent identified: =Number 889 at position (47, 97)= to =Number * at position (46, 100)=
+there are 2 adjacent to =Number * at position (46, 100)=
+at 46,13: =Number 184 at position (46, 111)=
+at 46,14: =Number * at position (46, 127)=
+adjacent identified: =Number 441 at position (45, 128)= to =Number * at position (46, 127)=
+adjacent identified: =Number 682 at position (47, 126)= to =Number * at position (46, 127)=
+there are 2 adjacent to =Number * at position (46, 127)=
+at 46,15: =Number 789 at position (46, 132)=
+at 47,0: =Number 697 at position (47, 15)=
+at 47,1: =Number 347 at position (47, 29)=
+at 47,2: =Number - at position (47, 29)=
+at 47,3: =Number 23 at position (47, 47)=
+at 47,4: =Number # at position (47, 50)=
+at 47,5: =Number 27 at position (47, 59)=
+at 47,6: =Number 568 at position (47, 65)=
+at 47,7: =Number / at position (47, 65)=
+at 47,8: =Number * at position (47, 80)=
+adjacent identified: =Number 13 at position (46, 79)= to =Number * at position (47, 80)=
+there are 1 adjacent to =Number * at position (47, 80)=
+at 47,9: =Number 312 at position (47, 85)=
+at 47,10: =Number & at position (47, 89)=
+at 47,11: =Number 373 at position (47, 90)=
+at 47,12: =Number 889 at position (47, 97)=
+at 47,13: =Number % at position (47, 117)=
+at 47,14: =Number 682 at position (47, 126)=
+at 47,15: =Number 673 at position (47, 136)=
+at 48,0: =Number 930 at position (48, 9)=
+at 48,1: =Number 141 at position (48, 22)=
+at 48,2: =Number 997 at position (48, 39)=
+at 48,3: =Number % at position (48, 47)=
+at 48,4: =Number 528 at position (48, 50)=
+at 48,5: =Number = at position (48, 54)=
+at 48,6: =Number 829 at position (48, 55)=
+at 48,7: =Number 254 at position (48, 68)=
+at 48,8: =Number 55 at position (48, 104)=
+at 48,9: =Number 690 at position (48, 113)=
+at 48,10: =Number 765 at position (48, 117)=
+at 48,11: =Number # at position (48, 124)=
+at 48,12: =Number $ at position (48, 136)=
+at 49,0: =Number 655 at position (49, 3)=
+at 49,1: =Number * at position (49, 10)=
+adjacent identified: =Number 930 at position (48, 9)= to =Number * at position (49, 10)=
+adjacent identified: =Number 397 at position (50, 10)= to =Number * at position (49, 10)=
+there are 2 adjacent to =Number * at position (49, 10)=
+at 49,2: =Number * at position (49, 24)=
+adjacent identified: =Number 141 at position (48, 22)= to =Number * at position (49, 24)=
+adjacent identified: =Number 441 at position (50, 25)= to =Number * at position (49, 24)=
+there are 2 adjacent to =Number * at position (49, 24)=
+at 49,3: =Number 636 at position (49, 29)=
+at 49,4: =Number * at position (49, 42)=
+adjacent identified: =Number 997 at position (48, 39)= to =Number * at position (49, 42)=
+adjacent identified: =Number 686 at position (50, 42)= to =Number * at position (49, 42)=
+there are 2 adjacent to =Number * at position (49, 42)=
+at 49,5: =Number 36 at position (49, 63)=
+at 49,6: =Number $ at position (49, 67)=
+at 49,7: =Number 503 at position (49, 86)=
+at 49,8: =Number * at position (49, 94)=
+adjacent identified: =Number 417 at position (49, 95)= to =Number * at position (49, 94)=
+adjacent identified: =Number 376 at position (50, 91)= to =Number * at position (49, 94)=
+there are 2 adjacent to =Number * at position (49, 94)=
+at 49,9: =Number 417 at position (49, 95)=
+at 49,10: =Number * at position (49, 103)=
+adjacent identified: =Number 55 at position (48, 104)= to =Number * at position (49, 103)=
+there are 1 adjacent to =Number * at position (49, 103)=
+at 49,11: =Number 942 at position (49, 112)=
+at 49,12: =Number * at position (49, 112)=
+adjacent identified: =Number 690 at position (48, 113)= to =Number * at position (49, 112)=
+adjacent identified: =Number 942 at position (49, 112)= to =Number * at position (49, 112)=
+there are 2 adjacent to =Number * at position (49, 112)=
+at 49,13: =Number 67 at position (49, 124)=
+at 49,14: =Number 92 at position (49, 130)=
+at 49,15: =Number $ at position (49, 130)=
+at 50,0: =Number * at position (50, 5)=
+adjacent identified: =Number 655 at position (49, 3)= to =Number * at position (50, 5)=
+adjacent identified: =Number 79 at position (51, 6)= to =Number * at position (50, 5)=
+there are 2 adjacent to =Number * at position (50, 5)=
+at 50,1: =Number 397 at position (50, 10)=
+at 50,2: =Number 999 at position (50, 16)=
+at 50,3: =Number 441 at position (50, 25)=
+at 50,4: =Number * at position (50, 31)=
+adjacent identified: =Number 636 at position (49, 29)= to =Number * at position (50, 31)=
+adjacent identified: =Number 423 at position (51, 29)= to =Number * at position (50, 31)=
+there are 2 adjacent to =Number * at position (50, 31)=
+at 50,5: =Number 568 at position (50, 36)=
+at 50,6: =Number 686 at position (50, 42)=
+at 50,7: =Number = at position (50, 89)=
+at 50,8: =Number 376 at position (50, 91)=
+at 50,9: =Number - at position (50, 106)=
+at 50,10: =Number 683 at position (50, 120)=
+at 51,0: =Number 713 at position (51, 0)=
+at 51,1: =Number 79 at position (51, 6)=
+at 51,2: =Number @ at position (51, 18)=
+at 51,3: =Number 423 at position (51, 29)=
+at 51,4: =Number $ at position (51, 36)=
+at 51,5: =Number 935 at position (51, 49)=
+at 51,6: =Number 899 at position (51, 71)=
+at 51,7: =Number 303 at position (51, 80)=
+at 51,8: =Number $ at position (51, 80)=
+at 51,9: =Number = at position (51, 85)=
+at 51,10: =Number 579 at position (51, 96)=
+at 51,11: =Number 720 at position (51, 106)=
+at 51,12: =Number 508 at position (51, 110)=
+at 51,13: =Number % at position (51, 120)=
+at 51,14: =Number = at position (51, 125)=
+at 52,0: =Number 416 at position (52, 12)=
+at 52,1: =Number 22 at position (52, 22)=
+at 52,2: =Number $ at position (52, 45)=
+at 52,3: =Number * at position (52, 48)=
+adjacent identified: =Number 935 at position (51, 49)= to =Number * at position (52, 48)=
+adjacent identified: =Number 35 at position (53, 49)= to =Number * at position (52, 48)=
+there are 2 adjacent to =Number * at position (52, 48)=
+at 52,4: =Number 624 at position (52, 61)=
+at 52,5: =Number * at position (52, 73)=
+adjacent identified: =Number 899 at position (51, 71)= to =Number * at position (52, 73)=
+adjacent identified: =Number 83 at position (53, 73)= to =Number * at position (52, 73)=
+there are 2 adjacent to =Number * at position (52, 73)=
+at 52,6: =Number 922 at position (52, 85)=
+at 52,7: =Number * at position (52, 95)=
+adjacent identified: =Number 579 at position (51, 96)= to =Number * at position (52, 95)=
+adjacent identified: =Number 854 at position (53, 95)= to =Number * at position (52, 95)=
+there are 2 adjacent to =Number * at position (52, 95)=
+at 52,8: =Number & at position (52, 112)=
+at 52,9: =Number 63 at position (52, 124)=
+at 52,10: =Number 977 at position (52, 132)=
+at 53,0: =Number + at position (53, 11)=
+at 53,1: =Number * at position (53, 22)=
+adjacent identified: =Number 22 at position (52, 22)= to =Number * at position (53, 22)=
+adjacent identified: =Number 146 at position (54, 22)= to =Number * at position (53, 22)=
+there are 2 adjacent to =Number * at position (53, 22)=
+at 53,2: =Number * at position (53, 33)=
+adjacent identified: =Number 27 at position (53, 34)= to =Number * at position (53, 33)=
+there are 1 adjacent to =Number * at position (53, 33)=
+at 53,3: =Number 27 at position (53, 34)=
+at 53,4: =Number 943 at position (53, 43)=
+at 53,5: =Number 35 at position (53, 49)=
+at 53,6: =Number - at position (53, 62)=
+at 53,7: =Number 83 at position (53, 73)=
+at 53,8: =Number 210 at position (53, 77)=
+at 53,9: =Number 497 at position (53, 91)=
+at 53,10: =Number 854 at position (53, 95)=
+at 53,11: =Number 28 at position (53, 101)=
+at 53,12: =Number & at position (53, 110)=
+at 53,13: =Number * at position (53, 116)=
+adjacent identified: =Number 344 at position (53, 117)= to =Number * at position (53, 116)=
+adjacent identified: =Number 678 at position (54, 113)= to =Number * at position (53, 116)=
+there are 2 adjacent to =Number * at position (53, 116)=
+at 53,14: =Number 344 at position (53, 117)=
+at 54,0: =Number 662 at position (54, 0)=
+at 54,1: =Number 892 at position (54, 5)=
+at 54,2: =Number 146 at position (54, 22)=
+at 54,3: =Number 886 at position (54, 53)=
+at 54,4: =Number 503 at position (54, 65)=
+at 54,5: =Number $ at position (54, 76)=
+at 54,6: =Number * at position (54, 91)=
+adjacent identified: =Number 497 at position (53, 91)= to =Number * at position (54, 91)=
+adjacent identified: =Number 35 at position (55, 89)= to =Number * at position (54, 91)=
+there are 2 adjacent to =Number * at position (54, 91)=
+at 54,7: =Number 253 at position (54, 107)=
+at 54,8: =Number 678 at position (54, 113)=
+at 54,9: =Number 441 at position (54, 126)=
+at 55,0: =Number * at position (55, 6)=
+adjacent identified: =Number 892 at position (54, 5)= to =Number * at position (55, 6)=
+adjacent identified: =Number 152 at position (56, 5)= to =Number * at position (55, 6)=
+there are 2 adjacent to =Number * at position (55, 6)=
+at 55,1: =Number 814 at position (55, 10)=
+at 55,2: =Number * at position (55, 20)=
+adjacent identified: =Number 777 at position (56, 18)= to =Number * at position (55, 20)=
+there are 1 adjacent to =Number * at position (55, 20)=
+at 55,3: =Number % at position (55, 28)=
+at 55,4: =Number / at position (55, 35)=
+at 55,5: =Number 203 at position (55, 36)=
+at 55,6: =Number 35 at position (55, 42)=
+at 55,7: =Number 68 at position (55, 52)=
+at 55,8: =Number * at position (55, 52)=
+adjacent identified: =Number 886 at position (54, 53)= to =Number * at position (55, 52)=
+adjacent identified: =Number 68 at position (55, 52)= to =Number * at position (55, 52)=
+there are 2 adjacent to =Number * at position (55, 52)=
+at 55,9: =Number # at position (55, 57)=
+at 55,10: =Number * at position (55, 65)=
+adjacent identified: =Number 503 at position (54, 65)= to =Number * at position (55, 65)=
+adjacent identified: =Number 728 at position (56, 63)= to =Number * at position (55, 65)=
+there are 2 adjacent to =Number * at position (55, 65)=
+at 55,11: =Number 579 at position (55, 71)=
+at 55,12: =Number 35 at position (55, 89)=
+at 55,13: =Number 650 at position (55, 96)=
+at 55,14: =Number / at position (55, 104)=
+at 55,15: =Number + at position (55, 111)=
+at 55,16: =Number 716 at position (55, 118)=
+at 55,17: =Number 901 at position (55, 133)=
+at 56,0: =Number 506 at position (56, 0)=
+at 56,1: =Number 152 at position (56, 5)=
+at 56,2: =Number * at position (56, 9)=
+adjacent identified: =Number 814 at position (55, 10)= to =Number * at position (56, 9)=
+adjacent identified: =Number 984 at position (57, 10)= to =Number * at position (56, 9)=
+there are 2 adjacent to =Number * at position (56, 9)=
+at 56,3: =Number 777 at position (56, 18)=
+at 56,4: =Number 551 at position (56, 27)=
+at 56,5: =Number * at position (56, 44)=
+adjacent identified: =Number 35 at position (55, 42)= to =Number * at position (56, 44)=
+adjacent identified: =Number 898 at position (56, 45)= to =Number * at position (56, 44)=
+there are 2 adjacent to =Number * at position (56, 44)=
+at 56,6: =Number 898 at position (56, 45)=
+at 56,7: =Number 225 at position (56, 56)=
+at 56,8: =Number 728 at position (56, 63)=
+at 56,9: =Number * at position (56, 74)=
+adjacent identified: =Number 579 at position (55, 71)= to =Number * at position (56, 74)=
+adjacent identified: =Number 224 at position (56, 75)= to =Number * at position (56, 74)=
+there are 2 adjacent to =Number * at position (56, 74)=
+at 56,10: =Number 224 at position (56, 75)=
+at 56,11: =Number * at position (56, 97)=
+adjacent identified: =Number 650 at position (55, 96)= to =Number * at position (56, 97)=
+adjacent identified: =Number 565 at position (57, 95)= to =Number * at position (56, 97)=
+there are 2 adjacent to =Number * at position (56, 97)=
+at 56,12: =Number 425 at position (56, 103)=
+at 56,13: =Number 917 at position (56, 112)=
+at 56,14: =Number 500 at position (56, 129)=
+at 56,15: =Number * at position (56, 135)=
+adjacent identified: =Number 901 at position (55, 133)= to =Number * at position (56, 135)=
+adjacent identified: =Number 873 at position (57, 134)= to =Number * at position (56, 135)=
+there are 2 adjacent to =Number * at position (56, 135)=
+at 57,0: =Number * at position (57, 3)=
+adjacent identified: =Number 506 at position (56, 0)= to =Number * at position (57, 3)=
+adjacent identified: =Number 99 at position (58, 3)= to =Number * at position (57, 3)=
+there are 2 adjacent to =Number * at position (57, 3)=
+at 57,1: =Number 984 at position (57, 10)=
+at 57,2: =Number 861 at position (57, 40)=
+at 57,3: =Number & at position (57, 52)=
+at 57,4: =Number 22 at position (57, 53)=
+at 57,5: =Number 30 at position (57, 67)=
+at 57,6: =Number + at position (57, 72)=
+at 57,7: =Number 353 at position (57, 81)=
+at 57,8: =Number 77 at position (57, 92)=
+at 57,9: =Number 565 at position (57, 95)=
+at 57,10: =Number # at position (57, 110)=
+at 57,11: =Number 405 at position (57, 123)=
+at 57,12: =Number @ at position (57, 129)=
+at 57,13: =Number 873 at position (57, 134)=
+at 58,0: =Number 99 at position (58, 3)=
+at 58,1: =Number 109 at position (58, 16)=
+at 58,2: =Number 490 at position (58, 26)=
+at 58,3: =Number & at position (58, 26)=
+at 58,4: =Number 445 at position (58, 29)=
+at 58,5: =Number 322 at position (58, 35)=
+at 58,6: =Number / at position (58, 40)=
+at 58,7: =Number - at position (58, 69)=
+at 58,8: =Number 135 at position (58, 72)=
+at 58,9: =Number * at position (58, 82)=
+adjacent identified: =Number 353 at position (57, 81)= to =Number * at position (58, 82)=
+adjacent identified: =Number 503 at position (59, 82)= to =Number * at position (58, 82)=
+there are 2 adjacent to =Number * at position (58, 82)=
+at 58,10: =Number + at position (58, 92)=
+at 58,11: =Number 859 at position (58, 101)=
+at 58,12: =Number 454 at position (58, 107)=
+at 58,13: =Number * at position (58, 126)=
+adjacent identified: =Number 405 at position (57, 123)= to =Number * at position (58, 126)=
+adjacent identified: =Number 562 at position (59, 125)= to =Number * at position (58, 126)=
+there are 2 adjacent to =Number * at position (58, 126)=
+at 58,14: =Number & at position (58, 131)=
+at 59,0: =Number * at position (59, 17)=
+adjacent identified: =Number 109 at position (58, 16)= to =Number * at position (59, 17)=
+adjacent identified: =Number 281 at position (60, 14)= to =Number * at position (59, 17)=
+there are 2 adjacent to =Number * at position (59, 17)=
+at 59,1: =Number * at position (59, 30)=
+adjacent identified: =Number 445 at position (58, 29)= to =Number * at position (59, 30)=
+adjacent identified: =Number 831 at position (60, 28)= to =Number * at position (59, 30)=
+there are 2 adjacent to =Number * at position (59, 30)=
+at 59,2: =Number @ at position (59, 36)=
+at 59,3: =Number 927 at position (59, 46)=
+at 59,4: =Number @ at position (59, 50)=
+at 59,5: =Number 738 at position (59, 51)=
+at 59,6: =Number 925 at position (59, 60)=
+at 59,7: =Number 797 at position (59, 65)=
+at 59,8: =Number 503 at position (59, 82)=
+at 59,9: =Number 618 at position (59, 87)=
+at 59,10: =Number = at position (59, 103)=
+at 59,11: =Number 562 at position (59, 125)=
+at 59,12: =Number 643 at position (59, 129)=
+at 60,0: =Number 546 at position (60, 6)=
+at 60,1: =Number 358 at position (60, 10)=
+at 60,2: =Number 281 at position (60, 14)=
+at 60,3: =Number 247 at position (60, 24)=
+at 60,4: =Number / at position (60, 24)=
+at 60,5: =Number 831 at position (60, 28)=
+at 60,6: =Number 977 at position (60, 41)=
+at 60,7: =Number * at position (60, 48)=
+adjacent identified: =Number 927 at position (59, 46)= to =Number * at position (60, 48)=
+adjacent identified: =Number 590 at position (61, 46)= to =Number * at position (60, 48)=
+there are 2 adjacent to =Number * at position (60, 48)=
+at 60,8: =Number / at position (60, 60)=
+at 60,9: =Number * at position (60, 65)=
+adjacent identified: =Number 797 at position (59, 65)= to =Number * at position (60, 65)=
+adjacent identified: =Number 94 at position (61, 66)= to =Number * at position (60, 65)=
+there are 2 adjacent to =Number * at position (60, 65)=
+at 60,10: =Number 553 at position (60, 78)=
+at 60,11: =Number * at position (60, 86)=
+adjacent identified: =Number 618 at position (59, 87)= to =Number * at position (60, 86)=
+adjacent identified: =Number 19 at position (61, 85)= to =Number * at position (60, 86)=
+there are 2 adjacent to =Number * at position (60, 86)=
+at 60,12: =Number 994 at position (60, 92)=
+at 60,13: =Number 343 at position (60, 96)=
+at 60,14: =Number 880 at position (60, 121)=
+at 60,15: =Number - at position (60, 135)=
+at 60,16: =Number 949 at position (60, 136)=
+at 61,0: =Number 721 at position (61, 2)=
+at 61,1: =Number @ at position (61, 8)=
+at 61,2: =Number 305 at position (61, 35)=
+at 61,3: =Number 590 at position (61, 46)=
+at 61,4: =Number 410 at position (61, 53)=
+at 61,5: =Number 94 at position (61, 66)=
+at 61,6: =Number 296 at position (61, 69)=
+at 61,7: =Number * at position (61, 78)=
+adjacent identified: =Number 553 at position (60, 78)= to =Number * at position (61, 78)=
+adjacent identified: =Number 582 at position (62, 78)= to =Number * at position (61, 78)=
+there are 2 adjacent to =Number * at position (61, 78)=
+at 61,8: =Number 19 at position (61, 85)=
+at 61,9: =Number * at position (61, 91)=
+adjacent identified: =Number 994 at position (60, 92)= to =Number * at position (61, 91)=
+adjacent identified: =Number 229 at position (62, 92)= to =Number * at position (61, 91)=
+there are 2 adjacent to =Number * at position (61, 91)=
+at 61,10: =Number 202 at position (61, 106)=
+at 61,11: =Number 88 at position (61, 117)=
+at 61,12: =Number + at position (61, 117)=
+at 61,13: =Number - at position (61, 124)=
+at 62,0: =Number * at position (62, 4)=
+adjacent identified: =Number 721 at position (61, 2)= to =Number * at position (62, 4)=
+adjacent identified: =Number 623 at position (63, 4)= to =Number * at position (62, 4)=
+there are 2 adjacent to =Number * at position (62, 4)=
+at 62,1: =Number 590 at position (62, 13)=
+at 62,2: =Number % at position (62, 34)=
+at 62,3: =Number 542 at position (62, 39)=
+at 62,4: =Number + at position (62, 52)=
+at 62,5: =Number * at position (62, 71)=
+adjacent identified: =Number 296 at position (61, 69)= to =Number * at position (62, 71)=
+adjacent identified: =Number 683 at position (63, 70)= to =Number * at position (62, 71)=
+there are 2 adjacent to =Number * at position (62, 71)=
+at 62,6: =Number 582 at position (62, 78)=
+at 62,7: =Number 229 at position (62, 92)=
+at 62,8: =Number & at position (62, 113)=
+at 62,9: =Number - at position (62, 120)=
+at 62,10: =Number 273 at position (62, 129)=
+at 62,11: =Number 585 at position (62, 134)=
+at 63,0: =Number 623 at position (63, 4)=
+at 63,1: =Number @ at position (63, 14)=
+at 63,2: =Number 771 at position (63, 28)=
+at 63,3: =Number = at position (63, 39)=
+at 63,4: =Number + at position (63, 49)=
+at 63,5: =Number 737 at position (63, 62)=
+at 63,6: =Number & at position (63, 62)=
+at 63,7: =Number 683 at position (63, 70)=
+at 63,8: =Number * at position (63, 88)=
+adjacent identified: =Number 162 at position (64, 88)= to =Number * at position (63, 88)=
+there are 1 adjacent to =Number * at position (63, 88)=
+at 63,9: =Number * at position (63, 96)=
+adjacent identified: =Number 826 at position (64, 93)= to =Number * at position (63, 96)=
+adjacent identified: =Number 246 at position (64, 97)= to =Number * at position (63, 96)=
+there are 2 adjacent to =Number * at position (63, 96)=
+at 63,10: =Number 613 at position (63, 104)=
+at 63,11: =Number 769 at position (63, 110)=
+at 63,12: =Number 849 at position (63, 121)=
+at 63,13: =Number * at position (63, 130)=
+adjacent identified: =Number 273 at position (62, 129)= to =Number * at position (63, 130)=
+adjacent identified: =Number 487 at position (64, 129)= to =Number * at position (63, 130)=
+there are 2 adjacent to =Number * at position (63, 130)=
+at 63,14: =Number @ at position (63, 133)=
+at 64,0: =Number 722 at position (64, 8)=
+at 64,1: =Number 571 at position (64, 16)=
+at 64,2: =Number 725 at position (64, 21)=
+at 64,3: =Number * at position (64, 29)=
+adjacent identified: =Number 771 at position (63, 28)= to =Number * at position (64, 29)=
+adjacent identified: =Number 269 at position (65, 29)= to =Number * at position (64, 29)=
+there are 2 adjacent to =Number * at position (64, 29)=
+at 64,4: =Number 758 at position (64, 47)=
+at 64,5: =Number 209 at position (64, 76)=
+at 64,6: =Number 584 at position (64, 82)=
+at 64,7: =Number 162 at position (64, 88)=
+at 64,8: =Number 826 at position (64, 93)=
+at 64,9: =Number 246 at position (64, 97)=
+at 64,10: =Number * at position (64, 106)=
+adjacent identified: =Number 613 at position (63, 104)= to =Number * at position (64, 106)=
+adjacent identified: =Number 649 at position (65, 105)= to =Number * at position (64, 106)=
+there are 2 adjacent to =Number * at position (64, 106)=
+at 64,11: =Number 212 at position (64, 125)=
+at 64,12: =Number 487 at position (64, 129)=
+at 64,13: =Number 774 at position (64, 135)=
+at 65,0: =Number 352 at position (65, 4)=
+at 65,1: =Number * at position (65, 16)=
+adjacent identified: =Number 571 at position (64, 16)= to =Number * at position (65, 16)=
+adjacent identified: =Number 675 at position (66, 13)= to =Number * at position (65, 16)=
+there are 2 adjacent to =Number * at position (65, 16)=
+at 65,2: =Number / at position (65, 22)=
+at 65,3: =Number 269 at position (65, 29)=
+at 65,4: =Number 669 at position (65, 33)=
+at 65,5: =Number 527 at position (65, 57)=
+at 65,6: =Number 537 at position (65, 62)=
+at 65,7: =Number * at position (65, 76)=
+adjacent identified: =Number 209 at position (64, 76)= to =Number * at position (65, 76)=
+adjacent identified: =Number 399 at position (66, 75)= to =Number * at position (65, 76)=
+there are 2 adjacent to =Number * at position (65, 76)=
+at 65,8: =Number + at position (65, 84)=
+at 65,9: =Number 649 at position (65, 105)=
+at 65,10: =Number 368 at position (65, 114)=
+at 65,11: =Number 251 at position (65, 124)=
+at 65,12: =Number * at position (65, 124)=
+adjacent identified: =Number 212 at position (64, 125)= to =Number * at position (65, 124)=
+adjacent identified: =Number 251 at position (65, 124)= to =Number * at position (65, 124)=
+there are 2 adjacent to =Number * at position (65, 124)=
+at 66,0: =Number 165 at position (66, 0)=
+at 66,1: =Number + at position (66, 7)=
+at 66,2: =Number 708 at position (66, 9)=
+at 66,3: =Number 675 at position (66, 13)=
+at 66,4: =Number 79 at position (66, 18)=
+at 66,5: =Number 408 at position (66, 25)=
+at 66,6: =Number 612 at position (66, 39)=
+at 66,7: =Number & at position (66, 47)=
+at 66,8: =Number + at position (66, 57)=
+at 66,9: =Number % at position (66, 64)=
+at 66,10: =Number 244 at position (66, 70)=
+at 66,11: =Number @ at position (66, 70)=
+at 66,12: =Number 399 at position (66, 75)=
+at 66,13: =Number 912 at position (66, 86)=
+at 66,14: =Number 364 at position (66, 95)=
+at 66,15: =Number - at position (66, 95)=
+at 66,16: =Number 17 at position (66, 110)=
+at 66,17: =Number 547 at position (66, 133)=
+at 67,0: =Number * at position (67, 3)=
+adjacent identified: =Number 165 at position (66, 0)= to =Number * at position (67, 3)=
+adjacent identified: =Number 478 at position (68, 1)= to =Number * at position (67, 3)=
+there are 2 adjacent to =Number * at position (67, 3)=
+at 67,1: =Number * at position (67, 9)=
+adjacent identified: =Number 708 at position (66, 9)= to =Number * at position (67, 9)=
+adjacent identified: =Number 768 at position (68, 9)= to =Number * at position (67, 9)=
+there are 2 adjacent to =Number * at position (67, 9)=
+at 67,2: =Number = at position (67, 18)=
+at 67,3: =Number * at position (67, 24)=
+adjacent identified: =Number 408 at position (66, 25)= to =Number * at position (67, 24)=
+adjacent identified: =Number 935 at position (68, 22)= to =Number * at position (67, 24)=
+there are 2 adjacent to =Number * at position (67, 24)=
+at 67,4: =Number * at position (67, 42)=
+adjacent identified: =Number 612 at position (66, 39)= to =Number * at position (67, 42)=
+adjacent identified: =Number 890 at position (68, 42)= to =Number * at position (67, 42)=
+there are 2 adjacent to =Number * at position (67, 42)=
+at 67,5: =Number 551 at position (67, 46)=
+at 67,6: =Number + at position (67, 55)=
+at 67,7: =Number * at position (67, 89)=
+adjacent identified: =Number 912 at position (66, 86)= to =Number * at position (67, 89)=
+adjacent identified: =Number 340 at position (68, 90)= to =Number * at position (67, 89)=
+there are 2 adjacent to =Number * at position (67, 89)=
+at 67,8: =Number 726 at position (67, 99)=
+at 67,9: =Number 257 at position (67, 103)=
+at 67,10: =Number * at position (67, 109)=
+adjacent identified: =Number 17 at position (66, 110)= to =Number * at position (67, 109)=
+adjacent identified: =Number 361 at position (68, 108)= to =Number * at position (67, 109)=
+there are 2 adjacent to =Number * at position (67, 109)=
+at 67,11: =Number 623 at position (67, 124)=
+at 67,12: =Number 839 at position (67, 129)=
+at 67,13: =Number * at position (67, 133)=
+adjacent identified: =Number 547 at position (66, 133)= to =Number * at position (67, 133)=
+there are 1 adjacent to =Number * at position (67, 133)=
+at 68,0: =Number 478 at position (68, 1)=
+at 68,1: =Number 768 at position (68, 9)=
+at 68,2: =Number 935 at position (68, 22)=
+at 68,3: =Number 194 at position (68, 32)=
+at 68,4: =Number 813 at position (68, 37)=
+at 68,5: =Number 890 at position (68, 42)=
+at 68,6: =Number 290 at position (68, 55)=
+at 68,7: =Number 911 at position (68, 60)=
+at 68,8: =Number 261 at position (68, 66)=
+at 68,9: =Number 698 at position (68, 79)=
+at 68,10: =Number 450 at position (68, 84)=
+at 68,11: =Number 340 at position (68, 90)=
+at 68,12: =Number * at position (68, 102)=
+adjacent identified: =Number 726 at position (67, 99)= to =Number * at position (68, 102)=
+adjacent identified: =Number 257 at position (67, 103)= to =Number * at position (68, 102)=
+there are 2 adjacent to =Number * at position (68, 102)=
+at 68,13: =Number 361 at position (68, 108)=
+at 68,14: =Number 280 at position (68, 113)=
+at 68,15: =Number * at position (68, 131)=
+adjacent identified: =Number 839 at position (67, 129)= to =Number * at position (68, 131)=
+adjacent identified: =Number 621 at position (69, 132)= to =Number * at position (68, 131)=
+there are 2 adjacent to =Number * at position (68, 131)=
+at 69,0: =Number 820 at position (69, 18)=
+at 69,1: =Number 548 at position (69, 31)=
+at 69,2: =Number * at position (69, 31)=
+adjacent identified: =Number 194 at position (68, 32)= to =Number * at position (69, 31)=
+adjacent identified: =Number 548 at position (69, 31)= to =Number * at position (69, 31)=
+there are 2 adjacent to =Number * at position (69, 31)=
+at 69,3: =Number / at position (69, 37)=
+at 69,4: =Number * at position (69, 66)=
+adjacent identified: =Number 261 at position (68, 66)= to =Number * at position (69, 66)=
+adjacent identified: =Number 246 at position (70, 66)= to =Number * at position (69, 66)=
+there are 2 adjacent to =Number * at position (69, 66)=
+at 69,5: =Number 941 at position (69, 73)=
+at 69,6: =Number $ at position (69, 73)=
+at 69,7: =Number # at position (69, 81)=
+at 69,8: =Number * at position (69, 86)=
+adjacent identified: =Number 450 at position (68, 84)= to =Number * at position (69, 86)=
+adjacent identified: =Number 444 at position (70, 83)= to =Number * at position (69, 86)=
+there are 2 adjacent to =Number * at position (69, 86)=
+at 69,9: =Number * at position (69, 113)=
+adjacent identified: =Number 280 at position (68, 113)= to =Number * at position (69, 113)=
+adjacent identified: =Number 44 at position (70, 114)= to =Number * at position (69, 113)=
+there are 2 adjacent to =Number * at position (69, 113)=
+at 69,10: =Number 406 at position (69, 118)=
+at 69,11: =Number 621 at position (69, 132)=
+at 70,0: =Number @ at position (70, 4)=
+at 70,1: =Number 672 at position (70, 6)=
+at 70,2: =Number 177 at position (70, 22)=
+at 70,3: =Number 868 at position (70, 40)=
+at 70,4: =Number 716 at position (70, 45)=
+at 70,5: =Number 965 at position (70, 50)=
+at 70,6: =Number 246 at position (70, 66)=
+at 70,7: =Number 444 at position (70, 83)=
+at 70,8: =Number % at position (70, 89)=
+at 70,9: =Number 164 at position (70, 90)=
+at 70,10: =Number 44 at position (70, 114)=
+at 70,11: =Number @ at position (70, 117)=
+at 70,12: =Number 931 at position (70, 124)=
+at 71,0: =Number 540 at position (71, 2)=
+at 71,1: =Number # at position (71, 8)=
+at 71,2: =Number 74 at position (71, 10)=
+at 71,3: =Number * at position (71, 25)=
+adjacent identified: =Number 177 at position (70, 22)= to =Number * at position (71, 25)=
+adjacent identified: =Number 95 at position (72, 23)= to =Number * at position (71, 25)=
+there are 2 adjacent to =Number * at position (71, 25)=
+at 71,4: =Number 875 at position (71, 31)=
+at 71,5: =Number 90 at position (71, 39)=
+at 71,6: =Number * at position (71, 39)=
+adjacent identified: =Number 868 at position (70, 40)= to =Number * at position (71, 39)=
+adjacent identified: =Number 90 at position (71, 39)= to =Number * at position (71, 39)=
+there are 2 adjacent to =Number * at position (71, 39)=
+at 71,7: =Number * at position (71, 46)=
+adjacent identified: =Number 716 at position (70, 45)= to =Number * at position (71, 46)=
+adjacent identified: =Number 166 at position (72, 45)= to =Number * at position (71, 46)=
+there are 2 adjacent to =Number * at position (71, 46)=
+at 71,8: =Number * at position (71, 52)=
+adjacent identified: =Number 965 at position (70, 50)= to =Number * at position (71, 52)=
+there are 1 adjacent to =Number * at position (71, 52)=
+at 71,9: =Number 962 at position (71, 55)=
+at 71,10: =Number 107 at position (71, 109)=
+at 71,11: =Number @ at position (71, 109)=
+at 72,0: =Number % at position (72, 11)=
+at 72,1: =Number 791 at position (72, 13)=
+at 72,2: =Number 95 at position (72, 23)=
+at 72,3: =Number * at position (72, 34)=
+adjacent identified: =Number 875 at position (71, 31)= to =Number * at position (72, 34)=
+there are 1 adjacent to =Number * at position (72, 34)=
+at 72,4: =Number 166 at position (72, 45)=
+at 72,5: =Number $ at position (72, 49)=
+at 72,6: =Number # at position (72, 55)=
+at 72,7: =Number 615 at position (72, 65)=
+at 72,8: =Number * at position (72, 65)=
+adjacent identified: =Number 615 at position (72, 65)= to =Number * at position (72, 65)=
+adjacent identified: =Number 470 at position (72, 66)= to =Number * at position (72, 65)=
+there are 2 adjacent to =Number * at position (72, 65)=
+at 72,9: =Number 470 at position (72, 66)=
+at 72,10: =Number 333 at position (72, 79)=
+at 72,11: =Number / at position (72, 79)=
+at 72,12: =Number 73 at position (72, 84)=
+at 72,13: =Number 5 at position (72, 94)=
+at 72,14: =Number 449 at position (72, 97)=
+at 72,15: =Number @ at position (72, 111)=
+at 72,16: =Number 896 at position (72, 137)=
+at 73,0: =Number 227 at position (73, 4)=
+at 73,1: =Number * at position (73, 13)=
+adjacent identified: =Number 791 at position (72, 13)= to =Number * at position (73, 13)=
+adjacent identified: =Number 255 at position (74, 13)= to =Number * at position (73, 13)=
+there are 2 adjacent to =Number * at position (73, 13)=
+at 73,2: =Number 582 at position (73, 20)=
+at 73,3: =Number % at position (73, 20)=
+at 73,4: =Number 17 at position (73, 29)=
+at 73,5: =Number # at position (73, 29)=
+at 73,6: =Number 703 at position (73, 50)=
+at 73,7: =Number @ at position (73, 58)=
+at 73,8: =Number * at position (73, 86)=
+adjacent identified: =Number 73 at position (72, 84)= to =Number * at position (73, 86)=
+adjacent identified: =Number 628 at position (74, 84)= to =Number * at position (73, 86)=
+there are 2 adjacent to =Number * at position (73, 86)=
+at 73,9: =Number 733 at position (73, 88)=
+at 73,10: =Number * at position (73, 94)=
+adjacent identified: =Number 5 at position (72, 94)= to =Number * at position (73, 94)=
+adjacent identified: =Number 893 at position (74, 93)= to =Number * at position (73, 94)=
+there are 2 adjacent to =Number * at position (73, 94)=
+at 73,11: =Number / at position (73, 100)=
+at 73,12: =Number 216 at position (73, 109)=
+at 73,13: =Number 495 at position (73, 113)=
+at 73,14: =Number 383 at position (73, 127)=
+at 73,15: =Number * at position (73, 127)=
+adjacent identified: =Number 383 at position (73, 127)= to =Number * at position (73, 127)=
+adjacent identified: =Number 289 at position (73, 128)= to =Number * at position (73, 127)=
+there are 2 adjacent to =Number * at position (73, 127)=
+at 73,16: =Number 289 at position (73, 128)=
+at 74,0: =Number # at position (74, 3)=
+at 74,1: =Number 255 at position (74, 13)=
+at 74,2: =Number % at position (74, 33)=
+at 74,3: =Number & at position (74, 41)=
+at 74,4: =Number 434 at position (74, 45)=
+at 74,5: =Number 270 at position (74, 55)=
+at 74,6: =Number 712 at position (74, 63)=
+at 74,7: =Number 628 at position (74, 84)=
+at 74,8: =Number + at position (74, 89)=
+at 74,9: =Number 893 at position (74, 93)=
+at 74,10: =Number - at position (74, 116)=
+at 74,11: =Number 280 at position (74, 118)=
+at 75,0: =Number 171 at position (75, 19)=
+at 75,1: =Number 750 at position (75, 24)=
+at 75,2: =Number 312 at position (75, 34)=
+at 75,3: =Number 733 at position (75, 41)=
+at 75,4: =Number % at position (75, 50)=
+at 75,5: =Number / at position (75, 64)=
+at 75,6: =Number * at position (75, 71)=
+adjacent identified: =Number 887 at position (75, 72)= to =Number * at position (75, 71)=
+adjacent identified: =Number 357 at position (76, 68)= to =Number * at position (75, 71)=
+there are 2 adjacent to =Number * at position (75, 71)=
+at 75,7: =Number 887 at position (75, 72)=
+at 75,8: =Number @ at position (75, 78)=
+at 76,0: =Number 327 at position (76, 0)=
+at 76,1: =Number + at position (76, 5)=
+at 76,2: =Number 295 at position (76, 6)=
+at 76,3: =Number 700 at position (76, 14)=
+at 76,4: =Number @ at position (76, 14)=
+at 76,5: =Number + at position (76, 19)=
+at 76,6: =Number = at position (76, 26)=
+at 76,7: =Number 158 at position (76, 48)=
+at 76,8: =Number 357 at position (76, 68)=
+at 76,9: =Number 930 at position (76, 78)=
+at 76,10: =Number 645 at position (76, 101)=
+at 76,11: =Number 399 at position (76, 114)=
+at 76,12: =Number 149 at position (76, 121)=
+at 76,13: =Number - at position (76, 127)=
+at 76,14: =Number 716 at position (76, 134)=
+at 77,0: =Number 966 at position (77, 21)=
+at 77,1: =Number 378 at position (77, 31)=
+at 77,2: =Number 96 at position (77, 58)=
+at 77,3: =Number 576 at position (77, 72)=
+at 77,4: =Number + at position (77, 76)=
+at 77,5: =Number 58 at position (77, 93)=
+at 77,6: =Number + at position (77, 100)=
+at 77,7: =Number * at position (77, 114)=
+adjacent identified: =Number 399 at position (76, 114)= to =Number * at position (77, 114)=
+adjacent identified: =Number 556 at position (78, 113)= to =Number * at position (77, 114)=
+there are 2 adjacent to =Number * at position (77, 114)=
+at 77,8: =Number * at position (77, 124)=
+adjacent identified: =Number 149 at position (76, 121)= to =Number * at position (77, 124)=
+adjacent identified: =Number 131 at position (78, 121)= to =Number * at position (77, 124)=
+there are 2 adjacent to =Number * at position (77, 124)=
+at 77,9: =Number 114 at position (77, 126)=
+at 77,10: =Number - at position (77, 134)=
+at 78,0: =Number 46 at position (78, 6)=
+at 78,1: =Number $ at position (78, 6)=
+at 78,2: =Number 776 at position (78, 30)=
+at 78,3: =Number * at position (78, 30)=
+adjacent identified: =Number 378 at position (77, 31)= to =Number * at position (78, 30)=
+adjacent identified: =Number 776 at position (78, 30)= to =Number * at position (78, 30)=
+there are 2 adjacent to =Number * at position (78, 30)=
+at 78,4: =Number 522 at position (78, 36)=
+at 78,5: =Number $ at position (78, 61)=
+at 78,6: =Number * at position (78, 71)=
+adjacent identified: =Number 576 at position (77, 72)= to =Number * at position (78, 71)=
+adjacent identified: =Number 647 at position (79, 69)= to =Number * at position (78, 71)=
+there are 2 adjacent to =Number * at position (78, 71)=
+at 78,7: =Number 70 at position (78, 76)=
+at 78,8: =Number 534 at position (78, 83)=
+at 78,9: =Number * at position (78, 93)=
+adjacent identified: =Number 58 at position (77, 93)= to =Number * at position (78, 93)=
+adjacent identified: =Number 706 at position (79, 91)= to =Number * at position (78, 93)=
+there are 2 adjacent to =Number * at position (78, 93)=
+at 78,10: =Number 990 at position (78, 96)=
+at 78,11: =Number 892 at position (78, 107)=
+at 78,12: =Number 556 at position (78, 113)=
+at 78,13: =Number 131 at position (78, 121)=
+at 79,0: =Number 98 at position (79, 13)=
+at 79,1: =Number - at position (79, 19)=
+at 79,2: =Number 587 at position (79, 21)=
+at 79,3: =Number 697 at position (79, 35)=
+at 79,4: =Number * at position (79, 35)=
+adjacent identified: =Number 522 at position (78, 36)= to =Number * at position (79, 35)=
+adjacent identified: =Number 697 at position (79, 35)= to =Number * at position (79, 35)=
+there are 2 adjacent to =Number * at position (79, 35)=
+at 79,5: =Number / at position (79, 40)=
+at 79,6: =Number 729 at position (79, 41)=
+at 79,7: =Number @ at position (79, 46)=
+at 79,8: =Number 352 at position (79, 50)=
+at 79,9: =Number 688 at position (79, 57)=
+at 79,10: =Number 987 at position (79, 62)=
+at 79,11: =Number 647 at position (79, 69)=
+at 79,12: =Number 974 at position (79, 79)=
+at 79,13: =Number 706 at position (79, 91)=
+at 79,14: =Number * at position (79, 98)=
+adjacent identified: =Number 990 at position (78, 96)= to =Number * at position (79, 98)=
+adjacent identified: =Number 808 at position (80, 95)= to =Number * at position (79, 98)=
+there are 2 adjacent to =Number * at position (79, 98)=
+at 79,15: =Number % at position (79, 109)=
+at 80,0: =Number 47 at position (80, 3)=
+at 80,1: =Number 498 at position (80, 8)=
+at 80,2: =Number 121 at position (80, 16)=
+at 80,3: =Number / at position (80, 22)=
+at 80,4: =Number 218 at position (80, 46)=
+at 80,5: =Number * at position (80, 51)=
+adjacent identified: =Number 352 at position (79, 50)= to =Number * at position (80, 51)=
+adjacent identified: =Number 351 at position (81, 50)= to =Number * at position (80, 51)=
+there are 2 adjacent to =Number * at position (80, 51)=
+at 80,6: =Number * at position (80, 60)=
+adjacent identified: =Number 688 at position (79, 57)= to =Number * at position (80, 60)=
+adjacent identified: =Number 276 at position (81, 58)= to =Number * at position (80, 60)=
+there are 2 adjacent to =Number * at position (80, 60)=
+at 80,7: =Number - at position (80, 77)=
+at 80,8: =Number % at position (80, 81)=
+at 80,9: =Number 647 at position (80, 87)=
+at 80,10: =Number * at position (80, 87)=
+adjacent identified: =Number 647 at position (80, 87)= to =Number * at position (80, 87)=
+adjacent identified: =Number 75 at position (81, 88)= to =Number * at position (80, 87)=
+there are 2 adjacent to =Number * at position (80, 87)=
+at 80,11: =Number 808 at position (80, 95)=
+at 80,12: =Number & at position (80, 114)=
+at 80,13: =Number / at position (80, 120)=
+at 80,14: =Number 647 at position (80, 124)=
+at 81,0: =Number / at position (81, 4)=
+at 81,1: =Number 880 at position (81, 28)=
+at 81,2: =Number 996 at position (81, 34)=
+at 81,3: =Number 351 at position (81, 50)=
+at 81,4: =Number $ at position (81, 54)=
+at 81,5: =Number 276 at position (81, 58)=
+at 81,6: =Number 937 at position (81, 71)=
+at 81,7: =Number * at position (81, 71)=
+adjacent identified: =Number 937 at position (81, 71)= to =Number * at position (81, 71)=
+adjacent identified: =Number 636 at position (81, 72)= to =Number * at position (81, 71)=
+there are 2 adjacent to =Number * at position (81, 71)=
+at 81,8: =Number 636 at position (81, 72)=
+at 81,9: =Number 4 at position (81, 76)=
+at 81,10: =Number 75 at position (81, 88)=
+at 81,11: =Number 502 at position (81, 109)=
+at 81,12: =Number 43 at position (81, 114)=
+at 81,13: =Number 156 at position (81, 117)=
+at 82,0: =Number 141 at position (82, 7)=
+at 82,1: =Number 140 at position (82, 12)=
+at 82,2: =Number - at position (82, 21)=
+at 82,3: =Number 976 at position (82, 27)=
+at 82,4: =Number * at position (82, 27)=
+adjacent identified: =Number 880 at position (81, 28)= to =Number * at position (82, 27)=
+adjacent identified: =Number 976 at position (82, 27)= to =Number * at position (82, 27)=
+there are 2 adjacent to =Number * at position (82, 27)=
+at 82,5: =Number 853 at position (82, 54)=
+at 82,6: =Number = at position (82, 62)=
+at 82,7: =Number 402 at position (82, 63)=
+at 82,8: =Number 487 at position (82, 91)=
+at 82,9: =Number 648 at position (82, 105)=
+at 82,10: =Number + at position (82, 105)=
+at 82,11: =Number / at position (82, 108)=
+at 82,12: =Number * at position (82, 123)=
+adjacent identified: =Number 124 at position (82, 124)= to =Number * at position (82, 123)=
+adjacent identified: =Number 729 at position (83, 120)= to =Number * at position (82, 123)=
+there are 2 adjacent to =Number * at position (82, 123)=
+at 82,13: =Number 124 at position (82, 124)=
+at 83,0: =Number + at position (83, 10)=
+at 83,1: =Number * at position (83, 14)=
+adjacent identified: =Number 140 at position (82, 12)= to =Number * at position (83, 14)=
+adjacent identified: =Number 663 at position (84, 14)= to =Number * at position (83, 14)=
+there are 2 adjacent to =Number * at position (83, 14)=
+at 83,2: =Number 868 at position (83, 18)=
+at 83,3: =Number * at position (83, 30)=
+adjacent identified: =Number 114 at position (84, 31)= to =Number * at position (83, 30)=
+there are 1 adjacent to =Number * at position (83, 30)=
+at 83,4: =Number 158 at position (83, 35)=
+at 83,5: =Number 559 at position (83, 43)=
+at 83,6: =Number 128 at position (83, 69)=
+at 83,7: =Number 476 at position (83, 77)=
+at 83,8: =Number @ at position (83, 88)=
+at 83,9: =Number - at position (83, 90)=
+at 83,10: =Number @ at position (83, 110)=
+at 83,11: =Number 986 at position (83, 113)=
+at 83,12: =Number 729 at position (83, 120)=
+at 84,0: =Number 663 at position (84, 14)=
+at 84,1: =Number 114 at position (84, 31)=
+at 84,2: =Number * at position (84, 35)=
+adjacent identified: =Number 158 at position (83, 35)= to =Number * at position (84, 35)=
+adjacent identified: =Number 722 at position (85, 35)= to =Number * at position (84, 35)=
+there are 2 adjacent to =Number * at position (84, 35)=
+at 84,3: =Number 363 at position (84, 42)=
+at 84,4: =Number * at position (84, 42)=
+adjacent identified: =Number 559 at position (83, 43)= to =Number * at position (84, 42)=
+adjacent identified: =Number 363 at position (84, 42)= to =Number * at position (84, 42)=
+there are 2 adjacent to =Number * at position (84, 42)=
+at 84,5: =Number 909 at position (84, 54)=
+at 84,6: =Number * at position (84, 54)=
+adjacent identified: =Number 909 at position (84, 54)= to =Number * at position (84, 54)=
+adjacent identified: =Number 961 at position (84, 55)= to =Number * at position (84, 54)=
+there are 2 adjacent to =Number * at position (84, 54)=
+at 84,7: =Number 961 at position (84, 55)=
+at 84,8: =Number * at position (84, 69)=
+adjacent identified: =Number 128 at position (83, 69)= to =Number * at position (84, 69)=
+adjacent identified: =Number 81 at position (85, 69)= to =Number * at position (84, 69)=
+there are 2 adjacent to =Number * at position (84, 69)=
+at 84,9: =Number * at position (84, 78)=
+adjacent identified: =Number 476 at position (83, 77)= to =Number * at position (84, 78)=
+adjacent identified: =Number 166 at position (85, 75)= to =Number * at position (84, 78)=
+there are 2 adjacent to =Number * at position (84, 78)=
+at 84,10: =Number 897 at position (84, 86)=
+at 84,11: =Number $ at position (84, 93)=
+at 84,12: =Number 678 at position (84, 107)=
+at 84,13: =Number $ at position (84, 112)=
+at 84,14: =Number 725 at position (84, 128)=
+at 85,0: =Number 886 at position (85, 2)=
+at 85,1: =Number 329 at position (85, 6)=
+at 85,2: =Number 324 at position (85, 27)=
+at 85,3: =Number 722 at position (85, 35)=
+at 85,4: =Number 287 at position (85, 46)=
+at 85,5: =Number $ at position (85, 67)=
+at 85,6: =Number 81 at position (85, 69)=
+at 85,7: =Number 166 at position (85, 75)=
+at 85,8: =Number 555 at position (85, 91)=
+at 85,9: =Number 929 at position (85, 95)=
+at 85,10: =Number 414 at position (85, 116)=
+at 85,11: =Number 292 at position (85, 135)=
+at 85,12: =Number / at position (85, 135)=
+at 86,0: =Number * at position (86, 5)=
+adjacent identified: =Number 886 at position (85, 2)= to =Number * at position (86, 5)=
+adjacent identified: =Number 329 at position (85, 6)= to =Number * at position (86, 5)=
+there are 2 adjacent to =Number * at position (86, 5)=
+at 86,1: =Number $ at position (86, 11)=
+at 86,2: =Number 947 at position (86, 16)=
+at 86,3: =Number 767 at position (86, 21)=
+at 86,4: =Number - at position (86, 27)=
+at 86,5: =Number * at position (86, 48)=
+adjacent identified: =Number 287 at position (85, 46)= to =Number * at position (86, 48)=
+adjacent identified: =Number 993 at position (87, 49)= to =Number * at position (86, 48)=
+there are 2 adjacent to =Number * at position (86, 48)=
+at 86,6: =Number 527 at position (86, 56)=
+at 86,7: =Number 111 at position (86, 61)=
+at 86,8: =Number 293 at position (86, 65)=
+at 86,9: =Number 726 at position (86, 81)=
+at 86,10: =Number * at position (86, 95)=
+adjacent identified: =Number 929 at position (85, 95)= to =Number * at position (86, 95)=
+adjacent identified: =Number 519 at position (87, 94)= to =Number * at position (86, 95)=
+there are 2 adjacent to =Number * at position (86, 95)=
+at 86,11: =Number 553 at position (86, 99)=
+at 86,12: =Number / at position (86, 108)=
+at 86,13: =Number 665 at position (86, 109)=
+at 86,14: =Number 950 at position (86, 125)=
+at 87,0: =Number 171 at position (87, 0)=
+at 87,1: =Number 937 at position (87, 11)=
+at 87,2: =Number * at position (87, 20)=
+adjacent identified: =Number 767 at position (86, 21)= to =Number * at position (87, 20)=
+there are 1 adjacent to =Number * at position (87, 20)=
+at 87,3: =Number 751 at position (87, 29)=
+at 87,4: =Number 993 at position (87, 49)=
+at 87,5: =Number / at position (87, 57)=
+at 87,6: =Number * at position (87, 62)=
+adjacent identified: =Number 111 at position (86, 61)= to =Number * at position (87, 62)=
+adjacent identified: =Number 347 at position (88, 60)= to =Number * at position (87, 62)=
+there are 2 adjacent to =Number * at position (87, 62)=
+at 87,7: =Number 915 at position (87, 74)=
+at 87,8: =Number = at position (87, 83)=
+at 87,9: =Number 651 at position (87, 90)=
+at 87,10: =Number 519 at position (87, 94)=
+at 87,11: =Number * at position (87, 102)=
+adjacent identified: =Number 553 at position (86, 99)= to =Number * at position (87, 102)=
+adjacent identified: =Number 293 at position (88, 99)= to =Number * at position (87, 102)=
+there are 2 adjacent to =Number * at position (87, 102)=
+at 87,12: =Number 426 at position (87, 113)=
+at 87,13: =Number 21 at position (87, 121)=
+at 87,14: =Number / at position (87, 121)=
+at 87,15: =Number * at position (87, 124)=
+adjacent identified: =Number 950 at position (86, 125)= to =Number * at position (87, 124)=
+there are 1 adjacent to =Number * at position (87, 124)=
+at 87,16: =Number 907 at position (87, 133)=
+at 88,0: =Number * at position (88, 3)=
+adjacent identified: =Number 171 at position (87, 0)= to =Number * at position (88, 3)=
+adjacent identified: =Number 560 at position (88, 4)= to =Number * at position (88, 3)=
+there are 2 adjacent to =Number * at position (88, 3)=
+at 88,1: =Number 560 at position (88, 4)=
+at 88,2: =Number 217 at position (88, 38)=
+at 88,3: =Number 347 at position (88, 60)=
+at 88,4: =Number 429 at position (88, 66)=
+at 88,5: =Number * at position (88, 76)=
+adjacent identified: =Number 915 at position (87, 74)= to =Number * at position (88, 76)=
+adjacent identified: =Number 141 at position (89, 76)= to =Number * at position (88, 76)=
+there are 2 adjacent to =Number * at position (88, 76)=
+at 88,6: =Number 50 at position (88, 86)=
+at 88,7: =Number 293 at position (88, 99)=
+at 88,8: =Number 160 at position (88, 112)=
+at 88,9: =Number * at position (88, 112)=
+adjacent identified: =Number 426 at position (87, 113)= to =Number * at position (88, 112)=
+adjacent identified: =Number 160 at position (88, 112)= to =Number * at position (88, 112)=
+there are 2 adjacent to =Number * at position (88, 112)=
+at 88,10: =Number * at position (88, 126)=
+adjacent identified: =Number 698 at position (88, 127)= to =Number * at position (88, 126)=
+adjacent identified: =Number 432 at position (89, 123)= to =Number * at position (88, 126)=
+there are 2 adjacent to =Number * at position (88, 126)=
+at 88,11: =Number 698 at position (88, 127)=
+at 88,12: =Number * at position (88, 132)=
+adjacent identified: =Number 907 at position (87, 133)= to =Number * at position (88, 132)=
+adjacent identified: =Number 301 at position (89, 132)= to =Number * at position (88, 132)=
+there are 2 adjacent to =Number * at position (88, 132)=
+at 89,0: =Number 49 at position (89, 10)=
+at 89,1: =Number 55 at position (89, 31)=
+at 89,2: =Number * at position (89, 38)=
+adjacent identified: =Number 217 at position (88, 38)= to =Number * at position (89, 38)=
+adjacent identified: =Number 29 at position (90, 37)= to =Number * at position (89, 38)=
+there are 2 adjacent to =Number * at position (89, 38)=
+at 89,3: =Number 130 at position (89, 43)=
+at 89,4: =Number 305 at position (89, 55)=
+at 89,5: =Number @ at position (89, 55)=
+at 89,6: =Number = at position (89, 66)=
+at 89,7: =Number 459 at position (89, 71)=
+at 89,8: =Number 141 at position (89, 76)=
+at 89,9: =Number 380 at position (89, 83)=
+at 89,10: =Number * at position (89, 83)=
+adjacent identified: =Number 380 at position (89, 83)= to =Number * at position (89, 83)=
+adjacent identified: =Number 866 at position (90, 84)= to =Number * at position (89, 83)=
+there are 2 adjacent to =Number * at position (89, 83)=
+at 89,11: =Number 920 at position (89, 103)=
+at 89,12: =Number 501 at position (89, 114)=
+at 89,13: =Number 432 at position (89, 123)=
+at 89,14: =Number 301 at position (89, 132)=
+at 90,0: =Number 211 at position (90, 3)=
+at 90,1: =Number * at position (90, 3)=
+adjacent identified: =Number 211 at position (90, 3)= to =Number * at position (90, 3)=
+adjacent identified: =Number 766 at position (91, 4)= to =Number * at position (90, 3)=
+there are 2 adjacent to =Number * at position (90, 3)=
+at 90,2: =Number * at position (90, 10)=
+adjacent identified: =Number 49 at position (89, 10)= to =Number * at position (90, 10)=
+adjacent identified: =Number 102 at position (91, 8)= to =Number * at position (90, 10)=
+there are 2 adjacent to =Number * at position (90, 10)=
+at 90,3: =Number * at position (90, 30)=
+adjacent identified: =Number 55 at position (89, 31)= to =Number * at position (90, 30)=
+there are 1 adjacent to =Number * at position (90, 30)=
+at 90,4: =Number 29 at position (90, 37)=
+at 90,5: =Number * at position (90, 46)=
+adjacent identified: =Number 130 at position (89, 43)= to =Number * at position (90, 46)=
+adjacent identified: =Number 179 at position (91, 46)= to =Number * at position (90, 46)=
+there are 2 adjacent to =Number * at position (90, 46)=
+at 90,6: =Number 586 at position (90, 58)=
+at 90,7: =Number * at position (90, 74)=
+adjacent identified: =Number 459 at position (89, 71)= to =Number * at position (90, 74)=
+adjacent identified: =Number 513 at position (91, 74)= to =Number * at position (90, 74)=
+there are 2 adjacent to =Number * at position (90, 74)=
+at 90,8: =Number 866 at position (90, 84)=
+at 90,9: =Number * at position (90, 102)=
+adjacent identified: =Number 920 at position (89, 103)= to =Number * at position (90, 102)=
+adjacent identified: =Number 639 at position (91, 103)= to =Number * at position (90, 102)=
+there are 2 adjacent to =Number * at position (90, 102)=
+at 90,10: =Number * at position (90, 113)=
+adjacent identified: =Number 501 at position (89, 114)= to =Number * at position (90, 113)=
+adjacent identified: =Number 102 at position (91, 111)= to =Number * at position (90, 113)=
+there are 2 adjacent to =Number * at position (90, 113)=
+at 91,0: =Number 766 at position (91, 4)=
+at 91,1: =Number 102 at position (91, 8)=
+at 91,2: =Number 901 at position (91, 12)=
+at 91,3: =Number * at position (91, 20)=
+adjacent identified: =Number 366 at position (92, 17)= to =Number * at position (91, 20)=
+adjacent identified: =Number 710 at position (92, 21)= to =Number * at position (91, 20)=
+there are 2 adjacent to =Number * at position (91, 20)=
+at 91,4: =Number 696 at position (91, 32)=
+at 91,5: =Number @ at position (91, 40)=
+at 91,6: =Number 179 at position (91, 46)=
+at 91,7: =Number 969 at position (91, 51)=
+at 91,8: =Number + at position (91, 60)=
+at 91,9: =Number 513 at position (91, 74)=
+at 91,10: =Number 840 at position (91, 92)=
+at 91,11: =Number # at position (91, 92)=
+at 91,12: =Number # at position (91, 99)=
+at 91,13: =Number 639 at position (91, 103)=
+at 91,14: =Number 102 at position (91, 111)=
+at 92,0: =Number @ at position (92, 14)=
+at 92,1: =Number 366 at position (92, 17)=
+at 92,2: =Number 710 at position (92, 21)=
+at 92,3: =Number $ at position (92, 25)=
+at 92,4: =Number 545 at position (92, 26)=
+at 92,5: =Number + at position (92, 33)=
+at 92,6: =Number 654 at position (92, 37)=
+at 92,7: =Number * at position (92, 51)=
+adjacent identified: =Number 969 at position (91, 51)= to =Number * at position (92, 51)=
+adjacent identified: =Number 75 at position (93, 52)= to =Number * at position (92, 51)=
+there are 2 adjacent to =Number * at position (92, 51)=
+at 92,8: =Number 133 at position (92, 64)=
+at 92,9: =Number 209 at position (92, 80)=
+at 92,10: =Number 675 at position (92, 98)=
+at 92,11: =Number 41 at position (92, 117)=
+at 92,12: =Number 122 at position (92, 127)=
+at 93,0: =Number 430 at position (93, 48)=
+at 93,1: =Number * at position (93, 48)=
+adjacent identified: =Number 430 at position (93, 48)= to =Number * at position (93, 48)=
+there are 1 adjacent to =Number * at position (93, 48)=
+at 93,2: =Number 75 at position (93, 52)=
+at 93,3: =Number * at position (93, 64)=
+adjacent identified: =Number 133 at position (92, 64)= to =Number * at position (93, 64)=
+adjacent identified: =Number 689 at position (94, 61)= to =Number * at position (93, 64)=
+there are 2 adjacent to =Number * at position (93, 64)=
+at 93,4: =Number 889 at position (93, 73)=
+at 93,5: =Number 761 at position (93, 90)=
+at 93,6: =Number 702 at position (93, 94)=
+at 93,7: =Number * at position (93, 107)=
+adjacent identified: =Number 379 at position (93, 108)= to =Number * at position (93, 107)=
+adjacent identified: =Number 869 at position (94, 104)= to =Number * at position (93, 107)=
+there are 2 adjacent to =Number * at position (93, 107)=
+at 93,8: =Number 379 at position (93, 108)=
+at 93,9: =Number * at position (93, 126)=
+adjacent identified: =Number 122 at position (92, 127)= to =Number * at position (93, 126)=
+adjacent identified: =Number 170 at position (94, 126)= to =Number * at position (93, 126)=
+there are 2 adjacent to =Number * at position (93, 126)=
+at 94,0: =Number 958 at position (94, 3)=
+at 94,1: =Number 905 at position (94, 9)=
+at 94,2: =Number * at position (94, 22)=
+adjacent identified: =Number 718 at position (94, 23)= to =Number * at position (94, 22)=
+adjacent identified: =Number 268 at position (95, 19)= to =Number * at position (94, 22)=
+there are 2 adjacent to =Number * at position (94, 22)=
+at 94,3: =Number 718 at position (94, 23)=
+at 94,4: =Number * at position (94, 30)=
+adjacent identified: =Number 932 at position (94, 31)= to =Number * at position (94, 30)=
+adjacent identified: =Number 812 at position (95, 27)= to =Number * at position (94, 30)=
+there are 2 adjacent to =Number * at position (94, 30)=
+at 94,5: =Number 932 at position (94, 31)=
+at 94,6: =Number 585 at position (94, 40)=
+at 94,7: =Number 650 at position (94, 55)=
+at 94,8: =Number 689 at position (94, 61)=
+at 94,9: =Number 177 at position (94, 69)=
+at 94,10: =Number 840 at position (94, 77)=
+at 94,11: =Number * at position (94, 89)=
+adjacent identified: =Number 761 at position (93, 90)= to =Number * at position (94, 89)=
+adjacent identified: =Number 971 at position (95, 87)= to =Number * at position (94, 89)=
+there are 2 adjacent to =Number * at position (94, 89)=
+at 94,12: =Number * at position (94, 97)=
+adjacent identified: =Number 702 at position (93, 94)= to =Number * at position (94, 97)=
+adjacent identified: =Number 452 at position (95, 97)= to =Number * at position (94, 97)=
+there are 2 adjacent to =Number * at position (94, 97)=
+at 94,13: =Number 869 at position (94, 104)=
+at 94,14: =Number 107 at position (94, 120)=
+at 94,15: =Number 170 at position (94, 126)=
+at 94,16: =Number 526 at position (94, 132)=
+at 94,17: =Number 912 at position (94, 136)=
+at 95,0: =Number $ at position (95, 11)=
+at 95,1: =Number 268 at position (95, 19)=
+at 95,2: =Number 812 at position (95, 27)=
+at 95,3: =Number / at position (95, 41)=
+at 95,4: =Number 941 at position (95, 45)=
+at 95,5: =Number * at position (95, 58)=
+adjacent identified: =Number 650 at position (94, 55)= to =Number * at position (95, 58)=
+adjacent identified: =Number 432 at position (96, 55)= to =Number * at position (95, 58)=
+there are 2 adjacent to =Number * at position (95, 58)=
+at 95,6: =Number 893 at position (95, 68)=
+at 95,7: =Number * at position (95, 68)=
+adjacent identified: =Number 177 at position (94, 69)= to =Number * at position (95, 68)=
+adjacent identified: =Number 893 at position (95, 68)= to =Number * at position (95, 68)=
+there are 2 adjacent to =Number * at position (95, 68)=
+at 95,8: =Number * at position (95, 77)=
+adjacent identified: =Number 840 at position (94, 77)= to =Number * at position (95, 77)=
+adjacent identified: =Number 499 at position (96, 75)= to =Number * at position (95, 77)=
+there are 2 adjacent to =Number * at position (95, 77)=
+at 95,9: =Number 971 at position (95, 87)=
+at 95,10: =Number 614 at position (95, 92)=
+at 95,11: =Number 452 at position (95, 97)=
+at 95,12: =Number 207 at position (95, 109)=
+at 95,13: =Number * at position (95, 119)=
+adjacent identified: =Number 107 at position (94, 120)= to =Number * at position (95, 119)=
+adjacent identified: =Number 257 at position (96, 116)= to =Number * at position (95, 119)=
+there are 2 adjacent to =Number * at position (95, 119)=
+at 95,14: =Number * at position (95, 135)=
+adjacent identified: =Number 526 at position (94, 132)= to =Number * at position (95, 135)=
+adjacent identified: =Number 912 at position (94, 136)= to =Number * at position (95, 135)=
+there are 2 adjacent to =Number * at position (95, 135)=
+at 96,0: =Number 293 at position (96, 1)=
+at 96,1: =Number 286 at position (96, 33)=
+at 96,2: =Number * at position (96, 45)=
+adjacent identified: =Number 941 at position (95, 45)= to =Number * at position (96, 45)=
+adjacent identified: =Number 419 at position (97, 44)= to =Number * at position (96, 45)=
+there are 2 adjacent to =Number * at position (96, 45)=
+at 96,3: =Number 432 at position (96, 55)=
+at 96,4: =Number * at position (96, 70)=
+adjacent identified: =Number 83 at position (96, 71)= to =Number * at position (96, 70)=
+adjacent identified: =Number 549 at position (97, 67)= to =Number * at position (96, 70)=
+there are 2 adjacent to =Number * at position (96, 70)=
+at 96,5: =Number 83 at position (96, 71)=
+at 96,6: =Number 499 at position (96, 75)=
+at 96,7: =Number 682 at position (96, 80)=
+at 96,8: =Number @ at position (96, 93)=
+at 96,9: =Number = at position (96, 110)=
+at 96,10: =Number 257 at position (96, 116)=
+at 96,11: =Number 520 at position (96, 129)=
+at 96,12: =Number 977 at position (96, 137)=
+at 97,0: =Number 767 at position (97, 5)=
+at 97,1: =Number 711 at position (97, 11)=
+at 97,2: =Number $ at position (97, 16)=
+at 97,3: =Number 683 at position (97, 17)=
+at 97,4: =Number * at position (97, 26)=
+adjacent identified: =Number 58 at position (98, 24)= to =Number * at position (97, 26)=
+adjacent identified: =Number 991 at position (98, 27)= to =Number * at position (97, 26)=
+there are 2 adjacent to =Number * at position (97, 26)=
+at 97,5: =Number * at position (97, 33)=
+adjacent identified: =Number 286 at position (96, 33)= to =Number * at position (97, 33)=
+adjacent identified: =Number 412 at position (98, 32)= to =Number * at position (97, 33)=
+there are 2 adjacent to =Number * at position (97, 33)=
+at 97,6: =Number 419 at position (97, 44)=
+at 97,7: =Number 625 at position (97, 51)=
+at 97,8: =Number # at position (97, 51)=
+at 97,9: =Number 788 at position (97, 63)=
+at 97,10: =Number 549 at position (97, 67)=
+at 97,11: =Number + at position (97, 82)=
+at 97,12: =Number 712 at position (97, 84)=
+at 97,13: =Number 411 at position (97, 95)=
+at 97,14: =Number 946 at position (97, 100)=
+at 97,15: =Number @ at position (97, 112)=
+at 98,0: =Number * at position (98, 7)=
+adjacent identified: =Number 767 at position (97, 5)= to =Number * at position (98, 7)=
+adjacent identified: =Number 131 at position (99, 4)= to =Number * at position (98, 7)=
+there are 2 adjacent to =Number * at position (98, 7)=
+at 98,1: =Number = at position (98, 12)=
+at 98,2: =Number 58 at position (98, 24)=
+at 98,3: =Number 991 at position (98, 27)=
+at 98,4: =Number 412 at position (98, 32)=
+at 98,5: =Number 42 at position (98, 36)=
+at 98,6: =Number 222 at position (98, 39)=
+at 98,7: =Number * at position (98, 64)=
+adjacent identified: =Number 788 at position (97, 63)= to =Number * at position (98, 64)=
+adjacent identified: =Number 561 at position (99, 63)= to =Number * at position (98, 64)=
+there are 2 adjacent to =Number * at position (98, 64)=
+at 98,8: =Number 79 at position (98, 72)=
+at 98,9: =Number 978 at position (98, 76)=
+at 98,10: =Number * at position (98, 84)=
+adjacent identified: =Number 712 at position (97, 84)= to =Number * at position (98, 84)=
+adjacent identified: =Number 406 at position (99, 82)= to =Number * at position (98, 84)=
+there are 2 adjacent to =Number * at position (98, 84)=
+at 98,11: =Number % at position (98, 97)=
+at 98,12: =Number * at position (98, 99)=
+adjacent identified: =Number 946 at position (97, 100)= to =Number * at position (98, 99)=
+adjacent identified: =Number 490 at position (99, 100)= to =Number * at position (98, 99)=
+there are 2 adjacent to =Number * at position (98, 99)=
+at 98,13: =Number * at position (98, 108)=
+adjacent identified: =Number 58 at position (98, 109)= to =Number * at position (98, 108)=
+adjacent identified: =Number 611 at position (99, 105)= to =Number * at position (98, 108)=
+there are 2 adjacent to =Number * at position (98, 108)=
+at 98,14: =Number 58 at position (98, 109)=
+at 98,15: =Number 389 at position (98, 113)=
+at 98,16: =Number 616 at position (98, 122)=
+at 98,17: =Number 686 at position (98, 134)=
+at 99,0: =Number 131 at position (99, 4)=
+at 99,1: =Number 67 at position (99, 19)=
+at 99,2: =Number 995 at position (99, 44)=
+at 99,3: =Number 926 at position (99, 59)=
+at 99,4: =Number 561 at position (99, 63)=
+at 99,5: =Number * at position (99, 72)=
+adjacent identified: =Number 79 at position (98, 72)= to =Number * at position (99, 72)=
+adjacent identified: =Number 725 at position (100, 73)= to =Number * at position (99, 72)=
+there are 2 adjacent to =Number * at position (99, 72)=
+at 99,6: =Number * at position (99, 77)=
+adjacent identified: =Number 978 at position (98, 76)= to =Number * at position (99, 77)=
+adjacent identified: =Number 533 at position (100, 77)= to =Number * at position (99, 77)=
+there are 2 adjacent to =Number * at position (99, 77)=
+at 99,7: =Number 406 at position (99, 82)=
+at 99,8: =Number 273 at position (99, 86)=
+at 99,9: =Number 490 at position (99, 100)=
+at 99,10: =Number 611 at position (99, 105)=
+at 99,11: =Number 634 at position (99, 130)=
+at 99,12: =Number $ at position (99, 130)=
+at 100,0: =Number 908 at position (100, 10)=
+at 100,1: =Number 320 at position (100, 14)=
+at 100,2: =Number 725 at position (100, 73)=
+at 100,3: =Number 533 at position (100, 77)=
+at 100,4: =Number * at position (100, 87)=
+adjacent identified: =Number 273 at position (99, 86)= to =Number * at position (100, 87)=
+adjacent identified: =Number 439 at position (101, 86)= to =Number * at position (100, 87)=
+there are 2 adjacent to =Number * at position (100, 87)=
+at 100,5: =Number 624 at position (100, 91)=
+at 100,6: =Number 198 at position (100, 118)=
+at 100,7: =Number * at position (100, 118)=
+adjacent identified: =Number 198 at position (100, 118)= to =Number * at position (100, 118)=
+adjacent identified: =Number 246 at position (100, 119)= to =Number * at position (100, 118)=
+there are 2 adjacent to =Number * at position (100, 118)=
+at 100,8: =Number 246 at position (100, 119)=
+at 100,9: =Number 209 at position (100, 123)=
+at 100,10: =Number # at position (100, 135)=
+at 101,0: =Number * at position (101, 12)=
+adjacent identified: =Number 908 at position (100, 10)= to =Number * at position (101, 12)=
+adjacent identified: =Number 371 at position (102, 9)= to =Number * at position (101, 12)=
+there are 2 adjacent to =Number * at position (101, 12)=
+at 101,1: =Number @ at position (101, 16)=
+at 101,2: =Number 594 at position (101, 21)=
+at 101,3: =Number 298 at position (101, 26)=
+at 101,4: =Number 743 at position (101, 33)=
+at 101,5: =Number 601 at position (101, 39)=
+at 101,6: =Number 123 at position (101, 48)=
+at 101,7: =Number @ at position (101, 57)=
+at 101,8: =Number @ at position (101, 64)=
+at 101,9: =Number 606 at position (101, 65)=
+at 101,10: =Number $ at position (101, 71)=
+at 101,11: =Number 439 at position (101, 86)=
+at 101,12: =Number $ at position (101, 90)=
+at 101,13: =Number # at position (101, 96)=
+at 101,14: =Number / at position (101, 103)=
+at 101,15: =Number 175 at position (101, 104)=
+at 101,16: =Number 386 at position (101, 110)=
+at 101,17: =Number * at position (101, 126)=
+adjacent identified: =Number 209 at position (100, 123)= to =Number * at position (101, 126)=
+adjacent identified: =Number 529 at position (102, 127)= to =Number * at position (101, 126)=
+there are 2 adjacent to =Number * at position (101, 126)=
+at 101,18: =Number 490 at position (101, 133)=
+at 102,0: =Number 16 at position (102, 3)=
+at 102,1: =Number 371 at position (102, 9)=
+at 102,2: =Number * at position (102, 20)=
+adjacent identified: =Number 594 at position (101, 21)= to =Number * at position (102, 20)=
+adjacent identified: =Number 662 at position (103, 17)= to =Number * at position (102, 20)=
+there are 2 adjacent to =Number * at position (102, 20)=
+at 102,3: =Number - at position (102, 26)=
+at 102,4: =Number * at position (102, 35)=
+adjacent identified: =Number 743 at position (101, 33)= to =Number * at position (102, 35)=
+adjacent identified: =Number 422 at position (103, 35)= to =Number * at position (102, 35)=
+there are 2 adjacent to =Number * at position (102, 35)=
+at 102,5: =Number = at position (102, 47)=
+at 102,6: =Number 202 at position (102, 58)=
+at 102,7: =Number 373 at position (102, 71)=
+at 102,8: =Number 6 at position (102, 79)=
+at 102,9: =Number 749 at position (102, 81)=
+at 102,10: =Number 28 at position (102, 96)=
+at 102,11: =Number * at position (102, 114)=
+adjacent identified: =Number 376 at position (103, 115)= to =Number * at position (102, 114)=
+there are 1 adjacent to =Number * at position (102, 114)=
+at 102,12: =Number 675 at position (102, 119)=
+at 102,13: =Number 529 at position (102, 127)=
+at 103,0: =Number # at position (103, 3)=
+at 103,1: =Number 662 at position (103, 17)=
+at 103,2: =Number 422 at position (103, 35)=
+at 103,3: =Number & at position (103, 51)=
+at 103,4: =Number 462 at position (103, 75)=
+at 103,5: =Number * at position (103, 82)=
+adjacent identified: =Number 749 at position (102, 81)= to =Number * at position (103, 82)=
+adjacent identified: =Number 699 at position (104, 80)= to =Number * at position (103, 82)=
+there are 2 adjacent to =Number * at position (103, 82)=
+at 103,6: =Number 139 at position (103, 92)=
+at 103,7: =Number 175 at position (103, 109)=
+at 103,8: =Number @ at position (103, 109)=
+at 103,9: =Number 376 at position (103, 115)=
+at 103,10: =Number + at position (103, 119)=
+at 104,0: =Number + at position (104, 23)=
+at 104,1: =Number @ at position (104, 26)=
+at 104,2: =Number 325 at position (104, 27)=
+at 104,3: =Number 18 at position (104, 41)=
+at 104,4: =Number 543 at position (104, 48)=
+at 104,5: =Number / at position (104, 73)=
+at 104,6: =Number % at position (104, 78)=
+at 104,7: =Number 699 at position (104, 80)=
+at 104,8: =Number 611 at position (104, 91)=
+at 104,9: =Number * at position (104, 91)=
+adjacent identified: =Number 139 at position (103, 92)= to =Number * at position (104, 91)=
+adjacent identified: =Number 611 at position (104, 91)= to =Number * at position (104, 91)=
+there are 2 adjacent to =Number * at position (104, 91)=
+at 104,10: =Number 240 at position (104, 102)=
+at 105,0: =Number 297 at position (105, 15)=
+at 105,1: =Number 754 at position (105, 21)=
+at 105,2: =Number 15 at position (105, 60)=
+at 105,3: =Number 790 at position (105, 68)=
+at 105,4: =Number 785 at position (105, 73)=
+at 105,5: =Number 474 at position (105, 84)=
+at 105,6: =Number + at position (105, 104)=
+at 105,7: =Number - at position (105, 114)=
+at 105,8: =Number 719 at position (105, 122)=
+at 105,9: =Number 962 at position (105, 130)=
+at 106,0: =Number 198 at position (106, 3)=
+at 106,1: =Number * at position (106, 3)=
+adjacent identified: =Number 198 at position (106, 3)= to =Number * at position (106, 3)=
+adjacent identified: =Number 295 at position (107, 4)= to =Number * at position (106, 3)=
+there are 2 adjacent to =Number * at position (106, 3)=
+at 106,2: =Number @ at position (106, 15)=
+at 106,3: =Number 252 at position (106, 26)=
+at 106,4: =Number 413 at position (106, 48)=
+at 106,5: =Number * at position (106, 54)=
+adjacent identified: =Number 800 at position (106, 55)= to =Number * at position (106, 54)=
+adjacent identified: =Number 37 at position (107, 52)= to =Number * at position (106, 54)=
+there are 2 adjacent to =Number * at position (106, 54)=
+at 106,6: =Number 800 at position (106, 55)=
+at 106,7: =Number @ at position (106, 64)=
+at 106,8: =Number / at position (106, 82)=
+at 106,9: =Number * at position (106, 84)=
+adjacent identified: =Number 474 at position (105, 84)= to =Number * at position (106, 84)=
+adjacent identified: =Number 737 at position (107, 84)= to =Number * at position (106, 84)=
+there are 2 adjacent to =Number * at position (106, 84)=
+at 106,10: =Number 951 at position (106, 100)=
+at 106,11: =Number @ at position (106, 106)=
+at 106,12: =Number 899 at position (106, 107)=
+at 106,13: =Number 748 at position (106, 113)=
+at 106,14: =Number # at position (106, 120)=
+at 106,15: =Number 486 at position (106, 129)=
+at 106,16: =Number * at position (106, 129)=
+adjacent identified: =Number 962 at position (105, 130)= to =Number * at position (106, 129)=
+adjacent identified: =Number 486 at position (106, 129)= to =Number * at position (106, 129)=
+there are 2 adjacent to =Number * at position (106, 129)=
+at 107,0: =Number 295 at position (107, 4)=
+at 107,1: =Number 334 at position (107, 11)=
+at 107,2: =Number 900 at position (107, 18)=
+at 107,3: =Number * at position (107, 28)=
+adjacent identified: =Number 252 at position (106, 26)= to =Number * at position (107, 28)=
+adjacent identified: =Number 150 at position (108, 25)= to =Number * at position (107, 28)=
+there are 2 adjacent to =Number * at position (107, 28)=
+at 107,4: =Number * at position (107, 47)=
+adjacent identified: =Number 413 at position (106, 48)= to =Number * at position (107, 47)=
+adjacent identified: =Number 609 at position (108, 46)= to =Number * at position (107, 47)=
+there are 2 adjacent to =Number * at position (107, 47)=
+at 107,5: =Number 37 at position (107, 52)=
+at 107,6: =Number 306 at position (107, 63)=
+at 107,7: =Number 263 at position (107, 80)=
+at 107,8: =Number 737 at position (107, 84)=
+at 107,9: =Number 722 at position (107, 94)=
+at 107,10: =Number - at position (107, 103)=
+at 107,11: =Number 651 at position (107, 120)=
+at 107,12: =Number 679 at position (107, 136)=
+at 108,0: =Number * at position (108, 11)=
+adjacent identified: =Number 334 at position (107, 11)= to =Number * at position (108, 11)=
+adjacent identified: =Number 139 at position (109, 9)= to =Number * at position (108, 11)=
+there are 2 adjacent to =Number * at position (108, 11)=
+at 108,1: =Number = at position (108, 17)=
+at 108,2: =Number 150 at position (108, 25)=
+at 108,3: =Number 535 at position (108, 35)=
+at 108,4: =Number 531 at position (108, 39)=
+at 108,5: =Number 609 at position (108, 46)=
+at 108,6: =Number 287 at position (108, 67)=
+at 108,7: =Number @ at position (108, 75)=
+at 108,8: =Number * at position (108, 93)=
+adjacent identified: =Number 722 at position (107, 94)= to =Number * at position (108, 93)=
+adjacent identified: =Number 37 at position (109, 94)= to =Number * at position (108, 93)=
+there are 2 adjacent to =Number * at position (108, 93)=
+at 108,9: =Number 519 at position (108, 98)=
+at 108,10: =Number 92 at position (108, 115)=
+at 108,11: =Number * at position (108, 129)=
+adjacent identified: =Number 8 at position (108, 130)= to =Number * at position (108, 129)=
+adjacent identified: =Number 585 at position (109, 126)= to =Number * at position (108, 129)=
+there are 2 adjacent to =Number * at position (108, 129)=
+at 108,12: =Number 8 at position (108, 130)=
+at 108,13: =Number * at position (108, 135)=
+adjacent identified: =Number 679 at position (107, 136)= to =Number * at position (108, 135)=
+adjacent identified: =Number 553 at position (109, 135)= to =Number * at position (108, 135)=
+there are 2 adjacent to =Number * at position (108, 135)=
+at 109,0: =Number 904 at position (109, 0)=
+at 109,1: =Number 139 at position (109, 9)=
+at 109,2: =Number 995 at position (109, 21)=
+at 109,3: =Number @ at position (109, 31)=
+at 109,4: =Number * at position (109, 34)=
+adjacent identified: =Number 535 at position (108, 35)= to =Number * at position (109, 34)=
+there are 1 adjacent to =Number * at position (109, 34)=
+at 109,5: =Number * at position (109, 42)=
+adjacent identified: =Number 531 at position (108, 39)= to =Number * at position (109, 42)=
+adjacent identified: =Number 435 at position (110, 40)= to =Number * at position (109, 42)=
+there are 2 adjacent to =Number * at position (109, 42)=
+at 109,6: =Number * at position (109, 44)=
+adjacent identified: =Number 582 at position (110, 45)= to =Number * at position (109, 44)=
+there are 1 adjacent to =Number * at position (109, 44)=
+at 109,7: =Number 933 at position (109, 50)=
+at 109,8: =Number 229 at position (109, 56)=
+at 109,9: =Number / at position (109, 69)=
+at 109,10: =Number 45 at position (109, 73)=
+at 109,11: =Number 361 at position (109, 82)=
+at 109,12: =Number 206 at position (109, 86)=
+at 109,13: =Number 37 at position (109, 94)=
+at 109,14: =Number * at position (109, 97)=
+adjacent identified: =Number 519 at position (108, 98)= to =Number * at position (109, 97)=
+adjacent identified: =Number 471 at position (110, 98)= to =Number * at position (109, 97)=
+there are 2 adjacent to =Number * at position (109, 97)=
+at 109,15: =Number 730 at position (109, 108)=
+at 109,16: =Number & at position (109, 117)=
+at 109,17: =Number 226 at position (109, 121)=
+at 109,18: =Number 585 at position (109, 126)=
+at 109,19: =Number 553 at position (109, 135)=
+at 110,0: =Number * at position (110, 24)=
+adjacent identified: =Number 995 at position (109, 21)= to =Number * at position (110, 24)=
+adjacent identified: =Number 61 at position (111, 23)= to =Number * at position (110, 24)=
+there are 2 adjacent to =Number * at position (110, 24)=
+at 110,1: =Number 276 at position (110, 28)=
+at 110,2: =Number $ at position (110, 38)=
+at 110,3: =Number 435 at position (110, 40)=
+at 110,4: =Number 582 at position (110, 45)=
+at 110,5: =Number @ at position (110, 50)=
+at 110,6: =Number * at position (110, 56)=
+adjacent identified: =Number 229 at position (109, 56)= to =Number * at position (110, 56)=
+adjacent identified: =Number 844 at position (111, 56)= to =Number * at position (110, 56)=
+there are 2 adjacent to =Number * at position (110, 56)=
+at 110,7: =Number 185 at position (110, 65)=
+at 110,8: =Number # at position (110, 83)=
+at 110,9: =Number * at position (110, 88)=
+adjacent identified: =Number 206 at position (109, 86)= to =Number * at position (110, 88)=
+adjacent identified: =Number 330 at position (111, 85)= to =Number * at position (110, 88)=
+there are 2 adjacent to =Number * at position (110, 88)=
+at 110,10: =Number 559 at position (110, 90)=
+at 110,11: =Number 471 at position (110, 98)=
+at 110,12: =Number * at position (110, 111)=
+adjacent identified: =Number 730 at position (109, 108)= to =Number * at position (110, 111)=
+adjacent identified: =Number 342 at position (111, 112)= to =Number * at position (110, 111)=
+there are 2 adjacent to =Number * at position (110, 111)=
+at 110,13: =Number * at position (110, 123)=
+adjacent identified: =Number 226 at position (109, 121)= to =Number * at position (110, 123)=
+adjacent identified: =Number 222 at position (111, 121)= to =Number * at position (110, 123)=
+there are 2 adjacent to =Number * at position (110, 123)=
+at 110,14: =Number 974 at position (110, 130)=
+at 111,0: =Number 285 at position (111, 6)=
+at 111,1: =Number 493 at position (111, 19)=
+at 111,2: =Number 61 at position (111, 23)=
+at 111,3: =Number 81 at position (111, 36)=
+at 111,4: =Number 844 at position (111, 56)=
+at 111,5: =Number * at position (111, 66)=
+adjacent identified: =Number 185 at position (110, 65)= to =Number * at position (111, 66)=
+adjacent identified: =Number 973 at position (112, 64)= to =Number * at position (111, 66)=
+there are 2 adjacent to =Number * at position (111, 66)=
+at 111,6: =Number 424 at position (111, 74)=
+at 111,7: =Number 330 at position (111, 85)=
+at 111,8: =Number * at position (111, 90)=
+adjacent identified: =Number 559 at position (110, 90)= to =Number * at position (111, 90)=
+adjacent identified: =Number 313 at position (112, 89)= to =Number * at position (111, 90)=
+there are 2 adjacent to =Number * at position (111, 90)=
+at 111,9: =Number 342 at position (111, 112)=
+at 111,10: =Number 994 at position (111, 117)=
+at 111,11: =Number 222 at position (111, 121)=
+at 111,12: =Number * at position (111, 131)=
+adjacent identified: =Number 974 at position (110, 130)= to =Number * at position (111, 131)=
+adjacent identified: =Number 288 at position (112, 128)= to =Number * at position (111, 131)=
+there are 2 adjacent to =Number * at position (111, 131)=
+at 112,0: =Number 492 at position (112, 5)=
+at 112,1: =Number * at position (112, 5)=
+adjacent identified: =Number 285 at position (111, 6)= to =Number * at position (112, 5)=
+adjacent identified: =Number 492 at position (112, 5)= to =Number * at position (112, 5)=
+there are 2 adjacent to =Number * at position (112, 5)=
+at 112,2: =Number 456 at position (112, 14)=
+at 112,3: =Number * at position (112, 14)=
+adjacent identified: =Number 456 at position (112, 14)= to =Number * at position (112, 14)=
+adjacent identified: =Number 326 at position (112, 15)= to =Number * at position (112, 14)=
+there are 2 adjacent to =Number * at position (112, 14)=
+at 112,4: =Number 326 at position (112, 15)=
+at 112,5: =Number * at position (112, 20)=
+adjacent identified: =Number 493 at position (111, 19)= to =Number * at position (112, 20)=
+adjacent identified: =Number 247 at position (113, 21)= to =Number * at position (112, 20)=
+there are 2 adjacent to =Number * at position (112, 20)=
+at 112,6: =Number 728 at position (112, 41)=
+at 112,7: =Number 705 at position (112, 48)=
+at 112,8: =Number 973 at position (112, 64)=
+at 112,9: =Number * at position (112, 76)=
+adjacent identified: =Number 424 at position (111, 74)= to =Number * at position (112, 76)=
+adjacent identified: =Number 789 at position (113, 75)= to =Number * at position (112, 76)=
+there are 2 adjacent to =Number * at position (112, 76)=
+at 112,10: =Number 313 at position (112, 89)=
+at 112,11: =Number 554 at position (112, 96)=
+at 112,12: =Number * at position (112, 96)=
+adjacent identified: =Number 554 at position (112, 96)= to =Number * at position (112, 96)=
+there are 1 adjacent to =Number * at position (112, 96)=
+at 112,13: =Number 596 at position (112, 103)=
+at 112,14: =Number * at position (112, 118)=
+adjacent identified: =Number 994 at position (111, 117)= to =Number * at position (112, 118)=
+adjacent identified: =Number 936 at position (113, 119)= to =Number * at position (112, 118)=
+there are 2 adjacent to =Number * at position (112, 118)=
+at 112,15: =Number 288 at position (112, 128)=
+at 112,16: =Number 958 at position (112, 133)=
+at 113,0: =Number 247 at position (113, 21)=
+at 113,1: =Number * at position (113, 34)=
+adjacent identified: =Number 508 at position (113, 35)= to =Number * at position (113, 34)=
+adjacent identified: =Number 469 at position (114, 31)= to =Number * at position (113, 34)=
+there are 2 adjacent to =Number * at position (113, 34)=
+at 113,2: =Number 508 at position (113, 35)=
+at 113,3: =Number + at position (113, 43)=
+at 113,4: =Number * at position (113, 49)=
+adjacent identified: =Number 705 at position (112, 48)= to =Number * at position (113, 49)=
+there are 1 adjacent to =Number * at position (113, 49)=
+at 113,5: =Number # at position (113, 55)=
+at 113,6: =Number 789 at position (113, 75)=
+at 113,7: =Number 861 at position (113, 102)=
+at 113,8: =Number * at position (113, 102)=
+adjacent identified: =Number 596 at position (112, 103)= to =Number * at position (113, 102)=
+adjacent identified: =Number 861 at position (113, 102)= to =Number * at position (113, 102)=
+there are 2 adjacent to =Number * at position (113, 102)=
+at 113,9: =Number 936 at position (113, 119)=
+at 113,10: =Number # at position (113, 133)=
+at 114,0: =Number 589 at position (114, 1)=
+at 114,1: =Number 368 at position (114, 8)=
+at 114,2: =Number 956 at position (114, 17)=
+at 114,3: =Number # at position (114, 27)=
+at 114,4: =Number 469 at position (114, 31)=
+at 114,5: =Number 757 at position (114, 56)=
+at 114,6: =Number 361 at position (114, 61)=
+at 114,7: =Number 144 at position (114, 71)=
+at 114,8: =Number * at position (114, 71)=
+adjacent identified: =Number 144 at position (114, 71)= to =Number * at position (114, 71)=
+adjacent identified: =Number 212 at position (115, 72)= to =Number * at position (114, 71)=
+there are 2 adjacent to =Number * at position (114, 71)=
+at 114,9: =Number = at position (114, 106)=
+at 114,10: =Number * at position (114, 113)=
+adjacent identified: =Number 739 at position (115, 113)= to =Number * at position (114, 113)=
+there are 1 adjacent to =Number * at position (114, 113)=
+at 115,0: =Number - at position (115, 8)=
+at 115,1: =Number $ at position (115, 16)=
+at 115,2: =Number 80 at position (115, 21)=
+at 115,3: =Number 822 at position (115, 24)=
+at 115,4: =Number 560 at position (115, 35)=
+at 115,5: =Number 172 at position (115, 49)=
+at 115,6: =Number 212 at position (115, 72)=
+at 115,7: =Number = at position (115, 83)=
+at 115,8: =Number 552 at position (115, 84)=
+at 115,9: =Number * at position (115, 89)=
+adjacent identified: =Number 368 at position (116, 89)= to =Number * at position (115, 89)=
+there are 1 adjacent to =Number * at position (115, 89)=
+at 115,10: =Number # at position (115, 95)=
+at 115,11: =Number % at position (115, 100)=
+at 115,12: =Number 858 at position (115, 103)=
+at 115,13: =Number 462 at position (115, 109)=
+at 115,14: =Number 739 at position (115, 113)=
+at 115,15: =Number 343 at position (115, 121)=
+at 115,16: =Number 22 at position (115, 132)=
+at 116,0: =Number = at position (116, 10)=
+at 116,1: =Number * at position (116, 35)=
+adjacent identified: =Number 560 at position (115, 35)= to =Number * at position (116, 35)=
+there are 1 adjacent to =Number * at position (116, 35)=
+at 116,2: =Number 170 at position (116, 43)=
+at 116,3: =Number * at position (116, 48)=
+adjacent identified: =Number 172 at position (115, 49)= to =Number * at position (116, 48)=
+adjacent identified: =Number 739 at position (117, 47)= to =Number * at position (116, 48)=
+there are 2 adjacent to =Number * at position (116, 48)=
+at 116,4: =Number 413 at position (116, 79)=
+at 116,5: =Number 368 at position (116, 89)=
+at 116,6: =Number 264 at position (116, 93)=
+at 116,7: =Number 622 at position (116, 97)=
+at 116,8: =Number - at position (116, 111)=
+at 116,9: =Number * at position (116, 124)=
+adjacent identified: =Number 343 at position (115, 121)= to =Number * at position (116, 124)=
+adjacent identified: =Number 277 at position (117, 123)= to =Number * at position (116, 124)=
+there are 2 adjacent to =Number * at position (116, 124)=
+at 116,10: =Number * at position (116, 133)=
+adjacent identified: =Number 22 at position (115, 132)= to =Number * at position (116, 133)=
+adjacent identified: =Number 170 at position (117, 134)= to =Number * at position (116, 133)=
+there are 2 adjacent to =Number * at position (116, 133)=
+at 117,0: =Number 601 at position (117, 3)=
+at 117,1: =Number 505 at position (117, 8)=
+at 117,2: =Number 234 at position (117, 12)=
+at 117,3: =Number & at position (117, 16)=
+at 117,4: =Number 371 at position (117, 17)=
+at 117,5: =Number 123 at position (117, 31)=
+at 117,6: =Number 739 at position (117, 47)=
+at 117,7: =Number 812 at position (117, 51)=
+at 117,8: =Number 429 at position (117, 60)=
+at 117,9: =Number % at position (117, 80)=
+at 117,10: =Number 788 at position (117, 84)=
+at 117,11: =Number 277 at position (117, 123)=
+at 117,12: =Number 967 at position (117, 128)=
+at 117,13: =Number 170 at position (117, 134)=
+at 118,0: =Number * at position (118, 4)=
+adjacent identified: =Number 601 at position (117, 3)= to =Number * at position (118, 4)=
+adjacent identified: =Number 840 at position (119, 5)= to =Number * at position (118, 4)=
+there are 2 adjacent to =Number * at position (118, 4)=
+at 118,1: =Number * at position (118, 12)=
+adjacent identified: =Number 234 at position (117, 12)= to =Number * at position (118, 12)=
+adjacent identified: =Number 636 at position (119, 13)= to =Number * at position (118, 12)=
+there are 2 adjacent to =Number * at position (118, 12)=
+at 118,2: =Number 547 at position (118, 21)=
+at 118,3: =Number % at position (118, 35)=
+at 118,4: =Number 849 at position (118, 41)=
+at 118,5: =Number * at position (118, 52)=
+adjacent identified: =Number 812 at position (117, 51)= to =Number * at position (118, 52)=
+adjacent identified: =Number 35 at position (119, 53)= to =Number * at position (118, 52)=
+there are 2 adjacent to =Number * at position (118, 52)=
+at 118,6: =Number * at position (118, 59)=
+adjacent identified: =Number 429 at position (117, 60)= to =Number * at position (118, 59)=
+adjacent identified: =Number 723 at position (119, 56)= to =Number * at position (118, 59)=
+there are 2 adjacent to =Number * at position (118, 59)=
+at 118,7: =Number 532 at position (118, 67)=
+at 118,8: =Number 309 at position (118, 76)=
+at 118,9: =Number @ at position (118, 76)=
+at 118,10: =Number * at position (118, 86)=
+adjacent identified: =Number 788 at position (117, 84)= to =Number * at position (118, 86)=
+adjacent identified: =Number 875 at position (119, 85)= to =Number * at position (118, 86)=
+there are 2 adjacent to =Number * at position (118, 86)=
+at 118,11: =Number 536 at position (118, 105)=
+at 118,12: =Number 581 at position (118, 112)=
+at 118,13: =Number 352 at position (118, 118)=
+at 118,14: =Number - at position (118, 130)=
+at 119,0: =Number 840 at position (119, 5)=
+at 119,1: =Number 636 at position (119, 13)=
+at 119,2: =Number 996 at position (119, 20)=
+at 119,3: =Number * at position (119, 20)=
+adjacent identified: =Number 547 at position (118, 21)= to =Number * at position (119, 20)=
+adjacent identified: =Number 996 at position (119, 20)= to =Number * at position (119, 20)=
+there are 2 adjacent to =Number * at position (119, 20)=
+at 119,4: =Number 399 at position (119, 28)=
+at 119,5: =Number 455 at position (119, 36)=
+at 119,6: =Number 35 at position (119, 53)=
+at 119,7: =Number 723 at position (119, 56)=
+at 119,8: =Number 934 at position (119, 61)=
+at 119,9: =Number * at position (119, 66)=
+adjacent identified: =Number 532 at position (118, 67)= to =Number * at position (119, 66)=
+adjacent identified: =Number 615 at position (120, 67)= to =Number * at position (119, 66)=
+there are 2 adjacent to =Number * at position (119, 66)=
+at 119,10: =Number 842 at position (119, 79)=
+at 119,11: =Number 875 at position (119, 85)=
+at 119,12: =Number 90 at position (119, 92)=
+at 119,13: =Number * at position (119, 105)=
+adjacent identified: =Number 536 at position (118, 105)= to =Number * at position (119, 105)=
+adjacent identified: =Number 774 at position (120, 105)= to =Number * at position (119, 105)=
+there are 2 adjacent to =Number * at position (119, 105)=
+at 119,14: =Number * at position (119, 120)=
+adjacent identified: =Number 352 at position (118, 118)= to =Number * at position (119, 120)=
+adjacent identified: =Number 830 at position (120, 117)= to =Number * at position (119, 120)=
+there are 2 adjacent to =Number * at position (119, 120)=
+at 119,15: =Number 992 at position (119, 124)=
+at 119,16: =Number @ at position (119, 133)=
+at 120,0: =Number 817 at position (120, 9)=
+at 120,1: =Number # at position (120, 23)=
+at 120,2: =Number 462 at position (120, 24)=
+at 120,3: =Number * at position (120, 31)=
+adjacent identified: =Number 399 at position (119, 28)= to =Number * at position (120, 31)=
+adjacent identified: =Number 607 at position (121, 28)= to =Number * at position (120, 31)=
+there are 2 adjacent to =Number * at position (120, 31)=
+at 120,4: =Number $ at position (120, 44)=
+at 120,5: =Number 788 at position (120, 45)=
+at 120,6: =Number * at position (120, 64)=
+adjacent identified: =Number 934 at position (119, 61)= to =Number * at position (120, 64)=
+adjacent identified: =Number 117 at position (121, 62)= to =Number * at position (120, 64)=
+there are 2 adjacent to =Number * at position (120, 64)=
+at 120,7: =Number 615 at position (120, 67)=
+at 120,8: =Number 469 at position (120, 71)=
+at 120,9: =Number * at position (120, 82)=
+adjacent identified: =Number 842 at position (119, 79)= to =Number * at position (120, 82)=
+adjacent identified: =Number 532 at position (121, 82)= to =Number * at position (120, 82)=
+there are 2 adjacent to =Number * at position (120, 82)=
+at 120,10: =Number * at position (120, 94)=
+adjacent identified: =Number 90 at position (119, 92)= to =Number * at position (120, 94)=
+there are 1 adjacent to =Number * at position (120, 94)=
+at 120,11: =Number 261 at position (120, 97)=
+at 120,12: =Number 774 at position (120, 105)=
+at 120,13: =Number 830 at position (120, 117)=
+at 120,14: =Number * at position (120, 126)=
+adjacent identified: =Number 992 at position (119, 124)= to =Number * at position (120, 126)=
+adjacent identified: =Number 676 at position (121, 126)= to =Number * at position (120, 126)=
+there are 2 adjacent to =Number * at position (120, 126)=
+at 120,15: =Number 624 at position (120, 130)=
+at 121,0: =Number * at position (121, 9)=
+adjacent identified: =Number 817 at position (120, 9)= to =Number * at position (121, 9)=
+adjacent identified: =Number 558 at position (122, 10)= to =Number * at position (121, 9)=
+there are 2 adjacent to =Number * at position (121, 9)=
+at 121,1: =Number 607 at position (121, 28)=
+at 121,2: =Number 117 at position (121, 62)=
+at 121,3: =Number 532 at position (121, 82)=
+at 121,4: =Number $ at position (121, 100)=
+at 121,5: =Number 950 at position (121, 121)=
+at 121,6: =Number 676 at position (121, 126)=
+at 122,0: =Number 749 at position (122, 5)=
+at 122,1: =Number * at position (122, 5)=
+adjacent identified: =Number 749 at position (122, 5)= to =Number * at position (122, 5)=
+adjacent identified: =Number 12 at position (122, 6)= to =Number * at position (122, 5)=
+there are 2 adjacent to =Number * at position (122, 5)=
+at 122,2: =Number 12 at position (122, 6)=
+at 122,3: =Number 558 at position (122, 10)=
+at 122,4: =Number 62 at position (122, 15)=
+at 122,5: =Number + at position (122, 20)=
+at 122,6: =Number 199 at position (122, 21)=
+at 122,7: =Number 492 at position (122, 32)=
+at 122,8: =Number 870 at position (122, 41)=
+at 122,9: =Number 719 at position (122, 49)=
+at 122,10: =Number 548 at position (122, 76)=
+at 122,11: =Number 353 at position (122, 88)=
+at 122,12: =Number 486 at position (122, 113)=
+at 122,13: =Number - at position (122, 121)=
+at 122,14: =Number 698 at position (122, 133)=
+at 122,15: =Number * at position (122, 133)=
+adjacent identified: =Number 698 at position (122, 133)= to =Number * at position (122, 133)=
+adjacent identified: =Number 61 at position (122, 134)= to =Number * at position (122, 133)=
+there are 2 adjacent to =Number * at position (122, 133)=
+at 122,16: =Number 61 at position (122, 134)=
+at 123,0: =Number - at position (123, 34)=
+at 123,1: =Number 514 at position (123, 40)=
+at 123,2: =Number * at position (123, 40)=
+adjacent identified: =Number 870 at position (122, 41)= to =Number * at position (123, 40)=
+adjacent identified: =Number 514 at position (123, 40)= to =Number * at position (123, 40)=
+there are 2 adjacent to =Number * at position (123, 40)=
+at 123,3: =Number 25 at position (123, 47)=
+at 123,4: =Number @ at position (123, 47)=
+at 123,5: =Number 681 at position (123, 63)=
+at 123,6: =Number * at position (123, 68)=
+adjacent identified: =Number 975 at position (123, 69)= to =Number * at position (123, 68)=
+there are 1 adjacent to =Number * at position (123, 68)=
+at 123,7: =Number 975 at position (123, 69)=
+at 123,8: =Number * at position (123, 82)=
+adjacent identified: =Number 437 at position (123, 83)= to =Number * at position (123, 82)=
+adjacent identified: =Number 980 at position (124, 79)= to =Number * at position (123, 82)=
+there are 2 adjacent to =Number * at position (123, 82)=
+at 123,9: =Number 437 at position (123, 83)=
+at 123,10: =Number * at position (123, 90)=
+adjacent identified: =Number 353 at position (122, 88)= to =Number * at position (123, 90)=
+adjacent identified: =Number 339 at position (124, 91)= to =Number * at position (123, 90)=
+there are 2 adjacent to =Number * at position (123, 90)=
+at 123,11: =Number 99 at position (123, 95)=
+at 123,12: =Number @ at position (123, 111)=
+at 123,13: =Number * at position (123, 113)=
+adjacent identified: =Number 486 at position (122, 113)= to =Number * at position (123, 113)=
+adjacent identified: =Number 443 at position (124, 113)= to =Number * at position (123, 113)=
+there are 2 adjacent to =Number * at position (123, 113)=
+at 123,14: =Number + at position (123, 123)=
+at 124,0: =Number 363 at position (124, 4)=
+at 124,1: =Number 296 at position (124, 10)=
+at 124,2: =Number 350 at position (124, 18)=
+at 124,3: =Number 457 at position (124, 50)=
+at 124,4: =Number 421 at position (124, 61)=
+at 124,5: =Number - at position (124, 61)=
+at 124,6: =Number * at position (124, 66)=
+adjacent identified: =Number 681 at position (123, 63)= to =Number * at position (124, 66)=
+adjacent identified: =Number 122 at position (125, 65)= to =Number * at position (124, 66)=
+there are 2 adjacent to =Number * at position (124, 66)=
+at 124,7: =Number * at position (124, 74)=
+adjacent identified: =Number 234 at position (124, 75)= to =Number * at position (124, 74)=
+adjacent identified: =Number 237 at position (125, 71)= to =Number * at position (124, 74)=
+there are 2 adjacent to =Number * at position (124, 74)=
+at 124,8: =Number 234 at position (124, 75)=
+at 124,9: =Number 980 at position (124, 79)=
+at 124,10: =Number 339 at position (124, 91)=
+at 124,11: =Number # at position (124, 95)=
+at 124,12: =Number 660 at position (124, 109)=
+at 124,13: =Number 443 at position (124, 113)=
+at 124,14: =Number $ at position (124, 119)=
+at 124,15: =Number 645 at position (124, 121)=
+at 124,16: =Number 132 at position (124, 125)=
+at 124,17: =Number 930 at position (124, 133)=
+at 125,0: =Number $ at position (125, 8)=
+at 125,1: =Number * at position (125, 14)=
+adjacent identified: =Number 422 at position (126, 12)= to =Number * at position (125, 14)=
+there are 1 adjacent to =Number * at position (125, 14)=
+at 125,2: =Number * at position (125, 19)=
+adjacent identified: =Number 350 at position (124, 18)= to =Number * at position (125, 19)=
+adjacent identified: =Number 854 at position (126, 19)= to =Number * at position (125, 19)=
+there are 2 adjacent to =Number * at position (125, 19)=
+at 125,3: =Number 617 at position (125, 28)=
+at 125,4: =Number 712 at position (125, 40)=
+at 125,5: =Number * at position (125, 50)=
+adjacent identified: =Number 457 at position (124, 50)= to =Number * at position (125, 50)=
+adjacent identified: =Number 334 at position (126, 50)= to =Number * at position (125, 50)=
+there are 2 adjacent to =Number * at position (125, 50)=
+at 125,6: =Number 122 at position (125, 65)=
+at 125,7: =Number 237 at position (125, 71)=
+at 125,8: =Number 491 at position (125, 86)=
+at 125,9: =Number / at position (125, 99)=
+at 125,10: =Number 452 at position (125, 100)=
+at 125,11: =Number 445 at position (125, 117)=
+at 125,12: =Number # at position (125, 127)=
+at 125,13: =Number 342 at position (125, 129)=
+at 125,14: =Number @ at position (125, 135)=
+at 126,0: =Number 903 at position (126, 8)=
+at 126,1: =Number 422 at position (126, 12)=
+at 126,2: =Number 854 at position (126, 19)=
+at 126,3: =Number 643 at position (126, 23)=
+at 126,4: =Number * at position (126, 29)=
+adjacent identified: =Number 617 at position (125, 28)= to =Number * at position (126, 29)=
+adjacent identified: =Number 426 at position (127, 28)= to =Number * at position (126, 29)=
+there are 2 adjacent to =Number * at position (126, 29)=
+at 126,5: =Number 942 at position (126, 36)=
+at 126,6: =Number * at position (126, 42)=
+adjacent identified: =Number 712 at position (125, 40)= to =Number * at position (126, 42)=
+adjacent identified: =Number 948 at position (127, 42)= to =Number * at position (126, 42)=
+there are 2 adjacent to =Number * at position (126, 42)=
+at 126,7: =Number 334 at position (126, 50)=
+at 126,8: =Number * at position (126, 85)=
+adjacent identified: =Number 491 at position (125, 86)= to =Number * at position (126, 85)=
+adjacent identified: =Number 401 at position (127, 85)= to =Number * at position (126, 85)=
+there are 2 adjacent to =Number * at position (126, 85)=
+at 126,9: =Number 855 at position (126, 96)=
+at 126,10: =Number * at position (126, 96)=
+adjacent identified: =Number 855 at position (126, 96)= to =Number * at position (126, 96)=
+adjacent identified: =Number 810 at position (127, 97)= to =Number * at position (126, 96)=
+there are 2 adjacent to =Number * at position (126, 96)=
+at 126,11: =Number 507 at position (126, 107)=
+at 126,12: =Number @ at position (126, 130)=
+at 127,0: =Number 326 at position (127, 1)=
+at 127,1: =Number * at position (127, 23)=
+adjacent identified: =Number 643 at position (126, 23)= to =Number * at position (127, 23)=
+adjacent identified: =Number 889 at position (128, 21)= to =Number * at position (127, 23)=
+there are 2 adjacent to =Number * at position (127, 23)=
+at 127,2: =Number 426 at position (127, 28)=
+at 127,3: =Number 838 at position (127, 32)=
+at 127,4: =Number * at position (127, 36)=
+adjacent identified: =Number 942 at position (126, 36)= to =Number * at position (127, 36)=
+adjacent identified: =Number 252 at position (128, 36)= to =Number * at position (127, 36)=
+there are 2 adjacent to =Number * at position (127, 36)=
+at 127,5: =Number 948 at position (127, 42)=
+at 127,6: =Number 868 at position (127, 64)=
+at 127,7: =Number 635 at position (127, 70)=
+at 127,8: =Number 635 at position (127, 77)=
+at 127,9: =Number 401 at position (127, 85)=
+at 127,10: =Number 810 at position (127, 97)=
+at 127,11: =Number # at position (127, 109)=
+at 127,12: =Number 887 at position (127, 118)=
+at 127,13: =Number 40 at position (127, 124)=
+at 127,14: =Number 743 at position (127, 133)=
+at 128,0: =Number 879 at position (128, 12)=
+at 128,1: =Number 889 at position (128, 21)=
+at 128,2: =Number # at position (128, 26)=
+at 128,3: =Number 252 at position (128, 36)=
+at 128,4: =Number 496 at position (128, 52)=
+at 128,5: =Number * at position (128, 59)=
+adjacent identified: =Number 55 at position (129, 57)= to =Number * at position (128, 59)=
+there are 1 adjacent to =Number * at position (128, 59)=
+at 128,6: =Number # at position (128, 71)=
+at 128,7: =Number 55 at position (128, 82)=
+at 128,8: =Number 370 at position (128, 92)=
+at 128,9: =Number 39 at position (128, 113)=
+at 128,10: =Number $ at position (128, 117)=
+at 128,11: =Number * at position (128, 123)=
+adjacent identified: =Number 40 at position (127, 124)= to =Number * at position (128, 123)=
+adjacent identified: =Number 460 at position (129, 123)= to =Number * at position (128, 123)=
+there are 2 adjacent to =Number * at position (128, 123)=
+at 128,12: =Number 331 at position (128, 128)=
+at 128,13: =Number * at position (128, 133)=
+adjacent identified: =Number 743 at position (127, 133)= to =Number * at position (128, 133)=
+adjacent identified: =Number 431 at position (129, 132)= to =Number * at position (128, 133)=
+there are 2 adjacent to =Number * at position (128, 133)=
+at 129,0: =Number 506 at position (129, 2)=
+at 129,1: =Number & at position (129, 11)=
+at 129,2: =Number 487 at position (129, 27)=
+at 129,3: =Number 794 at position (129, 44)=
+at 129,4: =Number * at position (129, 51)=
+adjacent identified: =Number 496 at position (128, 52)= to =Number * at position (129, 51)=
+adjacent identified: =Number 911 at position (130, 52)= to =Number * at position (129, 51)=
+there are 2 adjacent to =Number * at position (129, 51)=
+at 129,5: =Number 55 at position (129, 57)=
+at 129,6: =Number 262 at position (129, 76)=
+at 129,7: =Number * at position (129, 84)=
+adjacent identified: =Number 55 at position (128, 82)= to =Number * at position (129, 84)=
+there are 1 adjacent to =Number * at position (129, 84)=
+at 129,8: =Number 465 at position (129, 87)=
+at 129,9: =Number * at position (129, 92)=
+adjacent identified: =Number 370 at position (128, 92)= to =Number * at position (129, 92)=
+adjacent identified: =Number 241 at position (130, 92)= to =Number * at position (129, 92)=
+there are 2 adjacent to =Number * at position (129, 92)=
+at 129,10: =Number 309 at position (129, 106)=
+at 129,11: =Number = at position (129, 115)=
+at 129,12: =Number 460 at position (129, 123)=
+at 129,13: =Number * at position (129, 129)=
+adjacent identified: =Number 331 at position (128, 128)= to =Number * at position (129, 129)=
+adjacent identified: =Number 329 at position (130, 128)= to =Number * at position (129, 129)=
+there are 2 adjacent to =Number * at position (129, 129)=
+at 129,14: =Number 431 at position (129, 132)=
+at 130,0: =Number # at position (130, 5)=
+at 130,1: =Number * at position (130, 34)=
+adjacent identified: =Number 277 at position (131, 31)= to =Number * at position (130, 34)=
+adjacent identified: =Number 276 at position (131, 35)= to =Number * at position (130, 34)=
+there are 2 adjacent to =Number * at position (130, 34)=
+at 130,2: =Number 41 at position (130, 41)=
+at 130,3: =Number 911 at position (130, 52)=
+at 130,4: =Number / at position (130, 64)=
+at 130,5: =Number 495 at position (130, 66)=
+at 130,6: =Number * at position (130, 90)=
+adjacent identified: =Number 465 at position (129, 87)= to =Number * at position (130, 90)=
+there are 1 adjacent to =Number * at position (130, 90)=
+at 130,7: =Number 241 at position (130, 92)=
+at 130,8: =Number * at position (130, 105)=
+adjacent identified: =Number 309 at position (129, 106)= to =Number * at position (130, 105)=
+adjacent identified: =Number 491 at position (131, 103)= to =Number * at position (130, 105)=
+there are 2 adjacent to =Number * at position (130, 105)=
+at 130,9: =Number 509 at position (130, 110)=
+at 130,10: =Number 314 at position (130, 118)=
+at 130,11: =Number 329 at position (130, 128)=
+at 131,0: =Number 627 at position (131, 15)=
+at 131,1: =Number 15 at position (131, 22)=
+at 131,2: =Number 706 at position (131, 25)=
+at 131,3: =Number 277 at position (131, 31)=
+at 131,4: =Number 276 at position (131, 35)=
+at 131,5: =Number 68 at position (131, 62)=
+at 131,6: =Number * at position (131, 77)=
+adjacent identified: =Number 952 at position (132, 75)= to =Number * at position (131, 77)=
+there are 1 adjacent to =Number * at position (131, 77)=
+at 131,7: =Number 491 at position (131, 103)=
+at 131,8: =Number * at position (131, 113)=
+adjacent identified: =Number 509 at position (130, 110)= to =Number * at position (131, 113)=
+adjacent identified: =Number 999 at position (132, 111)= to =Number * at position (131, 113)=
+there are 2 adjacent to =Number * at position (131, 113)=
+at 131,9: =Number # at position (131, 122)=
+at 131,10: =Number 898 at position (131, 123)=
+at 131,11: =Number % at position (131, 132)=
+at 131,12: =Number 956 at position (131, 133)=
+at 132,0: =Number 830 at position (132, 11)=
+at 132,1: =Number * at position (132, 18)=
+adjacent identified: =Number 627 at position (131, 15)= to =Number * at position (132, 18)=
+adjacent identified: =Number 12 at position (132, 19)= to =Number * at position (132, 18)=
+there are 2 adjacent to =Number * at position (132, 18)=
+at 132,2: =Number 12 at position (132, 19)=
+at 132,3: =Number * at position (132, 23)=
+adjacent identified: =Number 15 at position (131, 22)= to =Number * at position (132, 23)=
+adjacent identified: =Number 132 at position (133, 22)= to =Number * at position (132, 23)=
+there are 2 adjacent to =Number * at position (132, 23)=
+at 132,4: =Number * at position (132, 28)=
+adjacent identified: =Number 706 at position (131, 25)= to =Number * at position (132, 28)=
+adjacent identified: =Number 577 at position (133, 27)= to =Number * at position (132, 28)=
+there are 2 adjacent to =Number * at position (132, 28)=
+at 132,5: =Number 219 at position (132, 46)=
+at 132,6: =Number 112 at position (132, 50)=
+at 132,7: =Number 952 at position (132, 75)=
+at 132,8: =Number 637 at position (132, 86)=
+at 132,9: =Number * at position (132, 86)=
+adjacent identified: =Number 637 at position (132, 86)= to =Number * at position (132, 86)=
+there are 1 adjacent to =Number * at position (132, 86)=
+at 132,10: =Number - at position (132, 95)=
+at 132,11: =Number 539 at position (132, 98)=
+at 132,12: =Number 999 at position (132, 111)=
+at 132,13: =Number 316 at position (132, 115)=
+at 132,14: =Number 2 at position (132, 119)=
+at 132,15: =Number % at position (132, 130)=
+at 133,0: =Number / at position (133, 6)=
+at 133,1: =Number * at position (133, 14)=
+adjacent identified: =Number 830 at position (132, 11)= to =Number * at position (133, 14)=
+adjacent identified: =Number 811 at position (134, 12)= to =Number * at position (133, 14)=
+there are 2 adjacent to =Number * at position (133, 14)=
+at 133,2: =Number 132 at position (133, 22)=
+at 133,3: =Number 577 at position (133, 27)=
+at 133,4: =Number 595 at position (133, 31)=
+at 133,5: =Number 426 at position (133, 40)=
+at 133,6: =Number * at position (133, 45)=
+adjacent identified: =Number 219 at position (132, 46)= to =Number * at position (133, 45)=
+adjacent identified: =Number 91 at position (134, 45)= to =Number * at position (133, 45)=
+there are 2 adjacent to =Number * at position (133, 45)=
+at 133,7: =Number * at position (133, 52)=
+adjacent identified: =Number 112 at position (132, 50)= to =Number * at position (133, 52)=
+adjacent identified: =Number 980 at position (134, 49)= to =Number * at position (133, 52)=
+there are 2 adjacent to =Number * at position (133, 52)=
+at 133,8: =Number 3 at position (133, 54)=
+at 133,9: =Number # at position (133, 59)=
+at 133,10: =Number 380 at position (133, 60)=
+at 133,11: =Number 681 at position (133, 73)=
+at 133,12: =Number + at position (133, 73)=
+at 133,13: =Number 460 at position (133, 89)=
+at 133,14: =Number 829 at position (133, 94)=
+at 133,15: =Number * at position (133, 98)=
+adjacent identified: =Number 539 at position (132, 98)= to =Number * at position (133, 98)=
+adjacent identified: =Number 639 at position (134, 98)= to =Number * at position (133, 98)=
+there are 2 adjacent to =Number * at position (133, 98)=
+at 133,16: =Number = at position (133, 117)=
+at 133,17: =Number 223 at position (133, 123)=
+at 133,18: =Number 615 at position (133, 131)=
+at 134,0: =Number 726 at position (134, 6)=
+at 134,1: =Number 811 at position (134, 12)=
+at 134,2: =Number + at position (134, 42)=
+at 134,3: =Number 91 at position (134, 45)=
+at 134,4: =Number 980 at position (134, 49)=
+at 134,5: =Number * at position (134, 54)=
+adjacent identified: =Number 3 at position (133, 54)= to =Number * at position (134, 54)=
+adjacent identified: =Number 526 at position (135, 54)= to =Number * at position (134, 54)=
+there are 2 adjacent to =Number * at position (134, 54)=
+at 134,6: =Number $ at position (134, 79)=
+at 134,7: =Number * at position (134, 90)=
+adjacent identified: =Number 460 at position (133, 89)= to =Number * at position (134, 90)=
+adjacent identified: =Number 662 at position (135, 87)= to =Number * at position (134, 90)=
+there are 2 adjacent to =Number * at position (134, 90)=
+at 134,8: =Number 639 at position (134, 98)=
+at 134,9: =Number 193 at position (134, 119)=
+at 134,10: =Number % at position (134, 123)=
+at 134,11: =Number 403 at position (134, 136)=
+at 135,0: =Number 358 at position (135, 22)=
+at 135,1: =Number * at position (135, 22)=
+adjacent identified: =Number 358 at position (135, 22)= to =Number * at position (135, 22)=
+adjacent identified: =Number 313 at position (136, 23)= to =Number * at position (135, 22)=
+there are 2 adjacent to =Number * at position (135, 22)=
+at 135,2: =Number 633 at position (135, 35)=
+at 135,3: =Number 526 at position (135, 54)=
+at 135,4: =Number 266 at position (135, 61)=
+at 135,5: =Number 666 at position (135, 73)=
+at 135,6: =Number 534 at position (135, 79)=
+at 135,7: =Number 662 at position (135, 87)=
+at 135,8: =Number + at position (135, 114)=
+at 135,9: =Number $ at position (135, 120)=
+at 135,10: =Number 758 at position (135, 130)=
+at 135,11: =Number * at position (135, 136)=
+adjacent identified: =Number 403 at position (134, 136)= to =Number * at position (135, 136)=
+adjacent identified: =Number 296 at position (136, 134)= to =Number * at position (135, 136)=
+there are 2 adjacent to =Number * at position (135, 136)=
+at 136,0: =Number = at position (136, 7)=
+at 136,1: =Number 137 at position (136, 15)=
+at 136,2: =Number 313 at position (136, 23)=
+at 136,3: =Number = at position (136, 35)=
+at 136,4: =Number 998 at position (136, 49)=
+at 136,5: =Number & at position (136, 58)=
+at 136,6: =Number * at position (136, 63)=
+adjacent identified: =Number 266 at position (135, 61)= to =Number * at position (136, 63)=
+adjacent identified: =Number 238 at position (137, 64)= to =Number * at position (136, 63)=
+there are 2 adjacent to =Number * at position (136, 63)=
+at 136,7: =Number * at position (136, 74)=
+adjacent identified: =Number 666 at position (135, 73)= to =Number * at position (136, 74)=
+adjacent identified: =Number 327 at position (137, 72)= to =Number * at position (136, 74)=
+there are 2 adjacent to =Number * at position (136, 74)=
+at 136,8: =Number 559 at position (136, 96)=
+at 136,9: =Number 313 at position (136, 101)=
+at 136,10: =Number 825 at position (136, 109)=
+at 136,11: =Number = at position (136, 109)=
+at 136,12: =Number 353 at position (136, 115)=
+at 136,13: =Number 405 at position (136, 122)=
+at 136,14: =Number 296 at position (136, 134)=
+at 137,0: =Number 447 at position (137, 4)=
+at 137,1: =Number # at position (137, 18)=
+at 137,2: =Number 342 at position (137, 30)=
+at 137,3: =Number % at position (137, 37)=
+at 137,4: =Number % at position (137, 43)=
+at 137,5: =Number * at position (137, 52)=
+adjacent identified: =Number 998 at position (136, 49)= to =Number * at position (137, 52)=
+adjacent identified: =Number 741 at position (138, 51)= to =Number * at position (137, 52)=
+there are 2 adjacent to =Number * at position (137, 52)=
+at 137,6: =Number 938 at position (137, 55)=
+at 137,7: =Number 238 at position (137, 64)=
+at 137,8: =Number 327 at position (137, 72)=
+at 137,9: =Number * at position (137, 89)=
+adjacent identified: =Number 152 at position (137, 90)= to =Number * at position (137, 89)=
+adjacent identified: =Number 335 at position (138, 86)= to =Number * at position (137, 89)=
+there are 2 adjacent to =Number * at position (137, 89)=
+at 137,10: =Number 152 at position (137, 90)=
+at 137,11: =Number @ at position (137, 99)=
+at 137,12: =Number * at position (137, 103)=
+adjacent identified: =Number 313 at position (136, 101)= to =Number * at position (137, 103)=
+adjacent identified: =Number 137 at position (138, 103)= to =Number * at position (137, 103)=
+there are 2 adjacent to =Number * at position (137, 103)=
+at 137,13: =Number % at position (137, 123)=
+at 137,14: =Number 472 at position (137, 126)=
+at 137,15: =Number 153 at position (137, 130)=
+at 138,0: =Number 152 at position (138, 16)=
+at 138,1: =Number # at position (138, 16)=
+at 138,2: =Number * at position (138, 29)=
+adjacent identified: =Number 342 at position (137, 30)= to =Number * at position (138, 29)=
+there are 1 adjacent to =Number * at position (138, 29)=
+at 138,3: =Number 792 at position (138, 36)=
+at 138,4: =Number 334 at position (138, 42)=
+at 138,5: =Number 741 at position (138, 51)=
+at 138,6: =Number 570 at position (138, 81)=
+at 138,7: =Number * at position (138, 81)=
+adjacent identified: =Number 570 at position (138, 81)= to =Number * at position (138, 81)=
+adjacent identified: =Number 623 at position (139, 82)= to =Number * at position (138, 81)=
+there are 2 adjacent to =Number * at position (138, 81)=
+at 138,8: =Number 335 at position (138, 86)=
+at 138,9: =Number 137 at position (138, 103)=
+at 138,10: =Number 338 at position (138, 116)=
+at 138,11: =Number * at position (138, 129)=
+adjacent identified: =Number 472 at position (137, 126)= to =Number * at position (138, 129)=
+adjacent identified: =Number 153 at position (137, 130)= to =Number * at position (138, 129)=
+there are 2 adjacent to =Number * at position (138, 129)=
+at 138,12: =Number + at position (138, 136)=
+at 139,0: =Number 952 at position (139, 0)=
+at 139,1: =Number 793 at position (139, 60)=
+at 139,2: =Number 583 at position (139, 69)=
+at 139,3: =Number 623 at position (139, 82)=
+at 139,4: =Number 11 at position (139, 97)=
+at 139,5: =Number 730 at position (139, 107)=
+at 139,6: =Number 50 at position (139, 122)=
+at 139,7: =Number 116 at position (139, 125)=
+at 139,8: =Number 446 at position (139, 137)=
+Sum of all part numbers id 77509019
