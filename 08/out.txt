@@ -1,0 +1,1080 @@
+Instructions: LRRLLRRLLRRRLRLRRLRLRLRRLRLRLRLLLRRRLRLRRLLRLRRRLRRRLRLRLRRRLLRRLLRLRLRRRLRLLRRRLRLLRLRRRLRLRRRLRRRLLRRRLLRRRLRRLRRRLLRRRLRRLRRLRRLLRLRRLRRLRRRLRLRLRLRLRLRRRLLRLRRLRLRRLLRRLLRLRRLRRRLRLRLRLRRRLRRLRRLRRLRRLRRLRLRRRLRRRLRRRLRLRLLRRLRRRLRRLRLRRRLRRLRRRLRRLLRRLLLRRRR
+GSC = {'L': 'CLG', 'R': 'RPF'}
+NTQ = {'L': 'RMN', 'R': 'HLB'}
+LTX = {'L': 'XFB', 'R': 'CGP'}
+RHK = {'L': 'KRS', 'R': 'TPX'}
+KPK = {'L': 'PRP', 'R': 'MKG'}
+NKV = {'L': 'BHD', 'R': 'DQJ'}
+JNK = {'L': 'RXN', 'R': 'BQX'}
+JXJ = {'L': 'JFK', 'R': 'CCS'}
+LDC = {'L': 'JBF', 'R': 'PHQ'}
+QRS = {'L': 'VPM', 'R': 'FDD'}
+XRL = {'L': 'SQT', 'R': 'VGH'}
+VQN = {'L': 'BRP', 'R': 'VCF'}
+NBP = {'L': 'GKC', 'R': 'HKC'}
+FCH = {'L': 'KLN', 'R': 'RQV'}
+BQT = {'L': 'KKX', 'R': 'RNZ'}
+SVN = {'L': 'JGN', 'R': 'FSL'}
+FPL = {'L': 'SDB', 'R': 'VQV'}
+RMQ = {'L': 'CCV', 'R': 'JST'}
+DRB = {'L': 'MSM', 'R': 'VHX'}
+DDF = {'L': 'GHC', 'R': 'PSX'}
+GLR = {'L': 'LFR', 'R': 'THG'}
+DGL = {'L': 'JGQ', 'R': 'DHD'}
+RFQ = {'L': 'BXJ', 'R': 'SRQ'}
+XTG = {'L': 'XBB', 'R': 'TQJ'}
+PCL = {'L': 'DDK', 'R': 'GNC'}
+FVG = {'L': 'JKL', 'R': 'CRC'}
+GXQ = {'L': 'CBS', 'R': 'RJS'}
+SDR = {'L': 'LFR', 'R': 'THG'}
+KBM = {'L': 'PCV', 'R': 'DBP'}
+XPJ = {'L': 'GCS', 'R': 'GJD'}
+XRG = {'L': 'LNK', 'R': 'KQL'}
+FPQ = {'L': 'TPG', 'R': 'MQQ'}
+MSM = {'L': 'LQG', 'R': 'KRF'}
+LFR = {'L': 'THX', 'R': 'GFC'}
+KQK = {'L': 'FQH', 'R': 'FCH'}
+HPH = {'L': 'HHJ', 'R': 'VKM'}
+DHC = {'L': 'QGV', 'R': 'FNH'}
+PQQ = {'L': 'KKX', 'R': 'KKX'}
+TNQ = {'L': 'LXD', 'R': 'KNG'}
+QNB = {'L': 'TLX', 'R': 'VLF'}
+VKX = {'L': 'BJL', 'R': 'GQB'}
+DTM = {'L': 'KRQ', 'R': 'CLV'}
+BHS = {'L': 'LFH', 'R': 'TVV'}
+MCJ = {'L': 'BFJ', 'R': 'FCS'}
+CGQ = {'L': 'MRH', 'R': 'SBD'}
+FBM = {'L': 'RXQ', 'R': 'CFR'}
+NLQ = {'L': 'QSD', 'R': 'LFZ'}
+VSK = {'L': 'DGR', 'R': 'DFT'}
+HJG = {'L': 'TFV', 'R': 'XJL'}
+XFB = {'L': 'NKP', 'R': 'FBF'}
+JGL = {'L': 'RGS', 'R': 'KTD'}
+MHS = {'L': 'BNM', 'R': 'KSK'}
+RMG = {'L': 'QNB', 'R': 'MHL'}
+XSX = {'L': 'XBG', 'R': 'GVD'}
+FMV = {'L': 'LVV', 'R': 'CQR'}
+CRK = {'L': 'TRN', 'R': 'KKG'}
+VQV = {'L': 'BPB', 'R': 'RFL'}
+THN = {'L': 'QVH', 'R': 'DVT'}
+GNT = {'L': 'RGS', 'R': 'KTD'}
+DCH = {'L': 'GJD', 'R': 'GCS'}
+KTD = {'L': 'LSF', 'R': 'MJC'}
+BDC = {'L': 'FDH', 'R': 'MSK'}
+PRQ = {'L': 'JGL', 'R': 'GNT'}
+PSR = {'L': 'DHF', 'R': 'FPL'}
+XBB = {'L': 'FRR', 'R': 'GSC'}
+SFB = {'L': 'HGX', 'R': 'DFS'}
+VTJ = {'L': 'HFH', 'R': 'KXN'}
+KJV = {'L': 'TKP', 'R': 'THL'}
+BFF = {'L': 'PLM', 'R': 'DGC'}
+VBV = {'L': 'XDK', 'R': 'LLS'}
+KMV = {'L': 'XDS', 'R': 'VQT'}
+JPD = {'L': 'BHL', 'R': 'QJF'}
+DGR = {'L': 'MTT', 'R': 'JCG'}
+PGK = {'L': 'VCX', 'R': 'NLQ'}
+BFJ = {'L': 'FHX', 'R': 'QFR'}
+VSF = {'L': 'VKX', 'R': 'CTP'}
+PFJ = {'L': 'BRP', 'R': 'VCF'}
+XVN = {'L': 'VCX', 'R': 'VCX'}
+JQG = {'L': 'SKM', 'R': 'THM'}
+CXS = {'L': 'CRC', 'R': 'JKL'}
+RFL = {'L': 'NNT', 'R': 'DMH'}
+RBH = {'L': 'KHM', 'R': 'PLR'}
+PNT = {'L': 'JCQ', 'R': 'XSR'}
+XHK = {'L': 'GJK', 'R': 'BLQ'}
+CFR = {'L': 'FHC', 'R': 'CTD'}
+JPP = {'L': 'JFD', 'R': 'FPB'}
+RRT = {'L': 'VVM', 'R': 'NFB'}
+RPF = {'L': 'TKG', 'R': 'KVK'}
+JTF = {'L': 'FBT', 'R': 'DLL'}
+PSX = {'L': 'PDS', 'R': 'JPD'}
+TCH = {'L': 'TDN', 'R': 'FRB'}
+RHT = {'L': 'VNR', 'R': 'NHB'}
+TQJ = {'L': 'GSC', 'R': 'FRR'}
+MCK = {'L': 'NJD', 'R': 'XDX'}
+NPH = {'L': 'XQF', 'R': 'NSL'}
+LQQ = {'L': 'LCM', 'R': 'PHH'}
+VSV = {'L': 'SFT', 'R': 'MVL'}
+KRS = {'L': 'TGR', 'R': 'TGR'}
+DRR = {'L': 'JXT', 'R': 'TSF'}
+QRQ = {'L': 'NTG', 'R': 'MTL'}
+PJB = {'L': 'RMN', 'R': 'HLB'}
+VFC = {'L': 'KPH', 'R': 'PKM'}
+FHC = {'L': 'CJM', 'R': 'FTQ'}
+DRC = {'L': 'RBC', 'R': 'THN'}
+TRB = {'L': 'JHX', 'R': 'LSC'}
+GCS = {'L': 'TRB', 'R': 'MDB'}
+RCG = {'L': 'MFT', 'R': 'FXM'}
+HCB = {'L': 'LHB', 'R': 'JGH'}
+BFN = {'L': 'RMG', 'R': 'KJH'}
+TPG = {'L': 'NGM', 'R': 'XHQ'}
+JCS = {'L': 'VGS', 'R': 'NSN'}
+SGT = {'L': 'LHX', 'R': 'MPF'}
+NXM = {'L': 'VPH', 'R': 'KGV'}
+XNC = {'L': 'LTX', 'R': 'PHJ'}
+DNT = {'L': 'KLS', 'R': 'RNC'}
+JGN = {'L': 'TNN', 'R': 'BXD'}
+QJX = {'L': 'XPJ', 'R': 'DCH'}
+LQP = {'L': 'FRK', 'R': 'NFS'}
+HCL = {'L': 'GBS', 'R': 'PGB'}
+FDD = {'L': 'XQJ', 'R': 'XTS'}
+XTS = {'L': 'TJL', 'R': 'LGJ'}
+HLR = {'L': 'TBR', 'R': 'FPG'}
+DLL = {'L': 'VJV', 'R': 'MJN'}
+LFH = {'L': 'VBM', 'R': 'MHT'}
+LMD = {'L': 'VGG', 'R': 'RHK'}
+JKL = {'L': 'CMQ', 'R': 'QCN'}
+DDP = {'L': 'GTH', 'R': 'HKM'}
+VNL = {'L': 'VVL', 'R': 'CFP'}
+SGB = {'L': 'MKL', 'R': 'DVQ'}
+KBJ = {'L': 'BDF', 'R': 'SXQ'}
+DVT = {'L': 'NMB', 'R': 'LCB'}
+XQJ = {'L': 'TJL', 'R': 'LGJ'}
+HLB = {'L': 'XHH', 'R': 'XNC'}
+VPT = {'L': 'BRF', 'R': 'JPP'}
+PDS = {'L': 'QJF', 'R': 'BHL'}
+CGG = {'L': 'PLS', 'R': 'SNM'}
+SDB = {'L': 'RFL', 'R': 'BPB'}
+DVQ = {'L': 'XSX', 'R': 'KXQ'}
+XQS = {'L': 'BPF', 'R': 'XLV'}
+CDG = {'L': 'XKV', 'R': 'HMT'}
+JCG = {'L': 'CFK', 'R': 'RPR'}
+RBC = {'L': 'DVT', 'R': 'QVH'}
+BJB = {'L': 'MVC', 'R': 'KXL'}
+LFZ = {'L': 'HTT', 'R': 'QTF'}
+FTQ = {'L': 'RLM', 'R': 'LMQ'}
+TCT = {'L': 'FPH', 'R': 'FCC'}
+QXL = {'L': 'BPF', 'R': 'XLV'}
+MXX = {'L': 'BHX', 'R': 'QNX'}
+LSR = {'L': 'FFJ', 'R': 'DMT'}
+RTD = {'L': 'KBS', 'R': 'GDV'}
+TXH = {'L': 'QBQ', 'R': 'NSF'}
+CSB = {'L': 'CBP', 'R': 'QDQ'}
+GBS = {'L': 'BRN', 'R': 'GXP'}
+GMX = {'L': 'LHX', 'R': 'MPF'}
+JQV = {'L': 'GMX', 'R': 'SGT'}
+GML = {'L': 'GLR', 'R': 'SDR'}
+GCG = {'L': 'RHT', 'R': 'KTF'}
+RPR = {'L': 'XTG', 'R': 'JGT'}
+NDG = {'L': 'QFD', 'R': 'HTD'}
+KBK = {'L': 'VFP', 'R': 'BSC'}
+FVB = {'L': 'RFQ', 'R': 'LLH'}
+CGP = {'L': 'NKP', 'R': 'FBF'}
+RXQ = {'L': 'FHC', 'R': 'CTD'}
+KQD = {'L': 'CJN', 'R': 'DRR'}
+QTF = {'L': 'FVH', 'R': 'TRV'}
+QDQ = {'L': 'FBM', 'R': 'SLV'}
+NMT = {'L': 'JST', 'R': 'CCV'}
+BHC = {'L': 'RJM', 'R': 'SVN'}
+GMR = {'L': 'LNT', 'R': 'XFP'}
+MSK = {'L': 'VQN', 'R': 'PFJ'}
+CBV = {'L': 'CGB', 'R': 'PGV'}
+MHT = {'L': 'GMC', 'R': 'RSH'}
+BRN = {'L': 'KQK', 'R': 'FXV'}
+XXM = {'L': 'JGL', 'R': 'GNT'}
+VLF = {'L': 'VNN', 'R': 'RRV'}
+FDH = {'L': 'VQN', 'R': 'PFJ'}
+NFD = {'L': 'MGN', 'R': 'GLL'}
+THM = {'L': 'PLL', 'R': 'VTJ'}
+MPF = {'L': 'JVN', 'R': 'DFC'}
+BNG = {'L': 'RNC', 'R': 'KLS'}
+LGJ = {'L': 'QHV', 'R': 'XBR'}
+QTJ = {'L': 'TVT', 'R': 'NBP'}
+KRQ = {'L': 'MDF', 'R': 'RLN'}
+PCK = {'L': 'CCS', 'R': 'JFK'}
+DQV = {'L': 'FLD', 'R': 'CSB'}
+HDD = {'L': 'FGX', 'R': 'XRG'}
+TFL = {'L': 'DQV', 'R': 'CJQ'}
+BNM = {'L': 'KMV', 'R': 'CVX'}
+MLC = {'L': 'CFP', 'R': 'VVL'}
+SBD = {'L': 'MKD', 'R': 'DKP'}
+PSK = {'L': 'DBV', 'R': 'BSF'}
+FRB = {'L': 'BBD', 'R': 'TPB'}
+RKL = {'L': 'HVK', 'R': 'DRN'}
+HMZ = {'L': 'DRR', 'R': 'CJN'}
+LJK = {'L': 'LBN', 'R': 'DDG'}
+LSC = {'L': 'MXX', 'R': 'VFX'}
+TDN = {'L': 'TPB', 'R': 'BBD'}
+RNX = {'L': 'FBT', 'R': 'DLL'}
+QGJ = {'L': 'KTS', 'R': 'RBF'}
+RFB = {'L': 'BCF', 'R': 'MHS'}
+VGN = {'L': 'TJP', 'R': 'VSF'}
+HFH = {'L': 'FPQ', 'R': 'PGF'}
+HXX = {'L': 'QFD', 'R': 'HTD'}
+RJS = {'L': 'PCK', 'R': 'JXJ'}
+TRQ = {'L': 'GCG', 'R': 'GQF'}
+KXN = {'L': 'FPQ', 'R': 'PGF'}
+FMS = {'L': 'XJL', 'R': 'TFV'}
+NMB = {'L': 'QRQ', 'R': 'DGD'}
+BPF = {'L': 'VMX', 'R': 'GXQ'}
+HCX = {'L': 'XSR', 'R': 'JCQ'}
+RJR = {'L': 'BNG', 'R': 'DNT'}
+BQX = {'L': 'GQC', 'R': 'VLX'}
+DHD = {'L': 'RLC', 'R': 'GVS'}
+DQJ = {'L': 'HJG', 'R': 'FMS'}
+QFD = {'L': 'TNQ', 'R': 'HSF'}
+HMT = {'L': 'HSG', 'R': 'MHM'}
+BHD = {'L': 'FMS', 'R': 'HJG'}
+NDF = {'L': 'PLK', 'R': 'RTX'}
+GMC = {'L': 'PNT', 'R': 'HCX'}
+GQX = {'L': 'CPB', 'R': 'VNP'}
+BXD = {'L': 'VNL', 'R': 'MLC'}
+DTD = {'L': 'XLK', 'R': 'BVR'}
+KQT = {'L': 'MRH', 'R': 'SBD'}
+QJH = {'L': 'QMD', 'R': 'KBJ'}
+NFJ = {'L': 'MVL', 'R': 'SFT'}
+JMH = {'L': 'FVB', 'R': 'BMP'}
+BVF = {'L': 'SFB', 'R': 'KSS'}
+RBF = {'L': 'JCD', 'R': 'NDT'}
+QBX = {'L': 'KJV', 'R': 'LBX'}
+NTG = {'L': 'DPX', 'R': 'CBV'}
+DRL = {'L': 'XXM', 'R': 'PRQ'}
+QNX = {'L': 'SHD', 'R': 'LXG'}
+PNN = {'L': 'KQD', 'R': 'HMZ'}
+CCS = {'L': 'TQQ', 'R': 'DDP'}
+QSD = {'L': 'QTF', 'R': 'HTT'}
+BVN = {'L': 'JNK', 'R': 'TRT'}
+HSF = {'L': 'KNG', 'R': 'LXD'}
+BHL = {'L': 'DSB', 'R': 'SGB'}
+VFX = {'L': 'BHX', 'R': 'QNX'}
+JFH = {'L': 'TCH', 'R': 'DCB'}
+DBV = {'L': 'SDL', 'R': 'CDG'}
+TRT = {'L': 'RXN', 'R': 'BQX'}
+VLC = {'L': 'MHS', 'R': 'BCF'}
+BBM = {'L': 'HCB', 'R': 'FMB'}
+THG = {'L': 'THX', 'R': 'GFC'}
+XKV = {'L': 'HSG', 'R': 'MHM'}
+DSB = {'L': 'MKL', 'R': 'DVQ'}
+XSC = {'L': 'HVK', 'R': 'DRN'}
+SKM = {'L': 'VTJ', 'R': 'PLL'}
+QFR = {'L': 'KXP', 'R': 'QNS'}
+BMP = {'L': 'RFQ', 'R': 'LLH'}
+MLM = {'L': 'KRQ', 'R': 'CLV'}
+XNH = {'L': 'JJJ', 'R': 'DHC'}
+KPM = {'L': 'RBC', 'R': 'THN'}
+FGX = {'L': 'LNK', 'R': 'KQL'}
+TSF = {'L': 'BDD', 'R': 'KFL'}
+LXG = {'L': 'XCG', 'R': 'TRP'}
+TBR = {'L': 'HFK', 'R': 'LMB'}
+JFK = {'L': 'TQQ', 'R': 'DDP'}
+TQH = {'L': 'KJG', 'R': 'MQD'}
+RKT = {'L': 'FGX', 'R': 'XRG'}
+DJF = {'L': 'DJJ', 'R': 'LNQ'}
+FPM = {'L': 'LRR', 'R': 'HJP'}
+PCJ = {'L': 'XDX', 'R': 'NJD'}
+HFK = {'L': 'NQN', 'R': 'LQQ'}
+SHB = {'L': 'RMG', 'R': 'KJH'}
+KPJ = {'L': 'XVN', 'R': 'PGK'}
+XSH = {'L': 'LNH', 'R': 'VPT'}
+SQX = {'L': 'BVR', 'R': 'XLK'}
+KTB = {'L': 'QRS', 'R': 'KPF'}
+RKK = {'L': 'GLM', 'R': 'JQG'}
+HTT = {'L': 'TRV', 'R': 'FVH'}
+SDL = {'L': 'XKV', 'R': 'HMT'}
+HCK = {'L': 'FCK', 'R': 'QBJ'}
+SJF = {'L': 'JQV', 'R': 'JLB'}
+QMT = {'L': 'FPG', 'R': 'TBR'}
+HGX = {'L': 'QLS', 'R': 'XLB'}
+VKM = {'L': 'QFF', 'R': 'NLD'}
+FNH = {'L': 'KQV', 'R': 'RFD'}
+HPM = {'L': 'TRQ', 'R': 'QJS'}
+PMS = {'L': 'LHM', 'R': 'CJL'}
+JTK = {'L': 'XPG', 'R': 'XPG'}
+VMN = {'L': 'SJB', 'R': 'JCS'}
+LNT = {'L': 'SHM', 'R': 'NKV'}
+KFL = {'L': 'RCB', 'R': 'BVF'}
+ZZZ = {'L': 'NBP', 'R': 'TVT'}
+QPX = {'L': 'BFF', 'R': 'KNR'}
+HSG = {'L': 'LBC', 'R': 'RCN'}
+SLV = {'L': 'CFR', 'R': 'RXQ'}
+KJH = {'L': 'MHL', 'R': 'QNB'}
+FCK = {'L': 'DSS', 'R': 'DSS'}
+RLL = {'L': 'GBS', 'R': 'PGB'}
+VKJ = {'L': 'RFB', 'R': 'VLC'}
+VSJ = {'L': 'CGQ', 'R': 'KQT'}
+XDX = {'L': 'HPH', 'R': 'VFJ'}
+LCB = {'L': 'DGD', 'R': 'QRQ'}
+PLL = {'L': 'HFH', 'R': 'KXN'}
+DMH = {'L': 'BSR', 'R': 'FQV'}
+PPQ = {'L': 'XFP', 'R': 'LNT'}
+PGB = {'L': 'BRN', 'R': 'GXP'}
+JMN = {'L': 'DFT', 'R': 'DGR'}
+RVT = {'L': 'KTL', 'R': 'SFV'}
+JCH = {'L': 'SJB', 'R': 'JCS'}
+KKG = {'L': 'QPX', 'R': 'MLL'}
+KNB = {'L': 'CPB', 'R': 'VNP'}
+HKM = {'L': 'VFC', 'R': 'BXC'}
+QBT = {'L': 'CJL', 'R': 'LHM'}
+GJM = {'L': 'PQQ', 'R': 'BQT'}
+RLN = {'L': 'LDG', 'R': 'JJH'}
+RJM = {'L': 'JGN', 'R': 'FSL'}
+LHL = {'L': 'HSC', 'R': 'LBV'}
+CVX = {'L': 'VQT', 'R': 'XDS'}
+LVV = {'L': 'MGX', 'R': 'DGL'}
+NSN = {'L': 'JBX', 'R': 'GKM'}
+MTL = {'L': 'DPX', 'R': 'CBV'}
+LBN = {'L': 'NDG', 'R': 'HXX'}
+KLG = {'L': 'DBP', 'R': 'PCV'}
+DGD = {'L': 'MTL', 'R': 'NTG'}
+LDG = {'L': 'JTK', 'R': 'JTK'}
+HCR = {'L': 'GMR', 'R': 'PPQ'}
+DMB = {'L': 'SQT', 'R': 'VGH'}
+LGK = {'L': 'DBV', 'R': 'BSF'}
+FLG = {'L': 'FCK', 'R': 'FCK'}
+KXL = {'L': 'TXH', 'R': 'LQB'}
+MQD = {'L': 'JNF', 'R': 'LSR'}
+RNC = {'L': 'SMQ', 'R': 'FPM'}
+QFF = {'L': 'NTD', 'R': 'VCM'}
+QLS = {'L': 'DTK', 'R': 'CSG'}
+JGH = {'L': 'LJQ', 'R': 'NSJ'}
+FSL = {'L': 'BXD', 'R': 'TNN'}
+KLC = {'L': 'TBT', 'R': 'CVN'}
+BDF = {'L': 'KBK', 'R': 'NDR'}
+QMD = {'L': 'SXQ', 'R': 'BDF'}
+VQT = {'L': 'VBL', 'R': 'XHK'}
+CSC = {'L': 'NLG', 'R': 'FQP'}
+SJB = {'L': 'VGS', 'R': 'NSN'}
+NFS = {'L': 'DDR', 'R': 'LTK'}
+DRA = {'L': 'CJN', 'R': 'DRR'}
+LBX = {'L': 'THL', 'R': 'TKP'}
+DJJ = {'L': 'PLF', 'R': 'PLF'}
+MJN = {'L': 'TBX', 'R': 'DRB'}
+TJP = {'L': 'VKX', 'R': 'CTP'}
+DDR = {'L': 'RLL', 'R': 'HCL'}
+LQB = {'L': 'QBQ', 'R': 'NSF'}
+BKV = {'L': 'PSR', 'R': 'NKS'}
+NKP = {'L': 'XCH', 'R': 'XNH'}
+VCX = {'L': 'QSD', 'R': 'QSD'}
+FQV = {'L': 'HKH', 'R': 'VRD'}
+VPH = {'L': 'DDF', 'R': 'PLQ'}
+HVS = {'L': 'VPH', 'R': 'KGV'}
+BHX = {'L': 'LXG', 'R': 'SHD'}
+RQV = {'L': 'PHB', 'R': 'FDQ'}
+NSL = {'L': 'MCJ', 'R': 'DBM'}
+GVD = {'L': 'JBT', 'R': 'HKN'}
+TRN = {'L': 'QPX', 'R': 'MLL'}
+XCG = {'L': 'CXS', 'R': 'FVG'}
+KBF = {'L': 'XVR', 'R': 'TFT'}
+CTD = {'L': 'CJM', 'R': 'FTQ'}
+PRH = {'L': 'FVB', 'R': 'BMP'}
+TLR = {'L': 'NSL', 'R': 'XQF'}
+BLS = {'L': 'VVM', 'R': 'NFB'}
+VVL = {'L': 'MRB', 'R': 'NTX'}
+QGV = {'L': 'RFD', 'R': 'KQV'}
+SRK = {'L': 'GLM', 'R': 'JQG'}
+VHX = {'L': 'LQG', 'R': 'KRF'}
+NHB = {'L': 'PNG', 'R': 'NQL'}
+LLK = {'L': 'XDK', 'R': 'LLS'}
+GQD = {'L': 'TSX', 'R': 'KBF'}
+LHV = {'L': 'QRS', 'R': 'KPF'}
+VNR = {'L': 'PNG', 'R': 'NQL'}
+LBP = {'L': 'PCJ', 'R': 'MCK'}
+TNN = {'L': 'MLC', 'R': 'VNL'}
+KNR = {'L': 'PLM', 'R': 'DGC'}
+BMD = {'L': 'SJF', 'R': 'GTJ'}
+FPG = {'L': 'HFK', 'R': 'LMB'}
+XFP = {'L': 'SHM', 'R': 'NKV'}
+RSN = {'L': 'LFH', 'R': 'TVV'}
+FGN = {'L': 'DVR', 'R': 'GLV'}
+JHX = {'L': 'VFX', 'R': 'MXX'}
+DDG = {'L': 'NDG', 'R': 'HXX'}
+NQS = {'L': 'NFJ', 'R': 'VSV'}
+MKD = {'L': 'DTM', 'R': 'MLM'}
+CQQ = {'L': 'KTL', 'R': 'SFV'}
+DGK = {'L': 'FMB', 'R': 'HCB'}
+NSJ = {'L': 'NKK', 'R': 'DRL'}
+JTS = {'L': 'GTF', 'R': 'KBP'}
+VDG = {'L': 'MCK', 'R': 'PCJ'}
+MGN = {'L': 'PVK', 'R': 'KLC'}
+LBC = {'L': 'SRK', 'R': 'RKK'}
+CJQ = {'L': 'FLD', 'R': 'CSB'}
+MKG = {'L': 'MHB', 'R': 'QPK'}
+XVR = {'L': 'PCL', 'R': 'QDH'}
+QBQ = {'L': 'LRB', 'R': 'VSJ'}
+FXM = {'L': 'LGK', 'R': 'PSK'}
+LMQ = {'L': 'TLR', 'R': 'NPH'}
+PKM = {'L': 'VBC', 'R': 'XXR'}
+VJV = {'L': 'TBX', 'R': 'DRB'}
+CCV = {'L': 'JFH', 'R': 'QNK'}
+DMT = {'L': 'RHS', 'R': 'JNG'}
+XHQ = {'L': 'PGD', 'R': 'TCT'}
+DFC = {'L': 'VMN', 'R': 'JCH'}
+JJJ = {'L': 'FNH', 'R': 'QGV'}
+JNG = {'L': 'KBM', 'R': 'KLG'}
+THX = {'L': 'RSN', 'R': 'BHS'}
+TKG = {'L': 'CQQ', 'R': 'RVT'}
+HPN = {'L': 'PDH', 'R': 'KPJ'}
+BGS = {'L': 'PSP', 'R': 'CMD'}
+BLH = {'L': 'QJX', 'R': 'SGJ'}
+PRP = {'L': 'QPK', 'R': 'MHB'}
+PMV = {'L': 'HDD', 'R': 'RKT'}
+TRV = {'L': 'TFL', 'R': 'MDD'}
+CJL = {'L': 'FMV', 'R': 'FJQ'}
+JCQ = {'L': 'KXF', 'R': 'HGT'}
+GRS = {'L': 'RBR', 'R': 'QNR'}
+SGJ = {'L': 'DCH', 'R': 'XPJ'}
+RTX = {'L': 'RJR', 'R': 'JJF'}
+AAA = {'L': 'TVT', 'R': 'NBP'}
+XDK = {'L': 'SPG', 'R': 'BMD'}
+FBF = {'L': 'XCH', 'R': 'XNH'}
+LHM = {'L': 'FMV', 'R': 'FJQ'}
+SQT = {'L': 'FVT', 'R': 'MDT'}
+XPG = {'L': 'JTF', 'R': 'RNX'}
+MGX = {'L': 'JGQ', 'R': 'DHD'}
+PHH = {'L': 'QBT', 'R': 'PMS'}
+VJL = {'L': 'MKG', 'R': 'PRP'}
+DCB = {'L': 'FRB', 'R': 'TDN'}
+PRM = {'L': 'BHC', 'R': 'QJV'}
+FRR = {'L': 'RPF', 'R': 'CLG'}
+PGF = {'L': 'MQQ', 'R': 'TPG'}
+NQL = {'L': 'MGL', 'R': 'SCP'}
+CSG = {'L': 'RRT', 'R': 'BLS'}
+NMK = {'L': 'PSR', 'R': 'NKS'}
+MRH = {'L': 'MKD', 'R': 'DKP'}
+SFV = {'L': 'HCH', 'R': 'FGN'}
+BDD = {'L': 'BVF', 'R': 'RCB'}
+MDD = {'L': 'CJQ', 'R': 'DQV'}
+TGR = {'L': 'PQQ', 'R': 'PQQ'}
+MDT = {'L': 'VBV', 'R': 'LLK'}
+XXR = {'L': 'MLF', 'R': 'TCX'}
+DVR = {'L': 'CQD', 'R': 'NQS'}
+SXQ = {'L': 'NDR', 'R': 'KBK'}
+KBP = {'L': 'QTJ', 'R': 'ZZZ'}
+VRD = {'L': 'TJN', 'R': 'FGM'}
+VNP = {'L': 'GQD', 'R': 'MBH'}
+KHM = {'L': 'TMM', 'R': 'QGJ'}
+JCD = {'L': 'KPK', 'R': 'VJL'}
+BXJ = {'L': 'FVP', 'R': 'PMV'}
+DFT = {'L': 'MTT', 'R': 'JCG'}
+JRL = {'L': 'VPT', 'R': 'LNH'}
+HCH = {'L': 'DVR', 'R': 'GLV'}
+FPB = {'L': 'JXF', 'R': 'DNF'}
+NDR = {'L': 'VFP', 'R': 'BSC'}
+MQQ = {'L': 'NGM', 'R': 'XHQ'}
+XBM = {'L': 'GLR', 'R': 'SDR'}
+KQL = {'L': 'RVJ', 'R': 'VGN'}
+FPH = {'L': 'CRK', 'R': 'FSD'}
+GDV = {'L': 'TQH', 'R': 'VRC'}
+LCM = {'L': 'PMS', 'R': 'QBT'}
+NTX = {'L': 'HPM', 'R': 'PNJ'}
+FDQ = {'L': 'NXM', 'R': 'HVS'}
+KTF = {'L': 'VNR', 'R': 'NHB'}
+GTJ = {'L': 'JQV', 'R': 'JLB'}
+XHH = {'L': 'LTX', 'R': 'PHJ'}
+QVX = {'L': 'KBS', 'R': 'GDV'}
+VGG = {'L': 'KRS', 'R': 'TPX'}
+PFM = {'L': 'GTF', 'R': 'GTF'}
+KSK = {'L': 'KMV', 'R': 'CVX'}
+RVL = {'L': 'QMD', 'R': 'KBJ'}
+KXF = {'L': 'NFD', 'R': 'HBL'}
+VCM = {'L': 'QVX', 'R': 'RTD'}
+MBH = {'L': 'KBF', 'R': 'TSX'}
+LNK = {'L': 'VGN', 'R': 'RVJ'}
+TVV = {'L': 'MHT', 'R': 'VBM'}
+FXF = {'L': 'MSK', 'R': 'FDH'}
+VKB = {'L': 'NMK', 'R': 'BKV'}
+VGH = {'L': 'MDT', 'R': 'FVT'}
+NLG = {'L': 'LJK', 'R': 'MFN'}
+DSS = {'L': 'KQD', 'R': 'KQD'}
+VRG = {'L': 'PFM', 'R': 'PFM'}
+TQQ = {'L': 'GTH', 'R': 'HKM'}
+RSH = {'L': 'HCX', 'R': 'PNT'}
+TKP = {'L': 'KJP', 'R': 'GGM'}
+VRC = {'L': 'MQD', 'R': 'KJG'}
+HJP = {'L': 'KGF', 'R': 'SRS'}
+PSP = {'L': 'QRF', 'R': 'HFJ'}
+NKK = {'L': 'XXM', 'R': 'PRQ'}
+JJF = {'L': 'DNT', 'R': 'BNG'}
+PLF = {'L': 'RBR', 'R': 'RBR'}
+NJD = {'L': 'HPH', 'R': 'VFJ'}
+RRV = {'L': 'KNB', 'R': 'GQX'}
+GLV = {'L': 'CQD', 'R': 'NQS'}
+XBR = {'L': 'DMB', 'R': 'XRL'}
+SPG = {'L': 'SJF', 'R': 'GTJ'}
+DKX = {'L': 'FXF', 'R': 'BDC'}
+FQH = {'L': 'RQV', 'R': 'KLN'}
+QBJ = {'L': 'DSS', 'R': 'PNN'}
+VVM = {'L': 'MNG', 'R': 'CSC'}
+KXQ = {'L': 'XBG', 'R': 'GVD'}
+CFK = {'L': 'JGT', 'R': 'XTG'}
+CMA = {'L': 'LQP', 'R': 'XBV'}
+FCS = {'L': 'QFR', 'R': 'FHX'}
+FFJ = {'L': 'JNG', 'R': 'RHS'}
+LMB = {'L': 'NQN', 'R': 'LQQ'}
+TMM = {'L': 'RBF', 'R': 'KTS'}
+JXH = {'L': 'VRG', 'R': 'BRX'}
+FBT = {'L': 'VJV', 'R': 'MJN'}
+QCN = {'L': 'HPN', 'R': 'MKH'}
+XDS = {'L': 'XHK', 'R': 'VBL'}
+QNK = {'L': 'TCH', 'R': 'DCB'}
+MKL = {'L': 'KXQ', 'R': 'XSX'}
+MLF = {'L': 'SJL', 'R': 'JTQ'}
+MGL = {'L': 'TMX', 'R': 'DKX'}
+MTT = {'L': 'CFK', 'R': 'RPR'}
+KRF = {'L': 'QMT', 'R': 'HLR'}
+BSR = {'L': 'VRD', 'R': 'HKH'}
+TJL = {'L': 'QHV', 'R': 'XBR'}
+PCV = {'L': 'NMT', 'R': 'RMQ'}
+FVP = {'L': 'RKT', 'R': 'HDD'}
+SHM = {'L': 'DQJ', 'R': 'BHD'}
+PNG = {'L': 'SCP', 'R': 'MGL'}
+PGD = {'L': 'FCC', 'R': 'FPH'}
+QJS = {'L': 'GCG', 'R': 'GQF'}
+CFP = {'L': 'MRB', 'R': 'NTX'}
+QGS = {'L': 'RTX', 'R': 'PLK'}
+SJL = {'L': 'XSC', 'R': 'RKL'}
+JST = {'L': 'JFH', 'R': 'QNK'}
+TBX = {'L': 'VHX', 'R': 'MSM'}
+DDZ = {'L': 'PHQ', 'R': 'JBF'}
+KXP = {'L': 'XBM', 'R': 'GML'}
+HKC = {'L': 'NDF', 'R': 'QGS'}
+DHF = {'L': 'VQV', 'R': 'SDB'}
+JXT = {'L': 'BDD', 'R': 'KFL'}
+LQG = {'L': 'QMT', 'R': 'HLR'}
+LXD = {'L': 'RBH', 'R': 'CKT'}
+LXM = {'L': 'XPG', 'R': 'XKZ'}
+XLV = {'L': 'GXQ', 'R': 'VMX'}
+GLL = {'L': 'PVK', 'R': 'KLC'}
+TSX = {'L': 'XVR', 'R': 'TFT'}
+QRF = {'L': 'DJF', 'R': 'KJM'}
+KJG = {'L': 'JNF', 'R': 'LSR'}
+GQB = {'L': 'XSH', 'R': 'JRL'}
+GKR = {'L': 'LMD', 'R': 'KVB'}
+GVS = {'L': 'QJH', 'R': 'RVL'}
+VPM = {'L': 'XQJ', 'R': 'XTS'}
+QNR = {'L': 'LDC', 'R': 'DDZ'}
+PVK = {'L': 'TBT', 'R': 'CVN'}
+JCX = {'L': 'SNM', 'R': 'PLS'}
+HHJ = {'L': 'QFF', 'R': 'NLD'}
+TLX = {'L': 'VNN', 'R': 'RRV'}
+GTF = {'L': 'QTJ', 'R': 'QTJ'}
+LNQ = {'L': 'PLF', 'R': 'GRS'}
+VBL = {'L': 'GJK', 'R': 'BLQ'}
+DGC = {'L': 'DGK', 'R': 'BBM'}
+NDT = {'L': 'VJL', 'R': 'KPK'}
+KBS = {'L': 'VRC', 'R': 'TQH'}
+RVJ = {'L': 'TJP', 'R': 'VSF'}
+RBR = {'L': 'LDC', 'R': 'LDC'}
+PDH = {'L': 'XVN', 'R': 'XVN'}
+JBF = {'L': 'VSK', 'R': 'JMN'}
+BBD = {'L': 'MQR', 'R': 'JXH'}
+FVT = {'L': 'VBV', 'R': 'LLK'}
+VBC = {'L': 'MLF', 'R': 'TCX'}
+XKZ = {'L': 'RNX', 'R': 'JTF'}
+MNA = {'L': 'JTF', 'R': 'RNX'}
+VFJ = {'L': 'HHJ', 'R': 'VKM'}
+GLM = {'L': 'SKM', 'R': 'THM'}
+JNF = {'L': 'FFJ', 'R': 'DMT'}
+MNG = {'L': 'FQP', 'R': 'NLG'}
+MVL = {'L': 'PRM', 'R': 'KLH'}
+RHS = {'L': 'KBM', 'R': 'KLG'}
+CRC = {'L': 'CMQ', 'R': 'QCN'}
+BPB = {'L': 'DMH', 'R': 'NNT'}
+NLD = {'L': 'VCM', 'R': 'NTD'}
+XCH = {'L': 'JJJ', 'R': 'DHC'}
+CKT = {'L': 'PLR', 'R': 'KHM'}
+NNT = {'L': 'BSR', 'R': 'FQV'}
+GQC = {'L': 'XQS', 'R': 'QXL'}
+GKM = {'L': 'QTH', 'R': 'KHG'}
+GJD = {'L': 'TRB', 'R': 'MDB'}
+CGB = {'L': 'VXJ', 'R': 'VCG'}
+SMQ = {'L': 'HJP', 'R': 'LRR'}
+RNP = {'L': 'BLH', 'R': 'KHP'}
+MMP = {'L': 'NCM', 'R': 'XPK'}
+VLX = {'L': 'XQS', 'R': 'QXL'}
+XJL = {'L': 'BVN', 'R': 'KGN'}
+LRB = {'L': 'CGQ', 'R': 'KQT'}
+NGM = {'L': 'TCT', 'R': 'PGD'}
+TBT = {'L': 'KTB', 'R': 'LHV'}
+JLB = {'L': 'SGT', 'R': 'GMX'}
+HFJ = {'L': 'DJF', 'R': 'KJM'}
+RCN = {'L': 'RKK', 'R': 'SRK'}
+KJM = {'L': 'DJJ', 'R': 'LNQ'}
+CVN = {'L': 'KTB', 'R': 'LHV'}
+PHB = {'L': 'NXM', 'R': 'HVS'}
+KJP = {'L': 'HCR', 'R': 'QPM'}
+SHD = {'L': 'XCG', 'R': 'TRP'}
+KKX = {'L': 'LQP', 'R': 'XBV'}
+FHX = {'L': 'KXP', 'R': 'QNS'}
+CLV = {'L': 'MDF', 'R': 'RLN'}
+FXV = {'L': 'FQH', 'R': 'FCH'}
+HTD = {'L': 'TNQ', 'R': 'HSF'}
+CJM = {'L': 'LMQ', 'R': 'RLM'}
+BSF = {'L': 'CDG', 'R': 'SDL'}
+JVN = {'L': 'VMN', 'R': 'JCH'}
+KDK = {'L': 'XSG', 'R': 'LHL'}
+FGM = {'L': 'PJB', 'R': 'NTQ'}
+MRB = {'L': 'PNJ', 'R': 'HPM'}
+JTQ = {'L': 'XSC', 'R': 'RKL'}
+CJN = {'L': 'TSF', 'R': 'JXT'}
+RLC = {'L': 'QJH', 'R': 'RVL'}
+XLK = {'L': 'CBK', 'R': 'JBG'}
+KLN = {'L': 'FDQ', 'R': 'PHB'}
+JJH = {'L': 'JTK', 'R': 'LXM'}
+TVT = {'L': 'GKC', 'R': 'HKC'}
+QHV = {'L': 'DMB', 'R': 'XRL'}
+TCX = {'L': 'SJL', 'R': 'JTQ'}
+JBX = {'L': 'KHG', 'R': 'QTH'}
+CQD = {'L': 'NFJ', 'R': 'VSV'}
+KPF = {'L': 'VPM', 'R': 'FDD'}
+KHG = {'L': 'HCF', 'R': 'RNP'}
+BSC = {'L': 'QBX', 'R': 'JVB'}
+KVK = {'L': 'CQQ', 'R': 'RVT'}
+CPB = {'L': 'GQD', 'R': 'MBH'}
+LTK = {'L': 'RLL', 'R': 'HCL'}
+HVK = {'L': 'XMR', 'R': 'BJB'}
+TFT = {'L': 'QDH', 'R': 'PCL'}
+MHB = {'L': 'TDF', 'R': 'RCG'}
+SRQ = {'L': 'PMV', 'R': 'FVP'}
+NJA = {'L': 'QTF', 'R': 'HTT'}
+RMN = {'L': 'XHH', 'R': 'XNC'}
+VCG = {'L': 'VDG', 'R': 'LBP'}
+LSF = {'L': 'JMH', 'R': 'PRH'}
+THL = {'L': 'GGM', 'R': 'KJP'}
+PLK = {'L': 'RJR', 'R': 'JJF'}
+DKP = {'L': 'DTM', 'R': 'MLM'}
+NQN = {'L': 'LCM', 'R': 'PHH'}
+KNG = {'L': 'RBH', 'R': 'CKT'}
+GKC = {'L': 'NDF', 'R': 'QGS'}
+BRF = {'L': 'FPB', 'R': 'JFD'}
+HKH = {'L': 'FGM', 'R': 'TJN'}
+KTL = {'L': 'HCH', 'R': 'FGN'}
+HKN = {'L': 'MMP', 'R': 'BFV'}
+JVB = {'L': 'KJV', 'R': 'LBX'}
+QVH = {'L': 'LCB', 'R': 'NMB'}
+HHF = {'L': 'XQC', 'R': 'GSF'}
+VGS = {'L': 'JBX', 'R': 'GKM'}
+BXC = {'L': 'KPH', 'R': 'PKM'}
+DBM = {'L': 'FCS', 'R': 'BFJ'}
+QPK = {'L': 'TDF', 'R': 'RCG'}
+VXJ = {'L': 'LBP', 'R': 'VDG'}
+GGM = {'L': 'HCR', 'R': 'QPM'}
+LHB = {'L': 'LJQ', 'R': 'NSJ'}
+LJQ = {'L': 'NKK', 'R': 'DRL'}
+JXF = {'L': 'FLG', 'R': 'HCK'}
+PHJ = {'L': 'XFB', 'R': 'CGP'}
+MKH = {'L': 'PDH', 'R': 'KPJ'}
+MFT = {'L': 'PSK', 'R': 'LGK'}
+CBS = {'L': 'PCK', 'R': 'JXJ'}
+FRK = {'L': 'LTK', 'R': 'DDR'}
+CMQ = {'L': 'HPN', 'R': 'MKH'}
+QJV = {'L': 'RJM', 'R': 'SVN'}
+KHP = {'L': 'SGJ', 'R': 'QJX'}
+CQR = {'L': 'MGX', 'R': 'DGL'}
+FJQ = {'L': 'CQR', 'R': 'LVV'}
+HCF = {'L': 'KHP', 'R': 'BLH'}
+LFC = {'L': 'LMD', 'R': 'KVB'}
+DPX = {'L': 'CGB', 'R': 'PGV'}
+DFS = {'L': 'XLB', 'R': 'QLS'}
+DDK = {'L': 'GKR', 'R': 'LFC'}
+KLS = {'L': 'FPM', 'R': 'SMQ'}
+JGQ = {'L': 'RLC', 'R': 'GVS'}
+LBV = {'L': 'HHF', 'R': 'STJ'}
+JGT = {'L': 'TQJ', 'R': 'XBB'}
+QRN = {'L': 'LHL', 'R': 'XSG'}
+RFD = {'L': 'QRN', 'R': 'KDK'}
+HSC = {'L': 'STJ', 'R': 'HHF'}
+LNH = {'L': 'BRF', 'R': 'JPP'}
+FSD = {'L': 'TRN', 'R': 'KKG'}
+NSF = {'L': 'VSJ', 'R': 'LRB'}
+QJF = {'L': 'DSB', 'R': 'SGB'}
+MQR = {'L': 'VRG', 'R': 'BRX'}
+XMR = {'L': 'MVC', 'R': 'KXL'}
+VNN = {'L': 'KNB', 'R': 'GQX'}
+NCM = {'L': 'XLP', 'R': 'VKJ'}
+KTS = {'L': 'JCD', 'R': 'NDT'}
+MDF = {'L': 'LDG', 'R': 'LDG'}
+PLS = {'L': 'BGS', 'R': 'VVD'}
+TPX = {'L': 'TGR', 'R': 'GJM'}
+GJK = {'L': 'SQX', 'R': 'DTD'}
+CTP = {'L': 'BJL', 'R': 'GQB'}
+GXP = {'L': 'FXV', 'R': 'KQK'}
+DRN = {'L': 'BJB', 'R': 'XMR'}
+QDH = {'L': 'GNC', 'R': 'DDK'}
+FMB = {'L': 'JGH', 'R': 'LHB'}
+STJ = {'L': 'GSF', 'R': 'XQC'}
+DNF = {'L': 'FLG', 'R': 'HCK'}
+XSR = {'L': 'KXF', 'R': 'HGT'}
+RNZ = {'L': 'XBV', 'R': 'LQP'}
+RGS = {'L': 'MJC', 'R': 'LSF'}
+GFC = {'L': 'BHS', 'R': 'RSN'}
+GTH = {'L': 'BXC', 'R': 'VFC'}
+PLM = {'L': 'DGK', 'R': 'BBM'}
+KSS = {'L': 'HGX', 'R': 'DFS'}
+SCP = {'L': 'TMX', 'R': 'DKX'}
+RXN = {'L': 'GQC', 'R': 'VLX'}
+PLR = {'L': 'TMM', 'R': 'QGJ'}
+QTH = {'L': 'HCF', 'R': 'RNP'}
+BRP = {'L': 'CGG', 'R': 'JCX'}
+BVR = {'L': 'JBG', 'R': 'CBK'}
+DTK = {'L': 'BLS', 'R': 'RRT'}
+TPB = {'L': 'MQR', 'R': 'JXH'}
+MJC = {'L': 'PRH', 'R': 'JMH'}
+GSF = {'L': 'KPM', 'R': 'DRC'}
+RVA = {'L': 'JBF', 'R': 'PHQ'}
+BLQ = {'L': 'DTD', 'R': 'SQX'}
+CBK = {'L': 'BFN', 'R': 'SHB'}
+VBM = {'L': 'GMC', 'R': 'RSH'}
+NFB = {'L': 'CSC', 'R': 'MNG'}
+NKS = {'L': 'FPL', 'R': 'DHF'}
+CLG = {'L': 'KVK', 'R': 'TKG'}
+KLH = {'L': 'QJV', 'R': 'BHC'}
+XQF = {'L': 'DBM', 'R': 'MCJ'}
+BCF = {'L': 'KSK', 'R': 'BNM'}
+XLP = {'L': 'RFB', 'R': 'VLC'}
+MVC = {'L': 'TXH', 'R': 'LQB'}
+LLS = {'L': 'BMD', 'R': 'SPG'}
+TJN = {'L': 'PJB', 'R': 'NTQ'}
+FQP = {'L': 'LJK', 'R': 'MFN'}
+PHQ = {'L': 'VSK', 'R': 'JMN'}
+XLB = {'L': 'DTK', 'R': 'CSG'}
+MHM = {'L': 'RCN', 'R': 'LBC'}
+LLH = {'L': 'SRQ', 'R': 'BXJ'}
+FVH = {'L': 'MDD', 'R': 'TFL'}
+RLM = {'L': 'TLR', 'R': 'NPH'}
+MLL = {'L': 'BFF', 'R': 'KNR'}
+CBP = {'L': 'FBM', 'R': 'SLV'}
+MHL = {'L': 'TLX', 'R': 'VLF'}
+MDB = {'L': 'LSC', 'R': 'JHX'}
+KQV = {'L': 'QRN', 'R': 'KDK'}
+SNM = {'L': 'BGS', 'R': 'VVD'}
+KGV = {'L': 'PLQ', 'R': 'DDF'}
+FCC = {'L': 'FSD', 'R': 'CRK'}
+JFD = {'L': 'JXF', 'R': 'DNF'}
+NTD = {'L': 'RTD', 'R': 'QVX'}
+TDF = {'L': 'FXM', 'R': 'MFT'}
+TMX = {'L': 'BDC', 'R': 'FXF'}
+MFN = {'L': 'LBN', 'R': 'DDG'}
+KGN = {'L': 'TRT', 'R': 'JNK'}
+XPK = {'L': 'VKJ', 'R': 'XLP'}
+JBT = {'L': 'MMP', 'R': 'BFV'}
+PLQ = {'L': 'PSX', 'R': 'GHC'}
+TRP = {'L': 'CXS', 'R': 'FVG'}
+QPM = {'L': 'GMR', 'R': 'PPQ'}
+VMX = {'L': 'CBS', 'R': 'RJS'}
+BFV = {'L': 'XPK', 'R': 'NCM'}
+LRR = {'L': 'KGF', 'R': 'SRS'}
+KGF = {'L': 'MRL', 'R': 'VKB'}
+PGV = {'L': 'VCG', 'R': 'VXJ'}
+LHX = {'L': 'JVN', 'R': 'DFC'}
+KPH = {'L': 'VBC', 'R': 'XXR'}
+GQF = {'L': 'RHT', 'R': 'KTF'}
+XQC = {'L': 'KPM', 'R': 'DRC'}
+TFV = {'L': 'BVN', 'R': 'KGN'}
+VVD = {'L': 'CMD', 'R': 'PSP'}
+HGT = {'L': 'NFD', 'R': 'HBL'}
+HBL = {'L': 'MGN', 'R': 'GLL'}
+XBG = {'L': 'JBT', 'R': 'HKN'}
+XSG = {'L': 'LBV', 'R': 'HSC'}
+SRS = {'L': 'MRL', 'R': 'VKB'}
+XBV = {'L': 'NFS', 'R': 'FRK'}
+PNJ = {'L': 'TRQ', 'R': 'QJS'}
+BRX = {'L': 'PFM', 'R': 'JTS'}
+GHC = {'L': 'JPD', 'R': 'PDS'}
+RCB = {'L': 'KSS', 'R': 'SFB'}
+QNS = {'L': 'GML', 'R': 'XBM'}
+GNC = {'L': 'LFC', 'R': 'GKR'}
+MRL = {'L': 'BKV', 'R': 'NMK'}
+KVB = {'L': 'VGG', 'R': 'RHK'}
+VCF = {'L': 'JCX', 'R': 'CGG'}
+VFP = {'L': 'QBX', 'R': 'JVB'}
+FLD = {'L': 'QDQ', 'R': 'CBP'}
+JBG = {'L': 'SHB', 'R': 'BFN'}
+BJL = {'L': 'JRL', 'R': 'XSH'}
+DBP = {'L': 'RMQ', 'R': 'NMT'}
+SFT = {'L': 'PRM', 'R': 'KLH'}
+CMD = {'L': 'HFJ', 'R': 'QRF'}
+Starters: ['DRA', 'AAA', 'CMA', 'MNA', 'NJA', 'RVA']
+Closers: ['LFZ', 'HMZ', 'ZZZ', 'DDZ', 'XKZ', 'RNZ']
+Reached ['HMZ'] by executing R at position 262 in 78 cycles
+Reached ['HMZ'] by executing R at position 262 in 157 cycles
+Reached ['HMZ'] by executing R at position 262 in 236 cycles
+Reached ['HMZ'] by executing R at position 262 in 315 cycles
+Reached ['HMZ'] by executing R at position 262 in 394 cycles
+Reached ['HMZ'] by executing R at position 262 in 473 cycles
+Reached ['HMZ'] by executing R at position 262 in 552 cycles
+Reached ['HMZ'] by executing R at position 262 in 631 cycles
+Reached ['HMZ'] by executing R at position 262 in 710 cycles
+Reached ['HMZ'] by executing R at position 262 in 789 cycles
+Reached ['HMZ'] by executing R at position 262 in 868 cycles
+Reached ['HMZ'] by executing R at position 262 in 947 cycles
+Reached ['HMZ'] by executing R at position 262 in 1026 cycles
+Reached ['HMZ'] by executing R at position 262 in 1105 cycles
+Reached ['HMZ'] by executing R at position 262 in 1184 cycles
+Reached ['HMZ'] by executing R at position 262 in 1263 cycles
+Reached ['HMZ'] by executing R at position 262 in 1342 cycles
+Reached ['HMZ'] by executing R at position 262 in 1421 cycles
+Reached ['HMZ'] by executing R at position 262 in 1500 cycles
+Reached ['HMZ'] by executing R at position 262 in 1579 cycles
+Reached ['HMZ'] by executing R at position 262 in 1658 cycles
+Reached ['HMZ'] by executing R at position 262 in 1737 cycles
+Reached ['HMZ'] by executing R at position 262 in 1816 cycles
+Reached ['HMZ'] by executing R at position 262 in 1895 cycles
+Reached ['HMZ'] by executing R at position 262 in 1974 cycles
+Reached ['HMZ'] by executing R at position 262 in 2053 cycles
+Reached ['HMZ'] by executing R at position 262 in 2132 cycles
+Reached ['HMZ'] by executing R at position 262 in 2211 cycles
+Reached ['HMZ'] by executing R at position 262 in 2290 cycles
+Reached ['HMZ'] by executing R at position 262 in 2369 cycles
+Reached ['HMZ'] by executing R at position 262 in 2448 cycles
+Reached ['HMZ'] by executing R at position 262 in 2527 cycles
+Reached ['HMZ'] by executing R at position 262 in 2606 cycles
+Reached ['HMZ'] by executing R at position 262 in 2685 cycles
+Reached ['HMZ'] by executing R at position 262 in 2764 cycles
+Reached ['HMZ'] by executing R at position 262 in 2843 cycles
+Reached ['HMZ'] by executing R at position 262 in 2922 cycles
+Reached ['HMZ'] by executing R at position 262 in 3001 cycles
+Reached ['HMZ'] by executing R at position 262 in 3080 cycles
+Reached ['HMZ'] by executing R at position 262 in 3159 cycles
+Reached ['HMZ'] by executing R at position 262 in 3238 cycles
+Reached ['HMZ'] by executing R at position 262 in 3317 cycles
+Reached ['HMZ'] by executing R at position 262 in 3396 cycles
+Reached ['HMZ'] by executing R at position 262 in 3475 cycles
+Reached ['HMZ'] by executing R at position 262 in 3554 cycles
+Reached ['HMZ'] by executing R at position 262 in 3633 cycles
+Reached ['HMZ'] by executing R at position 262 in 3712 cycles
+Reached ['HMZ'] by executing R at position 262 in 3791 cycles
+Reached ['HMZ'] by executing R at position 262 in 3870 cycles
+Reached ['HMZ'] by executing R at position 262 in 3949 cycles
+Reached ['HMZ'] by executing R at position 262 in 4028 cycles
+Reached ['HMZ'] by executing R at position 262 in 4107 cycles
+Reached ['HMZ'] by executing R at position 262 in 4186 cycles
+Reached ['HMZ'] by executing R at position 262 in 4265 cycles
+Reached ['HMZ'] by executing R at position 262 in 4344 cycles
+Reached ['HMZ'] by executing R at position 262 in 4423 cycles
+Reached ['HMZ'] by executing R at position 262 in 4502 cycles
+Reached ['HMZ'] by executing R at position 262 in 4581 cycles
+Reached ['HMZ'] by executing R at position 262 in 4660 cycles
+Reached ['HMZ'] by executing R at position 262 in 4739 cycles
+Reached ['HMZ'] by executing R at position 262 in 4818 cycles
+Reached ['HMZ'] by executing R at position 262 in 4897 cycles
+Reached ['HMZ'] by executing R at position 262 in 4976 cycles
+Reached ['HMZ'] by executing R at position 262 in 5055 cycles
+Reached ['HMZ'] by executing R at position 262 in 5134 cycles
+Reached ['HMZ'] by executing R at position 262 in 5213 cycles
+Reached ['HMZ'] by executing R at position 262 in 5292 cycles
+Reached ['HMZ'] by executing R at position 262 in 5371 cycles
+Reached ['HMZ'] by executing R at position 262 in 5450 cycles
+Reached ['HMZ'] by executing R at position 262 in 5529 cycles
+Reached ['HMZ'] by executing R at position 262 in 5608 cycles
+Reached ['HMZ'] by executing R at position 262 in 5687 cycles
+Reached ['HMZ'] by executing R at position 262 in 5766 cycles
+Reached ['HMZ'] by executing R at position 262 in 5845 cycles
+Reached ['HMZ'] by executing R at position 262 in 5924 cycles
+Reached ['HMZ'] by executing R at position 262 in 6003 cycles
+Reached ['HMZ'] by executing R at position 262 in 6082 cycles
+Reached ['HMZ'] by executing R at position 262 in 6161 cycles
+Reached ['HMZ'] by executing R at position 262 in 6240 cycles
+Reached ['HMZ'] by executing R at position 262 in 6319 cycles
+Reached ['HMZ'] by executing R at position 262 in 6398 cycles
+Reached ['HMZ'] by executing R at position 262 in 6477 cycles
+Reached ['HMZ'] by executing R at position 262 in 6556 cycles
+Reached ['HMZ'] by executing R at position 262 in 6635 cycles
+Reached ['HMZ'] by executing R at position 262 in 6714 cycles
+Reached ['HMZ'] by executing R at position 262 in 6793 cycles
+Reached ['HMZ'] by executing R at position 262 in 6872 cycles
+Reached ['HMZ'] by executing R at position 262 in 6951 cycles
+Reached ['HMZ'] by executing R at position 262 in 7030 cycles
+Reached ['HMZ'] by executing R at position 262 in 7109 cycles
+Reached ['HMZ'] by executing R at position 262 in 7188 cycles
+Reached ['HMZ'] by executing R at position 262 in 7267 cycles
+Reached ['HMZ'] by executing R at position 262 in 7346 cycles
+Reached ['HMZ'] by executing R at position 262 in 7425 cycles
+Reached ['HMZ'] by executing R at position 262 in 7504 cycles
+Reached ['HMZ'] by executing R at position 262 in 7583 cycles
+Reached ['HMZ'] by executing R at position 262 in 7662 cycles
+Reached ['HMZ'] by executing R at position 262 in 7741 cycles
+Reached ['HMZ'] by executing R at position 262 in 7820 cycles
+Reached ['HMZ'] by executing R at position 262 in 7899 cycles
+Reached ['HMZ'] by executing R at position 262 in 7978 cycles
+Reached ['HMZ'] by executing R at position 262 in 8057 cycles
+Reached ['HMZ'] by executing R at position 262 in 8136 cycles
+Reached ['HMZ'] by executing R at position 262 in 8215 cycles
+Reached ['HMZ'] by executing R at position 262 in 8294 cycles
+Reached ['HMZ'] by executing R at position 262 in 8373 cycles
+Reached ['HMZ'] by executing R at position 262 in 8452 cycles
+Reached ['HMZ'] by executing R at position 262 in 8531 cycles
+Reached ['HMZ'] by executing R at position 262 in 8610 cycles
+Reached ['HMZ'] by executing R at position 262 in 8689 cycles
+Reached ['HMZ'] by executing R at position 262 in 8768 cycles
+Reached ['HMZ'] by executing R at position 262 in 8847 cycles
+Reached ['HMZ'] by executing R at position 262 in 8926 cycles
+Reached ['HMZ'] by executing R at position 262 in 9005 cycles
+Reached ['HMZ'] by executing R at position 262 in 9084 cycles
+Reached ['HMZ'] by executing R at position 262 in 9163 cycles
+Reached ['HMZ'] by executing R at position 262 in 9242 cycles
+Reached ['HMZ'] by executing R at position 262 in 9321 cycles
+Reached ['HMZ'] by executing R at position 262 in 9400 cycles
+Reached ['HMZ'] by executing R at position 262 in 9479 cycles
+Reached ['HMZ'] by executing R at position 262 in 9558 cycles
+Reached ['HMZ'] by executing R at position 262 in 9637 cycles
+Reached ['HMZ'] by executing R at position 262 in 9716 cycles
+Reached ['HMZ'] by executing R at position 262 in 9795 cycles
+Reached ['HMZ'] by executing R at position 262 in 9874 cycles
+Reached ['HMZ'] by executing R at position 262 in 9953 cycles
+Entering cycle 10000
+Reached ['HMZ'] by executing R at position 262 in 10032 cycles
+Reached ['HMZ'] by executing R at position 262 in 10111 cycles
+Reached ['HMZ'] by executing R at position 262 in 10190 cycles
+Reached ['HMZ'] by executing R at position 262 in 10269 cycles
+Reached ['HMZ'] by executing R at position 262 in 10348 cycles
+Reached ['HMZ'] by executing R at position 262 in 10427 cycles
+Reached ['HMZ'] by executing R at position 262 in 10506 cycles
+Reached ['HMZ'] by executing R at position 262 in 10585 cycles
+Reached ['HMZ'] by executing R at position 262 in 10664 cycles
+Reached ['HMZ'] by executing R at position 262 in 10743 cycles
+Reached ['HMZ'] by executing R at position 262 in 10822 cycles
+Reached ['HMZ'] by executing R at position 262 in 10901 cycles
+Reached ['HMZ'] by executing R at position 262 in 10980 cycles
+Reached ['HMZ'] by executing R at position 262 in 11059 cycles
+Reached ['HMZ'] by executing R at position 262 in 11138 cycles
+Reached ['HMZ'] by executing R at position 262 in 11217 cycles
+Reached ['HMZ'] by executing R at position 262 in 11296 cycles
+Reached ['HMZ'] by executing R at position 262 in 11375 cycles
+Reached ['HMZ'] by executing R at position 262 in 11454 cycles
+Reached ['HMZ'] by executing R at position 262 in 11533 cycles
+Reached ['HMZ'] by executing R at position 262 in 11612 cycles
+Reached ['HMZ'] by executing R at position 262 in 11691 cycles
+Reached ['HMZ'] by executing R at position 262 in 11770 cycles
+Reached ['HMZ'] by executing R at position 262 in 11849 cycles
+Reached ['HMZ'] by executing R at position 262 in 11928 cycles
+Reached ['HMZ'] by executing R at position 262 in 12007 cycles
+Reached ['HMZ'] by executing R at position 262 in 12086 cycles
+Reached ['HMZ'] by executing R at position 262 in 12165 cycles
+Reached ['HMZ'] by executing R at position 262 in 12244 cycles
+Reached ['HMZ'] by executing R at position 262 in 12323 cycles
+Reached ['HMZ'] by executing R at position 262 in 12402 cycles
+Reached ['HMZ'] by executing R at position 262 in 12481 cycles
+Reached ['HMZ'] by executing R at position 262 in 12560 cycles
+Reached ['HMZ'] by executing R at position 262 in 12639 cycles
+Reached ['HMZ'] by executing R at position 262 in 12718 cycles
+Reached ['HMZ'] by executing R at position 262 in 12797 cycles
+Reached ['HMZ'] by executing R at position 262 in 12876 cycles
+Reached ['HMZ'] by executing R at position 262 in 12955 cycles
+Reached ['HMZ'] by executing R at position 262 in 13034 cycles
+Reached ['HMZ'] by executing R at position 262 in 13113 cycles
+Reached ['HMZ'] by executing R at position 262 in 13192 cycles
+Reached ['HMZ'] by executing R at position 262 in 13271 cycles
+Reached ['HMZ'] by executing R at position 262 in 13350 cycles
+Reached ['HMZ'] by executing R at position 262 in 13429 cycles
+Reached ['HMZ'] by executing R at position 262 in 13508 cycles
+Reached ['HMZ'] by executing R at position 262 in 13587 cycles
+Reached ['HMZ'] by executing R at position 262 in 13666 cycles
+Reached ['HMZ'] by executing R at position 262 in 13745 cycles
+Reached ['HMZ'] by executing R at position 262 in 13824 cycles
+Reached ['HMZ'] by executing R at position 262 in 13903 cycles
+Reached ['HMZ'] by executing R at position 262 in 13982 cycles
+Reached ['HMZ'] by executing R at position 262 in 14061 cycles
+Reached ['HMZ'] by executing R at position 262 in 14140 cycles
+Reached ['HMZ'] by executing R at position 262 in 14219 cycles
+Reached ['HMZ'] by executing R at position 262 in 14298 cycles
+Reached ['HMZ'] by executing R at position 262 in 14377 cycles
+Reached ['HMZ'] by executing R at position 262 in 14456 cycles
+Reached ['HMZ'] by executing R at position 262 in 14535 cycles
+Reached ['HMZ'] by executing R at position 262 in 14614 cycles
+Reached ['HMZ'] by executing R at position 262 in 14693 cycles
+Reached ['HMZ'] by executing R at position 262 in 14772 cycles
+Reached ['HMZ'] by executing R at position 262 in 14851 cycles
+Reached ['HMZ'] by executing R at position 262 in 14930 cycles
+Reached ['HMZ'] by executing R at position 262 in 15009 cycles
+Reached ['HMZ'] by executing R at position 262 in 15088 cycles
+Reached ['HMZ'] by executing R at position 262 in 15167 cycles
+Reached ['HMZ'] by executing R at position 262 in 15246 cycles
+Reached ['HMZ'] by executing R at position 262 in 15325 cycles
+Reached ['HMZ'] by executing R at position 262 in 15404 cycles
+Reached ['HMZ'] by executing R at position 262 in 15483 cycles
+Reached ['HMZ'] by executing R at position 262 in 15562 cycles
+Reached ['HMZ'] by executing R at position 262 in 15641 cycles
+Reached ['HMZ'] by executing R at position 262 in 15720 cycles
+Reached ['HMZ'] by executing R at position 262 in 15799 cycles
+Reached ['HMZ'] by executing R at position 262 in 15878 cycles
+Reached ['HMZ'] by executing R at position 262 in 15957 cycles
+Reached ['HMZ'] by executing R at position 262 in 16036 cycles
+Reached ['HMZ'] by executing R at position 262 in 16115 cycles
+Reached ['HMZ'] by executing R at position 262 in 16194 cycles
+Reached ['HMZ'] by executing R at position 262 in 16273 cycles
+Reached ['HMZ'] by executing R at position 262 in 16352 cycles
+Reached ['HMZ'] by executing R at position 262 in 16431 cycles
+Reached ['HMZ'] by executing R at position 262 in 16510 cycles
+Reached ['HMZ'] by executing R at position 262 in 16589 cycles
+Reached ['HMZ'] by executing R at position 262 in 16668 cycles
+Reached ['HMZ'] by executing R at position 262 in 16747 cycles
+Reached ['HMZ'] by executing R at position 262 in 16826 cycles
+Reached ['HMZ'] by executing R at position 262 in 16905 cycles
+Reached ['HMZ'] by executing R at position 262 in 16984 cycles
+Reached ['HMZ'] by executing R at position 262 in 17063 cycles
+Reached ['HMZ'] by executing R at position 262 in 17142 cycles
+Reached ['HMZ'] by executing R at position 262 in 17221 cycles
+Reached ['HMZ'] by executing R at position 262 in 17300 cycles
+Reached ['HMZ'] by executing R at position 262 in 17379 cycles
+Reached ['HMZ'] by executing R at position 262 in 17458 cycles
+Reached ['HMZ'] by executing R at position 262 in 17537 cycles
+Reached ['HMZ'] by executing R at position 262 in 17616 cycles
+Reached ['HMZ'] by executing R at position 262 in 17695 cycles
+Reached ['HMZ'] by executing R at position 262 in 17774 cycles
+Reached ['HMZ'] by executing R at position 262 in 17853 cycles
+Reached ['HMZ'] by executing R at position 262 in 17932 cycles
+Reached ['HMZ'] by executing R at position 262 in 18011 cycles
+Reached ['HMZ'] by executing R at position 262 in 18090 cycles
+Reached ['HMZ'] by executing R at position 262 in 18169 cycles
+Reached ['HMZ'] by executing R at position 262 in 18248 cycles
+Reached ['HMZ'] by executing R at position 262 in 18327 cycles
+Reached ['HMZ'] by executing R at position 262 in 18406 cycles
+Reached ['HMZ'] by executing R at position 262 in 18485 cycles
+Reached ['HMZ'] by executing R at position 262 in 18564 cycles
+Reached ['HMZ'] by executing R at position 262 in 18643 cycles
+Reached ['HMZ'] by executing R at position 262 in 18722 cycles
+Reached ['HMZ'] by executing R at position 262 in 18801 cycles
+Reached ['HMZ'] by executing R at position 262 in 18880 cycles
+Reached ['HMZ'] by executing R at position 262 in 18959 cycles
+Reached ['HMZ'] by executing R at position 262 in 19038 cycles
+Reached ['HMZ'] by executing R at position 262 in 19117 cycles
+Reached ['HMZ'] by executing R at position 262 in 19196 cycles
+Reached ['HMZ'] by executing R at position 262 in 19275 cycles
+Reached ['HMZ'] by executing R at position 262 in 19354 cycles
+Reached ['HMZ'] by executing R at position 262 in 19433 cycles
+Reached ['HMZ'] by executing R at position 262 in 19512 cycles
+Reached ['HMZ'] by executing R at position 262 in 19591 cycles
+Reached ['HMZ'] by executing R at position 262 in 19670 cycles
+Reached ['HMZ'] by executing R at position 262 in 19749 cycles
+Reached ['HMZ'] by executing R at position 262 in 19828 cycles
+Reached ['HMZ'] by executing R at position 262 in 19907 cycles
+Reached ['HMZ'] by executing R at position 262 in 19986 cycles
+Entering cycle 20000
+Reached ['HMZ'] by executing R at position 262 in 20065 cycles
+Reached ['HMZ'] by executing R at position 262 in 20144 cycles
+Reached ['HMZ'] by executing R at position 262 in 20223 cycles
+Reached ['HMZ'] by executing R at position 262 in 20302 cycles
+Reached ['HMZ'] by executing R at position 262 in 20381 cycles
+Reached ['HMZ'] by executing R at position 262 in 20460 cycles
+Reached ['HMZ'] by executing R at position 262 in 20539 cycles
+Reached ['HMZ'] by executing R at position 262 in 20618 cycles
+Reached ['HMZ'] by executing R at position 262 in 20697 cycles
+Reached ['HMZ'] by executing R at position 262 in 20776 cycles
+Reached ['HMZ'] by executing R at position 262 in 20855 cycles
+Reached ['HMZ'] by executing R at position 262 in 20934 cycles
+Reached ['HMZ'] by executing R at position 262 in 21013 cycles
+Reached ['HMZ'] by executing R at position 262 in 21092 cycles
+Reached ['HMZ'] by executing R at position 262 in 21171 cycles
+Reached ['HMZ'] by executing R at position 262 in 21250 cycles
+Reached ['HMZ'] by executing R at position 262 in 21329 cycles
+Reached ['HMZ'] by executing R at position 262 in 21408 cycles
+Reached ['HMZ'] by executing R at position 262 in 21487 cycles
+Reached ['HMZ'] by executing R at position 262 in 21566 cycles
+Reached ['HMZ'] by executing R at position 262 in 21645 cycles
+Reached ['HMZ'] by executing R at position 262 in 21724 cycles
+Reached ['HMZ'] by executing R at position 262 in 21803 cycles
+Reached ['HMZ'] by executing R at position 262 in 21882 cycles
+Reached ['HMZ'] by executing R at position 262 in 21961 cycles
+Reached ['HMZ'] by executing R at position 262 in 22040 cycles
+Reached ['HMZ'] by executing R at position 262 in 22119 cycles
+Reached ['HMZ'] by executing R at position 262 in 22198 cycles
+Reached ['HMZ'] by executing R at position 262 in 22277 cycles
+Reached ['HMZ'] by executing R at position 262 in 22356 cycles
+Reached ['HMZ'] by executing R at position 262 in 22435 cycles
+Reached ['HMZ'] by executing R at position 262 in 22514 cycles
+Reached ['HMZ'] by executing R at position 262 in 22593 cycles
+Reached ['HMZ'] by executing R at position 262 in 22672 cycles
+Reached ['HMZ'] by executing R at position 262 in 22751 cycles
+Reached ['HMZ'] by executing R at position 262 in 22830 cycles
